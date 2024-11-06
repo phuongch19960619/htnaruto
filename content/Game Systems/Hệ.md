@@ -9,4 +9,4 @@ tags:
 5. Thông Minh
 6. Minh Mẫn
 
-![[Pasted image 20241106163303.png]]
+![[20241106163303.png]]
