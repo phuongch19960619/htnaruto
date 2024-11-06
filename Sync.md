@@ -1,0 +1,20 @@
+
+**folder**
+htnaruto
+
+host trên git, dùng quartz project
+
+```
+npx quartz sync
+```
+
+**Link:** https://bigtoeprj.github.io/htnaruto
+
+```
+---
+title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+draft: false
+tags:
+  - 
+---
+```
