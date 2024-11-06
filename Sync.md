@@ -3,6 +3,9 @@
 htnaruto
 
 host trên git, dùng quartz project
+```
+cd htnaruto
+```
 
 ```
 npx quartz sync
