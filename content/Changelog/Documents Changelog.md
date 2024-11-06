@@ -6,11 +6,12 @@ tags:
 | Detail                  | PiC       |
 | ----------------------- | --------- |
 | Tạo doc [[Events List]] | [[Dương]] |
+| Update Database         | [[Tiến]]  |
 | Tạo trang mới           | [[Tiến]]  |
 
 # 5 Nov 2024
 
-| Detail        | PiC       |
-| ------------- | --------- |
-| Tạo doc event | [[Dương]] |
-| Tạo trang mới | [[Tiến]]  |
+| Detail      | PiC      |
+| ----------- | -------- |
+| Battle Docs | [[Tiến]] |
+
