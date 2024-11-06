@@ -1,4 +1,6 @@
 ---
 tags:
 ---
-Trang này chưa cập nhật
+**Role**: Game Design.
+**Mail**: tiennt@funtap.vn
+**Telegram**: @tiennt_gnl
