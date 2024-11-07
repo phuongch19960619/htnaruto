@@ -23,7 +23,9 @@ NARUTO X BORUTO NINJA VOLTAGE
 Giống như các thần thú, tất cả nhân vật ở dạng cuối cùng đều có thể gọi ra thần chủ của riêng mình (chỉ SS). 
 ![[20241107140545.png]]
 ![[20241107140646.png]]
-Xuất hiện mỗi lúc tung SS, có thể làm thần chủ hơi hòa trộn với nhân vật giống trạng thái hóa vĩ thú. 
+[Reference](https://www.youtube.com/watch?v=lE6_mSOrJAg)
+
+Xuất hiện mỗi lúc tung SS, có thể làm thần chủ hơi hòa trộn với nhân vật **giống trạng thái hóa vĩ thú**. 
 ![[20241107141203.png]]
 ![[20241107141334.png]]
 # Pet bay quanh
@@ -43,3 +45,7 @@ Các loại chất liệu làm cánh có thể kể đến: xương, giấy, tó
 ![[20241107142618.png]]![[20241107142648.png]]
 ![[20241107142710.png]]
 ![[20241107142931.png]]
+
+# Mix nhân vật lại
+Mix 2 nhân vật lại với nhau. VD: Naruto x Sasuke 
+![[20241107144525.png]]

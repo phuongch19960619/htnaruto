@@ -3,9 +3,10 @@ tags:
 ---
 # 7 Nov 2024
 
-| Detail | PiC |
-| ------ | --- |
-|        |     |
+| Detail               | PiC        |
+| -------------------- | ---------- |
+| [[Concept Sáng Tạo]] | [[Tiến]]   |
+| [[Characters List]]  | [[Phương]] |
 
 
 
@@ -22,8 +23,8 @@ tags:
 | --------------------- | -------- |
 | [[Battle System]]     | [[Tiến]] |
 | [[Character]]         | [[Tiến]] |
-| [[Characters Class]]  | [[Tiến]] |
-| [[Characters Stats]]  | [[Tiến]] |
+| [[Tộc]]  | [[Tiến]] |
+| [[Stats]]  | [[Tiến]] |
 | [[Hệ]]                | [[Tiến]] |
 | [[Hiệu Ứng Battle]]   | [[Tiến]] |
 | [[Hiệu Ứng Đội Hình]] | [[Tiến]] |
