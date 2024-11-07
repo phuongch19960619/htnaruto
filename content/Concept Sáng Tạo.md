@@ -28,8 +28,18 @@ Xuất hiện mỗi lúc tung SS, có thể làm thần chủ hơi hòa trộn v
 ![[20241107141334.png]]
 # Pet bay quanh
 Game HTHT có pet nhưng không thể hiện pet bay xung quanh. Nếu nhân vật trang bị pet lên người, trong battle sẽ thấy con pet bay quanh nhân vật đó.
-
+Concept này đơn giản, dễ làm.
 
 # Modern Style
 Các nhân vật sẽ được cách tân lại quần áo, mang lại hơi hướng đường phố, hiện đại.
+Có thể kết hợp Midjouney để ra nhiều phong cách mới nhưng phải vẽ lại nhiều. 
 ![[20241107141923.png]]
+
+# Cánh
+Nhân vật có dạng mọc cánh, 1 cánh hoặc 2 cánh. 
+Không giới hạn chất liệu làm cánh. Nhưng an toàn và phù hợp nhất có thể làm giống cánh Chouji (dùng hiệu ứng).
+Các loại chất liệu làm cánh có thể kể đến: xương, giấy, tóc, bọ, nguyên tố, kim loại,...
+![[20241107142532.png]]
+![[20241107142618.png]]![[20241107142648.png]]
+![[20241107142710.png]]
+![[20241107142931.png]]
