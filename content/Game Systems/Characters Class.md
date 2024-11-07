@@ -1,5 +1,7 @@
 ---
 tags:
+  - character
+  - class
 ---
 5 lớp [[Character]] trong game: kiếm sĩ, hỗ trợ, đấu sĩ, xạ thủ và chỉ huy. 
 Các lớp nhân vật này chỉ khác nhau ở stats.

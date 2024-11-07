@@ -1,6 +1,8 @@
 ---
 tags:
   - effect
+  - type
+  - "#class"
 ---
 **Hiệu ứng đội hình:** 
 Thiết lập các thành viên cùng hệ trong đội hình để kích hoạt hiệu ứng:

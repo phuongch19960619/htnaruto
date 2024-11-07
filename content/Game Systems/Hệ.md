@@ -1,5 +1,7 @@
 ---
 tags:
+  - character
+  - "#type"
 ---
 [[Character]] trong game chia làm 6 Hệ:
 1. Nhanh Nhẹn

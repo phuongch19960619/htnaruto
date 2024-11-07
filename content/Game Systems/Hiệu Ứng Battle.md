@@ -1,6 +1,7 @@
 ---
 tags:
   - "#effect"
+  - type
 ---
 # Tăng
 

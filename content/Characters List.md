@@ -1,3 +1,7 @@
+---
+tags:
+  - character
+---
 Danh sách [[Character]] trong game
 
 | STT | HTHT Character | S1  | P1  | P2  | P3  | Character  | Rank |

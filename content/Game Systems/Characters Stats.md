@@ -1,5 +1,6 @@
 ---
 tags:
+  - character
 ---
 # Công
 Là chỉ số sát thương của [[Character]].

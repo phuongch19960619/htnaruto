@@ -2,4 +2,4 @@
 tags:
 ---
 
-[[Events List]]
+[[Events List]] 
