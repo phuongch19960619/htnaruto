@@ -2,7 +2,34 @@
 tags:
   - "#concept"
 ---
+# Biến hóa giữa 2 dạng
+Nhân vật khi tấn công sẽ hóa thành dạng mới.
+![[2dangbienhoa.mp4]]
 # Mask Aura
 Nhân vật có Aura dưới chân, đồng thời ở mặt cũng có aura. 
 ![[1107.mp4]]
+Kích hoạt khi nhân vật đầy nộ.
 
+# Coat - Áo choàng
+Lấy ý tưởng từ trạng thái Baryon. Mỗi nhân vật SS sẽ có một chiếc áo choàng cực ngầu. Đồng điệu với nhân vật. 
+Áo choàng có thể làm từ bất kì chất liệu gì - charka, lân tinh, vải, máu, sấm sét...
+![[20241107135418.png]]
+Các example khác. 
+![[20241107135731.png]]
+![[20241107140158.png]]
+NARUTO X BORUTO NINJA VOLTAGE
+
+# Gọi Thần
+Giống như các thần thú, tất cả nhân vật ở dạng cuối cùng đều có thể gọi ra thần chủ của riêng mình (chỉ SS). 
+![[20241107140545.png]]
+![[20241107140646.png]]
+Xuất hiện mỗi lúc tung SS, có thể làm thần chủ hơi hòa trộn với nhân vật giống trạng thái hóa vĩ thú. 
+![[20241107141203.png]]
+![[20241107141334.png]]
+# Pet bay quanh
+Game HTHT có pet nhưng không thể hiện pet bay xung quanh. Nếu nhân vật trang bị pet lên người, trong battle sẽ thấy con pet bay quanh nhân vật đó.
+
+
+# Modern Style
+Các nhân vật sẽ được cách tân lại quần áo, mang lại hơi hướng đường phố, hiện đại.
+![[20241107141923.png]]
