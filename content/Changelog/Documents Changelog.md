@@ -1,14 +1,30 @@
 ---
 tags:
 ---
+
+# 12 Nov 2024
+
+| Detail               | PiC        |
+| -------------------- | ---------- |
+
+# 11 Nov 2024
+
+| Detail               | PiC        |
+| -------------------- | ---------- |
+
+# 8 Nov 2024
+
+| Detail                                         | PiC      |
+| ---------------------------------------------- | -------- |
+| Danh sách 18 SS trong game [[Characters List]] | [[Tiến]] |
+
+
 # 7 Nov 2024
 
 | Detail               | PiC        |
 | -------------------- | ---------- |
 | [[Concept Sáng Tạo]] | [[Tiến]]   |
 | [[Characters List]]  | [[Phương]] |
-
-
 
 # 6 Nov 2024
 
