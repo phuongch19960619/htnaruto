@@ -6,7 +6,7 @@ Danh sách [[Character]] trong game: [Link](https://docs.google.com/spreadsheets
 
 | STT | Tên             | Phẩm | Tộc     | Hệ    | Tương ứng với                     |
 | --- | --------------- | ---- | ------- | ----- | --------------------------------- |
-| 1   | Zephyr          | SS   | Hỗ Trợ  | Kim   | Obito - Lục đạo                   |
+| 1   | Zephyr          | SS   | Hỗ Trợ  | Kim   | [[Obito - Lục đạo]]               |
 | 3   | Suối Wano       | SS   | Kiếm Sĩ | Kim   | Gai - Bát môn độn giáp            |
 | 12  | Sabo            | SS   | Xạ Thủ  | Kim   | Gaara - Kage                      |
 | 16  | Carot Sulong    | SS   | Đấu Sĩ  | Phong | Naruto - Jinchuriki Cửu vĩ        |
