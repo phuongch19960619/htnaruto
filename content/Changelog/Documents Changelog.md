@@ -14,10 +14,9 @@ tags:
 
 # 8 Nov 2024
 
-| Detail                                         | PiC      |
-| ---------------------------------------------- | -------- |
-| Danh sách 18 SS trong game [[Characters List]] | [[Tiến]] |
-
+| Detail                                         | PiC                           |
+| ---------------------------------------------- | ----------------------------- |
+| Danh sách 18 SS trong game [[Characters List]] | [[Tiến]] [[Phương]] [[Dương]] |
 
 # 7 Nov 2024
 
