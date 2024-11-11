@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - system
 ---
 # Ingame Narrative
 **Ingame Narrative**: pannel 2 bên nói chuyện với nhau, auto next pannel mỗi 3s.

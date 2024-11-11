@@ -6,9 +6,9 @@ Danh sách [[Heroes System]] trong game: [Link](https://docs.google.com/spreadsh
 
 | STT | Tên             | Phẩm | Tộc     | Hệ    | Tương ứng với                     |
 | --- | --------------- | ---- | ------- | ----- | --------------------------------- |
-| 1   | Zephyr          | SS   | Hỗ Trợ  | Kim   | [[Obito - Lục đạo]]               |
-| 3   | Suối Wano       | SS   | Kiếm Sĩ | Kim   | Gai - Bát môn độn giáp            |
-| 12  | Sabo            | SS   | Xạ Thủ  | Kim   | Gaara - Kage                      |
+| 1   | Zephyr          | SS   | Hỗ Trợ  | Đá    | [[Obito - Lục đạo]]               |
+| 3   | Suối Wano       | SS   | Kiếm Sĩ | Đá    | Gai - Bát môn độn giáp            |
+| 12  | Sabo            | SS   | Xạ Thủ  | Đá    | Gaara - Kage                      |
 | 16  | Carot Sulong    | SS   | Đấu Sĩ  | Phong | Naruto - Jinchuriki Cửu vĩ        |
 | 17  | Kozuki Hiyori   | SS   | Hỗ Trợ  | Phong | Orochimaru - Ninja World          |
 | 20  | Law Wano        | SS   | Kiếm Sĩ | Phong | Minato - Jinchuriki               |
@@ -18,9 +18,9 @@ Danh sách [[Heroes System]] trong game: [Link](https://docs.google.com/spreadsh
 | 45  | Rob Lucci       | SS   | Chỉ Huy | Hỏa   | Madara - Susanoo                  |
 | 46  | Sugar           | SS   | Xạ Thủ  | Hỏa   | Itachi - chuyển sinh              |
 | 50  | Kid Wano        | SS   | Đấu Sĩ  | Hỏa   | Jiraiya - Tiên nhân cóc           |
-| 59  | Yonko Shanks    | SS   | Kiếm Sĩ | Quang | Tsunade - Hokage                  |
-| 61  | Bigmom Tân Niên | SS   | Chỉ huy | Quang | Hashirama - Long nhân             |
-| 64  | Sanji Hắc Ấn    | SS   | Xạ Thủ  | Quang | Kakashi - Hokage - Susanoo        |
+| 59  | Yonko Shanks    | SS   | Kiếm Sĩ | Lôi   | Tsunade - Hokage                  |
+| 61  | Bigmom Tân Niên | SS   | Chỉ huy | Lôi   | Hashirama - Long nhân             |
+| 64  | Sanji Hắc Ấn    | SS   | Xạ Thủ  | Lôi   | Kakashi - Hokage - Susanoo        |
 | 78  | Shiki           | SS   | kiếm Sĩ | Ám    | Sasuke - Susanoo                  |
 | 84  | luffy SM        | SS   | Xạ Thủ  | Ám    | Naruto - nửa vĩ thú               |
 | 88  | Big mom         | SS   | Hỗ Trợ  | Ám    | Pain - Akatsuki                   |

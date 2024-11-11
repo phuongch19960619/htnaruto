@@ -1,5 +1,6 @@
 ---
 tags:
+  - system
 ---
 
 | Tài liệu                      | Link                                                                                                                                                                                           | Note                           |

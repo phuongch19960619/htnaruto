@@ -1,6 +1,7 @@
 ---
 tags:
   - event
+  - system
 ---
 
 Event Tuần
