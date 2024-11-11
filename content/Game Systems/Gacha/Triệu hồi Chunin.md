@@ -2,7 +2,7 @@
 tags:
   - gacha
 ---
-![[Pasted image 20241111151031.png]]
+![[20241111151031.png]]
 Mỗi lần triệu hồi Chunin sẽ đạt được [[Điểm Tích Lũy]]. 
 # Tỉ lệ ra tướng Triệu hồi Chunin
 - Không có bảo hiểm ra tướng xịn

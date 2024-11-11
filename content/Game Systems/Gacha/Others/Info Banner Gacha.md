@@ -4,4 +4,4 @@ tags:
 ---
 Dạng [[Floating Thông Báo]], hiển thị tỉ lệ chiêu mộ Ninja. 
 Thay từ Hải tặc trong hình thành Ninja.
-![[Pasted image 20241111150210.png]]
+![[20241111150210.png]]

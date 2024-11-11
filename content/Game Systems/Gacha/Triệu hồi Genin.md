@@ -2,7 +2,7 @@
 tags:
   - gacha
 ---
-![[Pasted image 20241111151041.png]]
+![[20241111151041.png]]
 Sử dụng vé ??? để triệu hồi.
 Khi hết vé [[Floating Thông Báo]]: “Không đủ nguyên liệu”.
 # Tỉ lệ ra tướng Triệu hồi Genin

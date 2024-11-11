@@ -2,7 +2,7 @@
 tags:
   - gacha
 ---
-![[Pasted image 20241111143101.png]]
+![[20241111143101.png]]
 # Triệu Hồi Đặc Biệt
 Chọn hệ mong muốn để tiến hành triệu hồi
 Mỗi lần triệu hồi có tỉ lệ được tướng hệ Hiếm (Lôi & Ám) và nhận thêm Thuốc Hoán Đổi.
