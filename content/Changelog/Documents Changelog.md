@@ -9,10 +9,10 @@ tags:
 
 # 11 Nov 2024
 
-| Detail                     | PiC      |
-| -------------------------- | -------- |
-| Lên list tính năng bản 0.1 | [[Tiến]] |
-|                            |          |
+| Detail                     | PiC       |
+| -------------------------- | --------- |
+| Lên list tính năng bản 0.1 | [[Tiến]]  |
+| [[Gacha System]]           | [[Dương]] |
 
 # 8 Nov 2024
 
