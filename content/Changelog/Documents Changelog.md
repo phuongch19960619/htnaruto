@@ -14,7 +14,7 @@ tags:
 | Lên list tính năng bản 0.1          | [[Tiến]]           |
 | [[Gacha System]]                    | [[Dương]] [[Tiến]] |
 | [[Hệ]]: Đổi Quang -> Lôi, Kim -> Đá | [[Tiến]]           |
-
+| [[Stats]]: Tính toán về chỉ số      | [[Phương]]         |
 
 # 8 Nov 2024
 

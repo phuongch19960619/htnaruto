@@ -51,5 +51,7 @@ VD: Giảm sát thương là 10%. Sau khi trừ thủ là 500 sát thương, nh�
 **Sát thương chuẩn** thì bỏ qua phòng thủ và giảm sát thương.
 VD: sát thương chuẩn là 5% thì 5% Công sẽ bỏ qua phòng thủ và giảm sát thương.
 
-# Một số thí dụ tính toán về chỉ số
-{Bổ sung sau}
+# Tính toán về chỉ số
+1. Trong 1 skill: các effect(buff, debuff) được thực hiện trước khi tấn công
+2. Các chỉ số trái ngược theo %(ví dụ: chặn/chính xác, kháng hiệu ứng/miễn chống  được  tính toán + và - số %
+3. Các từ "sát thương" trong mô tả skill được hiểu là sát thương cuối
