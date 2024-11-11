@@ -1,9 +1,9 @@
 ---
 tags:
-  - character
+  - hero
 ---
 # Công
-Là chỉ số sát thương của [[Character]].
+Là chỉ số sát thương của [[Heroes System]].
 Sát thương gây ra = **Sát thương lý thuyết** - **Phòng thủ lý thuyết** - **Giảm sát thương**
 Với đòn đánh thường, **Sát thương lý thuyết** là Công * Buff. 
 Với đòn đánh kĩ năng, Sát thương lý thuyết sẽ tính theo %Công. VD: 150% Công. 

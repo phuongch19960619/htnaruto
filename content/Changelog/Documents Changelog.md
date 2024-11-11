@@ -37,7 +37,7 @@ tags:
 | Detail                | PiC      |
 | --------------------- | -------- |
 | [[Battle System]]     | [[Tiến]] |
-| [[Character]]         | [[Tiến]] |
+| [[Heroes System]]         | [[Tiến]] |
 | [[Tộc]]  | [[Tiến]] |
 | [[Stats]]  | [[Tiến]] |
 | [[Hệ]]                | [[Tiến]] |

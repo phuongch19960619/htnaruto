@@ -2,7 +2,7 @@
 tags:
   - character
 ---
-Danh sách [[Character]] trong game: [Link](https://docs.google.com/spreadsheets/d/13-dDhsbWGjdCDmsFKxnWTbNdoPSPewMwmUT6DDKkag4/edit?gid=478694351#gid=478694351)
+Danh sách [[Heroes System]] trong game: [Link](https://docs.google.com/spreadsheets/d/13-dDhsbWGjdCDmsFKxnWTbNdoPSPewMwmUT6DDKkag4/edit?gid=478694351#gid=478694351)
 
 | STT | Tên             | Phẩm | Tộc     | Hệ    | Tương ứng với                     |
 | --- | --------------- | ---- | ------- | ----- | --------------------------------- |

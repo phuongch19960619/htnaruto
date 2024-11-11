@@ -1,9 +1,9 @@
 ---
 tags:
-  - character
+  - hero
   - class
 ---
-5 lớp [[Character]] trong game: kiếm sĩ, hỗ trợ, đấu sĩ, xạ thủ và chỉ huy. 
+5 lớp [[Heroes System]] trong game: kiếm sĩ, hỗ trợ, đấu sĩ, xạ thủ và chỉ huy. 
 Các lớp nhân vật này chỉ khác nhau ở stats.
 
 **Chỉ Huy**

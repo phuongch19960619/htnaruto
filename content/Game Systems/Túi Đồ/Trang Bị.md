@@ -1,0 +1,5 @@
+---
+tags:
+  - tuido
+---
+Trang bị

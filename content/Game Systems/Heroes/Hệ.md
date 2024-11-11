@@ -1,9 +1,9 @@
 ---
 tags:
-  - character
+  - hero
   - "#type"
 ---
-[[Character]] trong game chia làm 6 Hệ:
+[[Heroes System]] trong game chia làm 6 Hệ:
 1. Nhanh Nhẹn
 2. Bền Bỉ
 3. Chính Xác
