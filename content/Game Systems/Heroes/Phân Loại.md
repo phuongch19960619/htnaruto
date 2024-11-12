@@ -1,5 +1,5 @@
 ---
 tags:
-  - battle
+  - hero
 ---
 Battle Phân Loại (phẩm)

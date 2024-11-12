@@ -4,8 +4,10 @@ tags:
 
 # 12 Nov 2024
 
-| Detail | PiC |
-| ------ | --- |
+| Detail            | PiC      |
+| ----------------- | -------- |
+| [[Battle System]] | [[Tiến]] |
+|                   |          |
 
 # 11 Nov 2024
 
