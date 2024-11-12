@@ -3,6 +3,7 @@ tags:
   - "#effect"
   - type
 ---
+Đây là các hiệu ứng hiển thị thành Icon trên đầu nhân vật.
 # Tăng
 
 | Tăng x% giáp       | Tăng x% miễn chống          | Tăng x% chính xác          |
