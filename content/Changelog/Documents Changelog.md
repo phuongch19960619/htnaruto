@@ -2,12 +2,26 @@
 tags:
 ---
 
+# 14 Nov 2024
+
+| Detail               | PiC       |
+| -------------------- | --------- |
+
+
+# 13 Nov 2024
+
+| Detail                              | PiC      |
+| ----------------------------------- | -------- |
+| Bổ sung detail [[Thám Hiểm System]] | [[Tiến]] |
+| Bổ sung detail [[Shop System]]      | [[Tiến]] |
+
 # 12 Nov 2024
 
-| Detail            | PiC      |
-| ----------------- | -------- |
-| [[Battle System]] | [[Tiến]] |
-|                   |          |
+| Detail               | PiC       |
+| -------------------- | --------- |
+| [[Battle System]]    | [[Tiến]]  |
+| [[Thám Hiểm System]] | [[Dương]] |
+| [[Shop System]]      | [[Dương]] |
 
 # 11 Nov 2024
 
