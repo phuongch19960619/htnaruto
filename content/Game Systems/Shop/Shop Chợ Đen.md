@@ -3,7 +3,7 @@ tags:
   - shop
 ---
 Thuộc nhóm [[Shop System]]. Đây là nơi để người chơi mua hàng.
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfyU7GGvNPG7ajm_mwlgRlyt6ZBYjPU712epwcPkTSoJLI47z1oFuUv3jk3o5hErl02LbiY3SJKbDbEHjP7_HIbfV-7c_4KU-vIimoSFYvTnt00KqjV70EsJyNWdcTAoVs6p8EKkw?key=Gxvn3Ruef6BJzSCc_lL8B4tH)
+![[20241113153433.png]]
 
 | ID  | Giải nghĩa                                           |
 | --- | ---------------------------------------------------- |

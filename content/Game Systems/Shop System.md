@@ -11,4 +11,9 @@ Docs Balance gốc: Link
 Từ UI Chính, chọn tính năng Cửa Hàng
 ![[20241113120401.png]]
 # Danh Sách Tính Năng
-[[Chợ Đen]]
+[[Shop Chợ Đen]]
+[[Shop Đấu Trường]]
+# Log cần bổ sung
+- Số item mua và số lần mua
+# Config
+- Item và Giá Item
