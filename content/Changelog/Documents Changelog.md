@@ -14,6 +14,7 @@ tags:
 | ----------------------------------- | -------- |
 | Bổ sung detail [[Thám Hiểm System]] | [[Tiến]] |
 | Bổ sung detail [[Shop System]]      | [[Tiến]] |
+| Bổ sung detail [[Phụ Bản System]]   | [[Tiến]] |
 
 # 12 Nov 2024
 
@@ -22,6 +23,7 @@ tags:
 | [[Battle System]]    | [[Tiến]]  |
 | [[Thám Hiểm System]] | [[Dương]] |
 | [[Shop System]]      | [[Dương]] |
+| [[Phụ Bản System]]   | [[Dương]] |
 
 # 11 Nov 2024
 
