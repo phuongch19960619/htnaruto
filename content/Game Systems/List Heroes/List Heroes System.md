@@ -4,7 +4,7 @@ tags:
   - system
 ---
 Từ màn hình Menu, vào danh sách Ninja qua Button.
-![[Pasted image 20241113171116.png]]
+![[20241113171116.png]]
 
 Danh sách Ninja. Mặc định sắp xếp từ trái sang phải, từ trên xuống dưới.
 1. Ưu tiên số sao. Cao hơn xếp trước.

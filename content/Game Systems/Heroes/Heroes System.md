@@ -4,11 +4,11 @@ tags:
   - system
 ---
 Từ màn hình Menu, vào danh sách Ninja qua Button.
-![[Pasted image 20241113171116.png]]
+![[20241113171116.png]]
 Bấm vào một hình ảnh Ninja bất kì để vào màn hình nâng cấp.
-![[Pasted image 20241113171241.png]]
+![[20241113171241.png]]
 
-![[Pasted image 20241113172436.png]]
+![[20241113172436.png]]
 
 | ID  | Detail                                                     |
 | --- | ---------------------------------------------------------- |
@@ -35,16 +35,16 @@ Bấm vào một hình ảnh Ninja bất kì để vào màn hình nâng cấp.
 | 21  | Hệ thống Pet                                               |
 
 
-![[Pasted image 20241113171947.png]]
+![[20241113171947.png]]
 
-![[Pasted image 20241113172009.png]]
+![[20241113172009.png]]
 
-![[Pasted image 20241113171930.png]]
+![[20241113171930.png]]
 
-![[Pasted image 20241113172038.png]]
+![[20241113172038.png]]
 
-![[Pasted image 20241113172051.png]]
+![[20241113172051.png]]
 
-![[Pasted image 20241113172116.png]]
+![[20241113172116.png]]
 
-![[Pasted image 20241113172150.png]]
+![[20241113172150.png]]

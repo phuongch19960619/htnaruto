@@ -14,6 +14,6 @@ Trừ một số trường hợp đặc biệt như Lính Chì sẽ có ưu tiê
 | 4                | 4        |
 | 5                | 5        |
 | 6                | 6        |
-![[Pasted image 20241113175326.png]]
+![[20241113175326.png]]
 
-![[Pasted image 20241113175313.png]]
+![[20241113175313.png]]

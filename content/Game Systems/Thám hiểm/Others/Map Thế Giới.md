@@ -9,3 +9,4 @@ Là một khu vực dạng scroll ngang, thể hiện toàn bộ các [[Địa �
 - Mỗi Địa Điểm Thám Hiểm sẽ có tên riêng.
 - Mỗi Địa Điểm Thám Hiểm sẽ có 10 ải: x-1 … x-10.
 - Danh sách Map và tên | File Balance
+
