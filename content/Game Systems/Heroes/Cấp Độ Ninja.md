@@ -1,10 +1,8 @@
 ---
 tags:
   - hero
-  - class
 ---
-Có 6 phẩm của Ninja, phẩm tăng lên sẽ tăng giới hạn [[Cấp Độ Ninja]].
-Trừ một số trường hợp đặc biệt như Lính Chì sẽ có ưu tiên khác.
+Người chơi trả Vàng và Đá EXP để nâng cấp nhân vật.
 
 | Số sao của Ninja | Phẩm max |
 | ---------------- | -------- |
@@ -23,6 +21,4 @@ Trừ một số trường hợp đặc biệt như Lính Chì sẽ có ưu tiê
 | 13               | 6        |
 | 14               | 6        |
 | 15               | 6        |
-![[20241113175326.png]]
 
-![[20241113175313.png]]

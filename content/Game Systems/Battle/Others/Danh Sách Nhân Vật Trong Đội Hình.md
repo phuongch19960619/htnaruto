@@ -6,5 +6,5 @@ Người dùng có thể trượt trái phải để lướt qua toàn bộ các
 ![[20241112113254.png]]
 
 Sắp xếp mặc định theo số sao [[Đột Phá]]. Cao nhất bên trái. Thấp nhất bên phải. 
-Nếu có cùng số sao thì ưu tiên [[cấp độ]] cao nhất trước.
+Nếu có cùng số sao thì ưu tiên [[Cấp Độ Ninja]] cao nhất trước.
 

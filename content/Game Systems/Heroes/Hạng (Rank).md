@@ -3,7 +3,7 @@ tags:
   - hero
   - class
 ---
-Có 6 phẩm của Ninja, tương ứng với phẩm là số sao khởi đầu.
+Có 6 hạng của Ninja, tương ứng với phẩm là số sao khởi đầu.
 
 | Phẩm   | Sao khởi đầu | Sao max có thể lên | Hạn chế                                                                                  |
 | ------ | ------------ | ------------------ | ---------------------------------------------------------------------------------------- |
