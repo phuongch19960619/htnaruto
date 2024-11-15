@@ -4,15 +4,38 @@ tags:
   - system
   - tiennt
 ---
+# Event Pack
+Flow xem Event xem trong video.
+![[HTHT-Event.mp4]]
 
-Event Tuần
-[P] Chiêu Mộ Vua Hải Tặc
-[Q] Chiêu mộ Đại Hải Tặc
-[Q] Chiêu mộ Đặc biệt
-[Q/P] Chiến trường
-Event Tháng
-[Q] Luyện hải tặc
-[Q] Đạt Level
-Event Ưu Đãi
-[Q] Thử thách đậu thần + BP
-[S] Giftcode
+Từ ngoài lobby, người chơi ấn vào biểu tượng Sự Kiện để vào UI Event.
+![[20241115175447.png]]
+
+![[20241115175627.png]]
+
+| ID  | Detail                                                              |
+| --- | ------------------------------------------------------------------- |
+| 1   | Button - trở về lobby                                               |
+| 2   | Tab Sự kiện tuần, bấm vào để xem danh sách sự kiện tuần             |
+| 3   | Tab Sự kiện tháng, bấm vào để xem danh sách sự kiện tháng           |
+| 4   | Tab Ưu đãi, bấm vào để xem danh sách ưu đãi                         |
+| 5   | Shop Đại Hải Tặc                                                    |
+| 6   | Danh sách sự kiện hoặc ưu đãi: gồm icon + tên + thời gian đếm ngược |
+| 7   | Thanh tiền tệ                                                       |
+| 8   | Background UI                                                       |
+# Sự kiện tuần
+Danh sách sự kiện tuần hiện tại:
+1. Chiêu Mộ Vua Hải Tặc
+2. Chiêu mộ Đại Hải Tặc
+3. Chiêu mộ Đặc biệt
+4. Chiến trường
+
+# Sự kiện tháng
+Danh sách sự kiện tháng hiện tại:
+1. Luyện hải tặc
+2. Đạt Level
+
+# Ưu đãi
+Danh sách ưu đãi hiện tại:
+1. Thử thách đậu thần + BP
+2. Giftcode
