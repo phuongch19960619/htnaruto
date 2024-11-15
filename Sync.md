@@ -15,7 +15,7 @@ npx quartz sync
 
 ```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: "TITLE"
 draft: false
 tags:
   - 
