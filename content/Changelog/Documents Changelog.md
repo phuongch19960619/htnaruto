@@ -38,14 +38,14 @@ tags:
 
 | Detail                                         | PiC                           |
 | ---------------------------------------------- | ----------------------------- |
-| Danh sách 18 SS trong game [[Characters List]] | [[Tiến]] [[Phương]] [[Dương]] |
+| Danh sách 18 SS trong game [[Tổng Hợp Ninja]] | [[Tiến]] [[Phương]] [[Dương]] |
 
 # 7 Nov 2024
 
 | Detail               | PiC        |
 | -------------------- | ---------- |
 | [[Concept Sáng Tạo]] | [[Tiến]]   |
-| [[Characters List]]  | [[Phương]] |
+| [[Tổng Hợp Ninja]]  | [[Phương]] |
 
 # 6 Nov 2024
 
