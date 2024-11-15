@@ -2,6 +2,7 @@
 tags:
   - battle
   - system
+  - tiennt
 ---
 **Gồm 3 phần** 
 1. [[Chuẩn Bị Đội Hình]] - người chơi chuẩn bị và sắp xếp đội của mình.

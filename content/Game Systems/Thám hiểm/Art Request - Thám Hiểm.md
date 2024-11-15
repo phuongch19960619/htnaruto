@@ -2,6 +2,7 @@
 tags:
   - thamhiem
   - artrequest
+  - tiennt
 ---
 # Background Map Thế Giới
 Xem chi tiết docs trong [[Map Thế Giới]].

@@ -2,6 +2,7 @@
 tags:
   - "#effect"
   - type
+  - tiennt
 ---
 Đây là các hiệu ứng hiển thị thành Icon trên đầu nhân vật.
 # Tăng

@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - tiennt
 ---
 # Thông Tin Cơ Bản
 Trước khi vào battle, người chơi sẽ được sắp xếp lại đội hình.

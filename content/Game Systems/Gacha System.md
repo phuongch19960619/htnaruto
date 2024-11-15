@@ -2,6 +2,7 @@
 tags:
   - gacha
   - system
+  - duongnd
 ---
 # Tài liệu
 Docs System gốc: [Link](https://docs.google.com/document/d/1vono6MnAUnVUMjU-TkRSk7t3Lbwp7OUplnPnDKJD1zA/edit?tab=t.0)

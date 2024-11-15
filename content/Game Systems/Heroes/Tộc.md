@@ -2,6 +2,7 @@
 tags:
   - hero
   - class
+  - tiennt
 ---
 5 lớp [[Heroes System]] trong game: kiếm sĩ, hỗ trợ, đấu sĩ, xạ thủ và chỉ huy. 
 Các lớp nhân vật này chỉ khác nhau ở stats.

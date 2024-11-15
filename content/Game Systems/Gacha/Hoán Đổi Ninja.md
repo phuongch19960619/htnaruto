@@ -1,6 +1,7 @@
 ---
 tags:
   - gacha
+  - duongnd
 ---
 ![[20241111143335.png]]
 - Dùng [[Thuốc Hoán Đổi]] để đổi 1 ninja 5⭐ ở rank A hoặc S thành ninja 5⭐ cùng hệ.

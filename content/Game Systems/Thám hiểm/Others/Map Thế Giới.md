@@ -1,6 +1,7 @@
 ---
 tags:
   - thamhiem
+  - tiennt
 ---
 ![[Map_The_Gioi.mp4]]
 Là một khu vực dạng scroll ngang, thể hiện toàn bộ các [[Địa Điểm Thám Hiểm]] có trong game.

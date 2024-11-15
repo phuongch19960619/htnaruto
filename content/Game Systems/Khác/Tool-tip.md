@@ -1,6 +1,7 @@
 ---
 tags:
   - other
+  - tiennt
 ---
 Khi tap vào một Item/Icon bất kì
 ![[20241113121646.png]]

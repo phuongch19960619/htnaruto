@@ -1,6 +1,7 @@
 ---
 tags:
   - thamhiem
+  - duongnd
 ---
 ![[HTHT_Ai.mp4]]
 - Mỗi Map có 10 ải. Mỗi ải chỉ đánh 1 lần & nhận quà 1 lần.

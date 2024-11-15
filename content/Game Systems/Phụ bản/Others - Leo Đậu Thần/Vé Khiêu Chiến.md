@@ -2,6 +2,7 @@
 tags:
   - phuban
   - pve
+  - duongnd
 ---
 Khi thua trong [[Leo Đậu Thần (Tower)]], người chơi mất 1 vé khiêu chiến. Thắng thì không mất. 
 ![[20241113143729.png]]

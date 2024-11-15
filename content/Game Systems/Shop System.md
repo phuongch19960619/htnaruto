@@ -2,6 +2,8 @@
 tags:
   - shop
   - system
+  - tiennt
+  - duongnd
 ---
 # Tài liệu
 Docs System gốc: [Link](https://docs.google.com/document/d/1mgod8zm97dlt_jxDxMx7oG4TELpgEuAe_juOU86aWgA/edit?tab=t.0)

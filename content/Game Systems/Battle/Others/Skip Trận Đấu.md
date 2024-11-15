@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - tiennt
 ---
 [[Unlock Tính Năng]] cấp 80.
 ![[20241112140932.png]]

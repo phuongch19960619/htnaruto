@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - tiennt
 ---
 
 Hệ thống chiến đấu chia làm 2 phe đấu nhau, đánh theo lượt. 

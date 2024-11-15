@@ -1,6 +1,7 @@
 ---
 tags:
   - gacha
+  - duongnd
 ---
 ![[20241111151031.png]]
 Mỗi lần triệu hồi Chunin sẽ đạt được [[Điểm Tích Lũy]]. 

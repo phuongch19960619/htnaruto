@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - tiennt
 ---
 Gồm 3 Tab liệt kê thông số: **Sát Thương** gây ra bao nhiêu, **Phòng Thủ** được bao nhiêu sát thương và **Trị Liệu** nhận được.
 ![[20241112120252.png]]

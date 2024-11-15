@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - tiennt
 ---
 Gồm 2 Slots
 ![[20241112111905.png]]

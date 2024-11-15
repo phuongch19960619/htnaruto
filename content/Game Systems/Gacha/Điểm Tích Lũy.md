@@ -1,6 +1,7 @@
 ---
 tags:
   - gacha
+  - duongnd
 ---
 ![[20241111141321.png]]
 - Mỗi 1 lần triệu hồi đặc biệt sẽ nhận 10 Điểm Tích Lũy.

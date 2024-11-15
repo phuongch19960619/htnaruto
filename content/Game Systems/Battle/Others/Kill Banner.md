@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - tiennt
 ---
 Trong trận đấu, các banner sẽ hiện ra khi Ninja giết 2, 3, 4, 5 và 6 địch.
 ![[20241112135708.png]]

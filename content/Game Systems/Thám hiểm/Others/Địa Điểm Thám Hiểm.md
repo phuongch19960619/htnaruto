@@ -1,6 +1,7 @@
 ---
 tags:
   - thamhiem
+  - duongnd
 ---
 Nằm trên [[Map Thế Giới]]. 
 Người chơi không thể trở về địa điểm đã đi qua và chưa đi tới.

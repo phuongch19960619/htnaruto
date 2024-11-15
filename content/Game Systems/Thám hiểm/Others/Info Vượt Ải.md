@@ -1,6 +1,7 @@
 ---
 tags:
   - thamhiem
+  - tiennt
 ---
 Dạng [[Pop-up]], ghi rõ thông tin về tính năng thám hiểm.
 ![[20241113114927.png]]

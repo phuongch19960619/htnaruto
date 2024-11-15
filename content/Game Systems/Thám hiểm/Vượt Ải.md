@@ -2,6 +2,7 @@
 tags:
   - thamhiem
   - pve
+  - duongnd
 ---
 User [[Chuẩn Bị Đội Hình]] tướng vượt ải. Vượt ải cần tối thiểu 1 tướng, tối đa 6 tướng.
 

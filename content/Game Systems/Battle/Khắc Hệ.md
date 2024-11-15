@@ -1,6 +1,7 @@
 ---
 tags:
   - type
+  - tiennt
 ---
 Khắc [[Hệ]] tăng 30% sát thương và tăng 15% chính xác.
 

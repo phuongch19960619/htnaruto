@@ -2,6 +2,7 @@
 tags:
   - phuban
   - pve
+  - duongnd
 ---
 Sử dụng 1 đội hình để khiêu chiến tầng (bao gồm max 6 tướng).
 ![[20241113145427.png]]

@@ -1,6 +1,7 @@
 ---
 tags:
   - gacha
+  - duongnd
 ---
 ![[20241111143101.png]]
 

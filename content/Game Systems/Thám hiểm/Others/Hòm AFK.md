@@ -1,6 +1,7 @@
 ---
 tags:
   - thamhiem
+  - duongnd
 ---
 Mỗi khi quái chết, tài nguyên sẽ bay về hòm.
 Hòm có 3 trạng thái (từ trái sang phải): Rỗng, Có Tài Nguyên, Đầy.

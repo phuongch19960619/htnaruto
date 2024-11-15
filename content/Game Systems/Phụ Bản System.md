@@ -3,6 +3,7 @@ tags:
   - pvp
   - phuban
   - system
+  - duongnd
 ---
 Từ màn hình chính, chọn chế độ **Phụ bản**.
 ![[20241113141439.png]]

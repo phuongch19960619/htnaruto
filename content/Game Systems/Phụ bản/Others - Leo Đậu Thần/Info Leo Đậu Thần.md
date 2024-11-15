@@ -2,6 +2,7 @@
 tags:
   - phuban
   - pve
+  - tiennt
 ---
 Là [[Pop-up]] hiển thị cách chơi [[Leo Đậu Thần (Tower)]].
 ![[20241113144615.png]]

@@ -2,6 +2,7 @@
 tags:
   - phuban
   - pve
+  - duongnd
 ---
 Là một [[Pop-up]] hiển thị xếp hạng [[Leo Đậu Thần (Tower)]].
 1. Xếp hạng dựa trên số tầng đã vượt từ cao xuống thấp.

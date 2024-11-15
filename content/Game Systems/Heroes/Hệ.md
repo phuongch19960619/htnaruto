@@ -2,6 +2,7 @@
 tags:
   - hero
   - "#type"
+  - tiennt
 ---
 [[Heroes System]] trong game chia làm 6 Hệ:
 

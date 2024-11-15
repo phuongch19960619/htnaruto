@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - tiennt
 ---
 Trận đấu có thể **tăng giảm** tốc độ. Mỗi **Tốc độ** có level unlock riêng:
 - [[Unlock Tính Năng]]: Tốc độ x1 - Lv 0

@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+  - tiennt
 ---
 Dùng trong [[Chiến Trường - Đơn Đấu]].
 ![[20241113155346.png]]

@@ -1,6 +1,7 @@
 ---
 tags:
   - hero
+  - tiennt
 ---
 Người chơi post thông tin của nhân vật trong kênh chat.
 1. Khoe clan (hạm đội) [[Unlock Tính Năng]] - khi mở khóa và vào được clan.

@@ -1,6 +1,7 @@
 ---
 tags:
   - character
+  - phuongch
 ---
 Danh sách [[Heroes System]] trong game: [Link](https://docs.google.com/spreadsheets/d/13-dDhsbWGjdCDmsFKxnWTbNdoPSPewMwmUT6DDKkag4/edit?gid=478694351#gid=478694351)
 

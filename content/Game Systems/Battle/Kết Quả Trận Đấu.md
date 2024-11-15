@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - tiennt
 ---
 Trận đấu sẽ cho kết quả **sau 15 vòng**. Chỉ có 2 trạng thái: Thắng và Thua.
 Nếu sau 15 vòng không thắng thì thua.

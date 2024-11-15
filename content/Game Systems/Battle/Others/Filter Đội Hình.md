@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - tiennt
 ---
 Khi bấm vào nút này, xuất hiện các dạng filter đội hình theo [[hệ]].
 ![[20241112112920.png]]

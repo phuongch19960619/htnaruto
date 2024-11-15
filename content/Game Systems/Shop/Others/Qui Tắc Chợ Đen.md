@@ -1,6 +1,7 @@
 ---
 tags:
   - shop
+  - duongnd
 ---
 # Số vật phẩm
 - Chợ Đen sắp xếp item dạng 4x4 ô, mỗi 1 ô chứa 1 item. Tổng 16 vật phẩm

@@ -1,6 +1,7 @@
 ---
 tags:
   - hero
+  - tiennt
 ---
 Người chơi trả [[Vàng]] và [[Đá EXP]] để nâng cấp nhân vật.
 

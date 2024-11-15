@@ -1,6 +1,7 @@
 ---
 tags:
   - phuban
+  - duongnd
 ---
 # Tính Chất
 Thuộc dạng [[Pop-up]].

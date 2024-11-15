@@ -1,6 +1,7 @@
 ---
 tags:
   - phuban
+  - duongnd
 ---
 # Rewards
 - Danh sách quà. File Balance

@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+  - tiennt
 ---
 Dùng trong tính năng [[Hoán Đổi Ninja]].
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - shop
+  - duongnd
 ---
 Thuộc nhóm [[Shop System]]. Đây là nơi để người chơi mua hàng.
 ![[20241113153433.png]]

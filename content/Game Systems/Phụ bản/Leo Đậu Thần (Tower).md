@@ -2,6 +2,7 @@
 tags:
   - phuban
   - pve
+  - duongnd
 ---
 # Tài liệu
 Docs System gốc: [Link](https://docs.google.com/document/d/1dah11pZKQBLq3b-8jRspWtTHrPJSYKutNQCknWvcTUU/edit?tab=t.0#heading=h.76545dsn0x58)

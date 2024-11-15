@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - tiennt
 ---
 Mỗi Battle sẽ có một ID riêng biệt để đội vận hành check.
 Team vận hành có thể điền một ID bất kì để xem lại Replay trong trận.

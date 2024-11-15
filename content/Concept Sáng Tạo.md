@@ -1,6 +1,9 @@
 ---
 tags:
   - "#concept"
+  - tiennt
+  - duongnd
+  - phuongch
 ---
 # Biến hóa giữa 2 dạng
 Nhân vật khi tấn công sẽ hóa thành dạng mới.

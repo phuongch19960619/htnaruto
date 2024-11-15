@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+  - tiennt
 ---
 Dùng trong [[Nâng cấp Ninja]].
 ![[20241114174858.png]]

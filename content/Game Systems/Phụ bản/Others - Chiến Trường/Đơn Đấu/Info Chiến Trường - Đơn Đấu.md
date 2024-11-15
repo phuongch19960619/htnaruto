@@ -1,6 +1,7 @@
 ---
 tags:
   - phuban
+  - tiennt
 ---
 ![[20241113154721.png]]
 **Quy tắc chiến đấu**:

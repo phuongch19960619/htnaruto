@@ -2,6 +2,7 @@
 tags:
   - hero
   - class
+  - tiennt
 ---
 Có 6 phẩm của Ninja, phẩm tăng lên sẽ tăng giới hạn [[Cấp Độ Ninja]].
 Trừ một số trường hợp đặc biệt như Lính Chì sẽ có ưu tiên khác.

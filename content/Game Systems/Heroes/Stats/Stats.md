@@ -1,6 +1,7 @@
 ---
 tags:
   - hero
+  - tiennt
 ---
 # Công
 Là chỉ số sát thương của [[Heroes System]].

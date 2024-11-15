@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+  - tiennt
 ---
 Dùng trong [[Chiến Trường (Arena)]].
 ![[20241113161513.png]]

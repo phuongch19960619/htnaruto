@@ -1,6 +1,7 @@
 ---
 tags:
   - thamhiem
+  - duongnd
 ---
 Diễn hoạt giữa đội hình user **3 tướng ngẫu nhiên** chạy idle đánh quái trong map với 1 quái random theo từng [[địa điểm thám hiểm]].
 - Quái đánh lần lượt nhân vật hàng trước rồi tới hàng sau. Bị chết nếu bị tấn công 2 lần. Khi chết, tài nguyên sẽ rơi vào [[Hòm AFK]].

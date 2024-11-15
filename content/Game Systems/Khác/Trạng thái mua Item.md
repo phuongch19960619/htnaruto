@@ -1,6 +1,7 @@
 ---
 tags:
   - shop
+  - tiennt
 ---
 Khi chưa thể mua sẽ hiển thị màu nguyên bản.
 ![[20241113121006.png]]

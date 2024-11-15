@@ -1,1 +1,0 @@
-Obito lục đạo

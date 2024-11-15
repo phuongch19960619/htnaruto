@@ -2,6 +2,7 @@
 tags:
   - hero
   - class
+  - tiennt
 ---
 Có 6 hạng của Ninja, tương ứng với phẩm là số sao khởi đầu.
 

@@ -2,6 +2,7 @@
 tags:
   - hero
   - system
+  - tiennt
 ---
 Từ màn hình Menu, vào danh sách Ninja qua Button.
 ![[20241113171116.png]]

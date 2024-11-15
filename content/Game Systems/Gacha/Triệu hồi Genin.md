@@ -1,6 +1,7 @@
 ---
 tags:
   - gacha
+  - duongnd
 ---
 ![[20241111151041.png]]
 Sử dụng vé ??? để triệu hồi.

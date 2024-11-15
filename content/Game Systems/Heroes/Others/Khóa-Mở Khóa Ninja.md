@@ -1,6 +1,7 @@
 ---
 tags:
   - hero
+  - tiennt
 ---
 Có thể khóa Ninja để tránh [[Huyết Tế]], dùng làm nguyên liệu [[Đột Phá]] nhầm.
 

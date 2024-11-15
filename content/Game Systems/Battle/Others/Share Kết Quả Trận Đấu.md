@@ -1,6 +1,7 @@
 ---
 tags:
   - battle
+  - tiennt
 ---
 Thuộc dạng [[Pop-up]]. 
 Người chơi mất 5 kim cương mỗi lượt Share.
