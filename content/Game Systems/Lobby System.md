@@ -4,6 +4,7 @@ tags:
   - tiennt
   - lobby
 ---
+# Lobby
 ![[20241118162559.png]]
 
 | ID  | Detail                                             |
@@ -36,7 +37,7 @@ Các công trình trên Lobby để phục vụ cho các tính năng lớn như 
 
 Mỗi tướng của người chơi trong đội hình sẽ random xuất hiện ở các vị trí được chỉ định và thực hiện idle animation.
 
-**Ref:**
+# Ref ART
 ![[MuMu12-20241118-161309.png]]
 
 **Video tham khảo**
