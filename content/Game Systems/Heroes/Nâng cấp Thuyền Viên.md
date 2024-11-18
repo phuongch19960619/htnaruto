@@ -3,7 +3,7 @@ tags:
   - hero
   - tiennt
 ---
-Người chơi trả [[Vàng]] và [[Đá EXP]] để nâng cấp nhân vật.
+Người chơi trả [[Beli]] và [[Đá EXP]] để nâng cấp nhân vật.
 
 | Số sao của Ninja | Phẩm | Cấp độ max | [[Hạng (Rank)]] D   | [[Hạng (Rank)]] C   | [[Hạng (Rank)]] B    | [[Hạng (Rank)]] A    | [[Hạng (Rank)]] S    | [[Hạng (Rank)]] SS   |
 | ---------------- | ---- | ---------- | ------------------- | ------------------- | -------------------- | -------------------- | -------------------- | -------------------- |

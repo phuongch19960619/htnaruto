@@ -31,3 +31,7 @@ Nếu sau 15 vòng không thắng thì thua.
 | 5   | Thông số tổng sát thương                                                                              |
 | 6   | Button - Đóng                                                                                         |
 | 7   | [[Battle ID]]                                                                                         |
+# Ref Art
+![[MuMu12-20241118-170137.png]]
+Video Ref
+![[1120.mp4]]

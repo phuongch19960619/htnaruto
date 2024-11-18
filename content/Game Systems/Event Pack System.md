@@ -27,16 +27,16 @@ Từ ngoài lobby, người chơi ấn vào biểu tượng Sự Kiện để v�
 # Sự kiện tuần
 Danh sách sự kiện tuần hiện tại:
 1. [[Chiêu Mộ Vua Hải Tặc]]
-2. [[content/Game Systems/Event+Pack (1 button)/Chiêu Mộ Đại Hải Tặc]]
-3. [[Chiêu mộ Đặc biệt]]
+2. [[Event - Chiêu Mộ Đại Hải Tặc]]
+3. [[Event - Chiêu Mộ Đặc Biệt]]
 4. [[Chiến trường]]
 
 # Sự kiện tháng
 Danh sách sự kiện tháng hiện tại:
-1. [[Luyện hải tặc]]
-2. [[Đạt Level]]
+1. [[Event - Luyện Hải Tặc]]
+2. [[Event - Đạt Level]]
 
 # Ưu đãi
 Danh sách ưu đãi hiện tại:
-1. [[Thử thách đậu thần + BP]]
-2. [[Giftcode]]
+1. [[Ưu Đãi - Thử thách đậu thần + BP]]
+2. [[Ưu Đãi - Giftcode]]

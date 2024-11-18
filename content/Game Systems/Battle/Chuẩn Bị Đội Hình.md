@@ -32,3 +32,8 @@ Vị trí [[Hiệu Ứng Battle]] cũng thay đổi.
 
 Vị trí tương ứng của tướng với đội hình trong trận là:
 ![[20241106162841.png]]
+
+# Ref ART
+![[MuMu12-20241118-164858.png]]
+**Video Ref**
+![[1121.mp4]]
