@@ -16,11 +16,11 @@ Bấm vào một hình ảnh Ninja bất kì để vào màn hình nâng cấp.
 | 1   | Nút Back về Lobby                                          |
 | 2   | Background của tính năng                                   |
 | 3   | Thanh tiền tệ                                              |
-| 4   | [[Khóa-Mở Khóa Ninja]]                                     |
-| 5   | [[Share Ninja]]                                            |
+| 4   | [[Khóa-Mở Khóa Thuyền Viên]]                                     |
+| 5   | [[Share Thuyền Viên]]                                            |
 | 6   | [[Huyết Kế Giới Hạn]] (Dấu ấn Germa)                       |
 | 7   | [[Lực Chiến]]                                              |
-| 8   | [[Cấp Độ Ninja]]                                           |
+| 8   | [[Cấp Độ Thuyền Viên]]                                           |
 | 9   | [[Phẩm]] Ninja                                             |
 | 10  | Lượng tài nguyên cần để nâng lên cấp kế tiếp               |
 | 11  | Button - Nâng cấp Ninja                                    |

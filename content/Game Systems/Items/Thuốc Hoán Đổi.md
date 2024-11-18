@@ -3,7 +3,7 @@ tags:
   - item
   - tiennt
 ---
-Dùng trong tính năng [[Hoán Đổi Ninja]].
+Dùng trong tính năng [[Hoán Đổi Thuyền Viên]].
 
 ![[20241111143440.png]]
 

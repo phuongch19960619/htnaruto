@@ -3,7 +3,7 @@ tags:
   - item
   - tiennt
 ---
-Dùng trong [[Nâng cấp Ninja]].
+Dùng trong [[Nâng cấp Thuyền Viên]].
 ![[20241114174721.png]]
 Tìm thấy trong:
 1. Vượt ải

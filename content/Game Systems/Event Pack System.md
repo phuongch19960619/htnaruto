@@ -4,6 +4,7 @@ tags:
   - system
   - tiennt
 ---
+**Tất cả Event Pack sẽ liên server**.
 # Event Pack
 Flow xem Event xem trong video.
 ![[HTHT-Event.mp4]]
@@ -25,17 +26,17 @@ Từ ngoài lobby, người chơi ấn vào biểu tượng Sự Kiện để v�
 | 8   | Background UI                                                       |
 # Sự kiện tuần
 Danh sách sự kiện tuần hiện tại:
-1. Chiêu Mộ Vua Hải Tặc
-2. Chiêu mộ Đại Hải Tặc
-3. Chiêu mộ Đặc biệt
-4. Chiến trường
+1. [[Chiêu Mộ Vua Hải Tặc]]
+2. [[Chiêu mộ Đại Hải Tặc]]
+3. [[Chiêu mộ Đặc biệt]]
+4. [[Chiến trường]]
 
 # Sự kiện tháng
 Danh sách sự kiện tháng hiện tại:
-1. Luyện hải tặc
-2. Đạt Level
+1. [[Luyện hải tặc]]
+2. [[Đạt Level]]
 
 # Ưu đãi
 Danh sách ưu đãi hiện tại:
-1. Thử thách đậu thần + BP
-2. Giftcode
+1. [[Thử thách đậu thần + BP]]
+2. [[Giftcode]]

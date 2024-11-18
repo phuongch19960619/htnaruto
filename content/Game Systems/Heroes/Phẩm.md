@@ -4,7 +4,7 @@ tags:
   - class
   - tiennt
 ---
-Có 6 phẩm của Ninja, phẩm tăng lên sẽ tăng giới hạn [[Cấp Độ Ninja]].
+Có 6 phẩm của Ninja, phẩm tăng lên sẽ tăng giới hạn [[Cấp Độ Thuyền Viên]].
 Trừ một số trường hợp đặc biệt như Lính Chì sẽ có ưu tiên khác.
 
 | Số sao của Ninja | Phẩm max |

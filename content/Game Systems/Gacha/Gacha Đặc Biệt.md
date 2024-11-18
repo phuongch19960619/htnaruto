@@ -14,7 +14,7 @@ tags:
 | 3   | [[Info Chiêu Mộ Đặc Biệt]]        |
 | 4   | [[Hướng dẫn Chiêu Mộ Đặc Biệt]]   |
 | 5   | Tab Gacha Đặc Biệt                |
-| 6   | Tab [[Hoán Đổi Ninja]]            |
+| 6   | Tab [[Hoán Đổi Thuyền Viên]]            |
 | 7   | Button - Trạng thái chọn Ninja    |
 | 8   | Button - Các Banner Ninja khác    |
 | 9   | Nút Chiêu mộ x1                   |

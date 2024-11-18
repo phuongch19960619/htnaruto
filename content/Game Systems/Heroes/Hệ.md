@@ -6,14 +6,14 @@ tags:
 ---
 [[Heroes System]] trong game chia làm 6 Hệ:
 
-| Game HTHT  | Game HTNA |
-| ---------- | --------- |
-| Nhanh Nhẹn | Nước      |
-| Bền Bỉ     | Đá        |
-| Chính Xác  | Gió       |
-| Sinh Khí   | Hỏa       |
-| Thông Minh | Lôi       |
-| Minh Mẫn   | Ám        |
+| Hệ         |
+| ---------- |
+| Nhanh Nhẹn |
+| Bền Bỉ     |
+| Chính Xác  |
+| Sinh Khí   |
+| Thông Minh |
+| Minh Mẫn   |
 
 
 ![[20241106163303.png]]

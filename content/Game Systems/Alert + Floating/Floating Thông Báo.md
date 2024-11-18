@@ -9,3 +9,6 @@ Thông báo hiện lên, bay lên rồi biến mất.
 
 Xem video Ref
 ![[HTHT-FloatingNoti.mp4]]
+
+Thông báo hiếm
+![[20241118115618.png]]
