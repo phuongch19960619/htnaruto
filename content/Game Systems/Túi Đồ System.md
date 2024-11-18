@@ -4,4 +4,6 @@ tags:
   - system
   - tiennt
 ---
-Trang bị
+# Tài liệu
+Docs System gốc: Link
+Docs Balance gốc: Link
