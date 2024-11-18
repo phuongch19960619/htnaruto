@@ -27,7 +27,7 @@ Từ ngoài lobby, người chơi ấn vào biểu tượng Sự Kiện để v�
 # Sự kiện tuần
 Danh sách sự kiện tuần hiện tại:
 1. [[Chiêu Mộ Vua Hải Tặc]]
-2. [[Chiêu mộ Đại Hải Tặc]]
+2. [[content/Game Systems/Event+Pack (1 button)/Chiêu Mộ Đại Hải Tặc]]
 3. [[Chiêu mộ Đặc biệt]]
 4. [[Chiến trường]]
 
