@@ -46,9 +46,9 @@ Các công trình trên Lobby để phục vụ cho các tính năng lớn:
 5. Bang Hội - Tòa nhà trụ sở lớn 
 6. [[Phụ Bản System]] - Xoáy nước hoặc cổng dịch chuyển bến cảng
 7. [[Leo Đậu Thần (Tower)]] - Cây đậu thần mọc lên chọc trời ([ref](https://onepiece.fandom.com/wiki/Giant_Jack))
-8. Ủy Thác (Tổng Bộ) - Một công hội đưa ra ủy thác nhiệm vụ (Marine Force - [ref](https://onepiece.fandom.com/wiki/Marine_Headquarters))
+8. Ủy Thác (Tổng Bộ) - Một công hội đưa ra ủy thác nhiệm vụ (Marine Fort - [ref](https://onepiece.fandom.com/wiki/Marine_Headquarters))
 9. Nhiệm vụ hàng ngày - Một cái bảng dán nhiệm vụ hằng ngày
-10. Để sẵn một vài vị trí đất trống để unlock tính năng về sau.
+10. Để sẵn một vài vị trí đất trống (2-3) để unlock tính năng về sau.
 
 Mỗi tướng của người chơi trong đội hình sẽ random xuất hiện ở các vị trí được chỉ định và thực hiện idle animation.
 
