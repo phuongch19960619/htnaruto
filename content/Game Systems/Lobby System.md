@@ -39,6 +39,14 @@ Vị trí các tính năng vẫn thế, chỉ khác là bản của mình sẽ c
 2. Lớp background: tạo hiệu ứng khi người chơi scroll.
 
 Các công trình trên Lobby để phục vụ cho các tính năng lớn:
+**Ưu tiên các công trình sau:**
+1. Chiến Hạm (dùng luôn cái tàu ở lobby)
+2. [[Shop System]] - Cửa hàng bán đủ các loại đồ
+3. [[Chiến Trường (Arena)]] - đấu trường Corrida tại dressrosa ([ref](https://www.facebook.com/photo.php?fbid=846484365378041&id=184858891540595&set=a.185169421509542&locale=gl_ES))
+7. [[Leo Đậu Thần (Tower)]] - Cây đậu thần mọc lên chọc trời ([ref](https://onepiece.fandom.com/wiki/Giant_Jack))
+9. Nhiệm vụ hàng ngày - Một cái bảng dán nhiệm vụ hằng ngày
+
+**Danh sách các công trình:**
 1. Chiến Hạm (dùng luôn cái tàu ở lobby)
 2. [[Shop System]] - Cửa hàng bán đủ các loại đồ
 3. [[Chiến Trường (Arena)]] - đấu trường Corrida tại dressrosa ([ref](https://www.facebook.com/photo.php?fbid=846484365378041&id=184858891540595&set=a.185169421509542&locale=gl_ES))
