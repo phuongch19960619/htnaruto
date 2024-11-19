@@ -3,6 +3,5 @@ tags:
   - avatar
   - tiennt
 ---
-Thtin/Sửa tên-Avatar/EXP
-Đổi Server/Đăng xuất
-Tắt bật Music/Sound
+Trong [[Thông Tin]], ấn vào Nút Đăng Xuất sẽ đẩy người chơi về màn hình [[Đăng Nhập Đăng Ký]].
+![[20241119171802.png]]
