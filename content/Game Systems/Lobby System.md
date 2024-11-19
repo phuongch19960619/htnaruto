@@ -51,7 +51,7 @@ Các công trình trên Lobby để phục vụ cho các tính năng lớn:
 2. [[Shop System]] - Cửa hàng bán đủ các loại đồ
 3. [[Chiến Trường (Arena)]] - đấu trường Corrida tại dressrosa ([ref](https://www.facebook.com/photo.php?fbid=846484365378041&id=184858891540595&set=a.185169421509542&locale=gl_ES))
 7. [[Leo Đậu Thần (Tower)]] - Cây đậu thần mọc lên chọc trời ([ref](https://onepiece.fandom.com/wiki/Giant_Jack))
-9. Nhiệm vụ hàng ngày - Một cái bảng dán nhiệm vụ hằng ngày
+9. [[Nhiệm Vụ Ngày]] - Một cái bảng dán nhiệm vụ hằng ngày
 
 **Danh sách các công trình:**
 1. Chiến Hạm (dùng luôn cái tàu ở lobby)
