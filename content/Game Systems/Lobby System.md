@@ -5,32 +5,39 @@ tags:
   - lobby
 ---
 # Lobby
-![[20241118162559.png]]
+![[Pasted image 20241119105521.png]]
 
-| ID  | Detail                                             |
-| --- | -------------------------------------------------- |
-| 1   | Profile cá nhân [[Thông Tin (Avatar) System]]      |
-| 2   | Thanh tiền tệ gồm [[Kim Cương]] và [[Beli]]        |
-| 3   | [[Facebook Button]]                                |
-| 4   | Tính năng bạn bè                                   |
-| 5   | [[Thư]]                                            |
-| 6   | Tiệm đồ                                            |
-| 7   | [[Vòng Quay]]                                      |
-| 8   | Nhiệm vụ cốt truyện                                |
-| 9   | Vào [[Thám Hiểm System]]                           |
-| 10  | [[Shop System]]                                    |
-| 11  | [[Phụ Bản System]]                                 |
-| 12  | [[Túi Đồ System]]                                  |
-| 13  | [[Heroes System]]                                  |
-| 14  | [[Gacha System]], Chiến Hạm, [[Event Pack System]] |
-| 15  | [[Nhiệm Vụ Ngày]] và Điểm danh                     |
-| 16  | Background                                         |
-| 17  | Các nhân vật trong đội hình người chơi             |
-| 18  | Luyện Tướng                                        |
-| 19  | Huyết Tế                                           |
-| 20  | Thành Tựu                                          |
-| 21  | Các Event lớn khác.                                |
-| 22  | Chat                                               |
+| ID  | Detail                                           | Làm Trong 3 tháng đầu |
+| --- | ------------------------------------------------ | --------------------- |
+| 1   | Profile cá nhân [[Thông Tin (Avatar) System]]    | Có                    |
+| 2   | Thanh tiền tệ gồm [[Kim Cương]] và [[Beli]]      | Có                    |
+| 3   | [[Facebook Button]]                              | Có                    |
+| 4   | Tính năng bạn bè                                 | -                     |
+| 5   | [[Thư]]                                          | Có                    |
+| 6   | Danh sách các Sự Kiện Lớn [[Event Riêng System]] | -                     |
+| 7   | [[Login30 (Điểm danh)]]                          | Có                    |
+| 8   | [[Vòng Quay]]                                    | Có                    |
+| 9   | [[Event Pack System]]                            | Có                    |
+| 10  | Nhiệm Vụ Cốt Truyện - [[Quest]]                  | Có                    |
+| 11  | Tiệm Đồ                                          | -                     |
+| 12  | Luyện Tướng                                      | -                     |
+| 13  | Huyết Tế                                         | -                     |
+| 14  | [[Phụ Bản System]]                               | Có                    |
+| 15  | Đội hình của người chơi                          | Có                    |
+| 16  | Background Lobby                                 | Có                    |
+| 17  | Thành Tựu                                        | -                     |
+| 18  | [[Nhiệm Vụ Ngày]]                                | Có                    |
+| 19  | Chat                                             | -                     |
+| 20  | [[Shop System]]                                  | Có                    |
+| 21  | Hoạt Động - Trong này có 22, 23, 24              | -                     |
+| 22  | Ngọc Vega                                        | -                     |
+| 23  | Thú Cưng                                         | -                     |
+| 24  | Trái Ác Quỷ                                      | -                     |
+| 25  | Chiến Hạm                                        | -                     |
+| 26  | [[Gacha System]]                                 | Có                    |
+| 27  | [[Heroes System]]                                | Có                    |
+| 28  | [[Túi Đồ System]]                                | Có                    |
+| 29  | [[Thám Hiểm System]]                             | Có                    |
 
 Vị trí các tính năng vẫn thế, chỉ khác là bản của mình sẽ có background lobby lớn, **chia làm nhiều địa điểm**, có thể scroll ngang (không cần làm scroll dọc như video ref). 
 
