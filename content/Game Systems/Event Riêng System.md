@@ -4,6 +4,7 @@ tags:
   - system
   - duongnd
 ---
-# Tài liệu
-Docs System gốc: Link
-Docs Balance gốc: Link
+Bao gồm:
+1. [[Login30 (Điểm danh)]]
+2. [[Vòng Quay]]
+3. [[Đăng nhập (7 ngày)]]
