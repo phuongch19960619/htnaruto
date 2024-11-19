@@ -3,15 +3,26 @@ tags:
   - event
   - tiennt
 ---
+Nằm trong [[Event Pack System]], tab Ưu Đãi. Đây là một sự kiện con trong tab này.
+Người chơi leo đủ số tầng [[Leo Đậu Thần (Tower)]] sẽ nhận lại quà qua [[Thư]].
+Sự kiện này **không giới hạn** thời gian.
+![[20241119092924.png]]
 
-Event Tuần
-[P] Chiêu Mộ Vua Hải Tặc
-[Q] Chiêu mộ Đại Hải Tặc
-[Q] Chiêu mộ Đặc biệt
-[Q/P] Chiến trường
-Event Tháng
-[Q] Luyện hải tặc
-[Q] Đạt Level
-Event Ưu Đãi
-[Q] Thử thách đậu thần + BP
-[S] Giftcode
+| ID  | Detail                                                       |
+| --- | ------------------------------------------------------------ |
+| 1   | Button - Back về Lobby                                       |
+| 2   | Thanh tiền tệ                                                |
+| 3   | [[Shop Đại Hải Tăc]]                                         |
+| 4   | [[Event Pack System]] - tab sự kiện tuần                     |
+| 5   | [[Event Pack System]] - tab sự kiện tháng                    |
+| 6   | [[Event Pack System]] - tab ưu đãi                           |
+| 7   | Icon + tab sự kiện Thử Thách Đậu Thần                        |
+| 8   | Background Sự Kiện                                           |
+| 9   | Nút mua hàng - khi mua sẽ mở khóa danh sách vật phẩm bị khóa |
+| 10  | Trạng thái khóa của vật phẩm nếu chưa mua BP                 |
+| 11  | Nội dung Event                                               |
+Nếu người chơi tap vào vật phẩm bị khóa sẽ hiển thị [[Floating Thông Báo]]
+![[20241119093312.png]]
+
+Trạng thái đã đạt được
+![[20241119093331.png]]

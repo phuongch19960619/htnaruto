@@ -5,6 +5,7 @@ tags:
 ---
 Nằm trong [[Event Pack System]], tab Ưu Đãi. Đây là một sự kiện con trong tab này.
 Người chơi nhập **Giftcode** sẽ nhận lại quà qua [[Thư]].
+Sự kiện này không giới hạn thời gian.
 ![[20241118111552.png]]
 
 | ID  | Detail                                    |

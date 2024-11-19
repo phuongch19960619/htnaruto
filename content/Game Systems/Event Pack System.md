@@ -29,7 +29,7 @@ Danh sách sự kiện tuần hiện tại:
 1. [[Chiêu Mộ Vua Hải Tặc]]
 2. [[Event - Chiêu Mộ Đại Hải Tặc]]
 3. [[Event - Chiêu Mộ Đặc Biệt]]
-4. [[Chiến trường]]
+4. [[Event - Chiến Trường]]
 
 # Sự kiện tháng
 Danh sách sự kiện tháng hiện tại:

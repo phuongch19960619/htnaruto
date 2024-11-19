@@ -3,15 +3,24 @@ tags:
   - event
   - tiennt
 ---
+Nằm dưới cùng trong [[Event Pack System]], tab Sự Kiện Tháng. Đây là một sự kiện con trong tab này.
+Người chơi đạt đủ [[Cấp Độ Người Chơi]] trong event sẽ nhận lại quà qua [[Thư]].
+![[20241119092245.png]]
 
-Event Tuần
-[P] Chiêu Mộ Vua Hải Tặc
-[Q] Chiêu mộ Đại Hải Tặc
-[Q] Chiêu mộ Đặc biệt
-[Q/P] Chiến trường
-Event Tháng
-[Q] Luyện hải tặc
-[Q] Đạt Level
-Event Ưu Đãi
-[Q] Thử thách đậu thần + BP
-[S] Giftcode
+| ID  | Detail                                    |
+| --- | ----------------------------------------- |
+| 1   | Button - Back về Lobby                    |
+| 2   | Thanh tiền tệ                             |
+| 3   | [[Shop Đại Hải Tăc]]                      |
+| 4   | [[Event Pack System]] - tab sự kiện tuần  |
+| 5   | [[Event Pack System]] - tab sự kiện tháng |
+| 6   | [[Event Pack System]] - tab ưu đãi        |
+| 7   | Icon + tab sự kiện Đạt Level              |
+| 8   | Trạng thái chưa đạt mốc, đang progress.   |
+| 9   | Trạng thái đạt mốc.                       |
+
+
+**Luật chơi:**
+1. Trong thời gian diễn ra sự kiện, cứ đạt đủ [[Cấp Độ Người Chơi]] sẽ tích 1 điểm thưởng.
+2. Phần thưởng tự động gửi về hòm thư - Tiêu đề: Thưởng Cấp Độ. Nội dung bên trong: "Phần thưởng sự kiện Lên Cấp".
+![[20241118114228.png]]
