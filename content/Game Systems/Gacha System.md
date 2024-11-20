@@ -23,11 +23,3 @@ Nơi kiếm tài nguyên tướng của người chơi
 
 # Log cần bổ sung
 Bổ sung sau.
-
-# Art Request List
-Vé triệu hồi Genin
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc2m3MX6F8NcE2asEPDQEXQPJAOQ7THQab_1j4pYBasEIDxY91KblES0_xMzA6ySmy_djJVXPls0Tvr7_xvVuhKvO9yW0w67mqi2XdvgnUQVfbFRLya7aInV-fBaH5FWyVn7muEIQ?key=8Sfpk3z_T71NQ4Z0ejqBbX8r)
-
-Vé triệu hồi Chunin
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdiwSIKJb82o1prWK1ZEA2Au7iCLmIvkOEzdpHgfp0jOc7PAGKhv7FbnAzZqc7caIh4dALuyAJDMYHL-f3EcJdGt762m44_jBVeMMBqUymWBFKazYzg4Uzq6JvGVsgrJIZhg2d9Jg?key=8Sfpk3z_T71NQ4Z0ejqBbX8r)
-

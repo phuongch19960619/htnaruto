@@ -4,6 +4,6 @@ tags:
   - system
   - tiennt
 ---
-# Tài liệu
-Docs System gốc: Link
-Docs Balance gốc: Link
+Hệ thống gửi và nhận thư. 
+1. Gửi thư giữa người chơi với người chơi thông qua [[Thông Tin]].
+2. Nhận thưởng hoặc thư từ người chơi khác qua [[Thư]].
