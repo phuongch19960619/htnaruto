@@ -44,3 +44,5 @@ Công thức nâng cấp xem trong file balance.
 - Nâng cấp Hero chỉ tăng stat cơ bản của hero
 - Gold và beli để nâng level sau sẽ cao hơn level trước
 - Chi tiết tài nguyên, chỉ số nâng cấp tướng: tại đây
+- Người chơi có thể tăng 1 level hoặc 10 level nếu đủ tài nguyên nâng cấp (gold và beli). Nếu không đủ tài nguyên để nâng, khi click nâng level sẽ hiển thị thông báo: không đủ tài nguyên
+- Khi nâng cấp có hiệu ứng ở phần chỉ số cho biết có thay đổi chỉ số kèm tăng lực chiến tổng của nhân vật

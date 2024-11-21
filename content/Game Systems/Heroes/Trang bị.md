@@ -38,6 +38,10 @@ Ngoài [[Lobby System]], chọn [[Heroes System]] sau đó vào Tab Trang Bị.
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcEk0WwSZRh9a8B2-pxfn6I_hzOegprC6nevJRJN-bFujIE-2rJonSzcBISNjOv-bc1pvB3uUTbVJS1qt6ntybmX-3y6KJ4ohh5TsvkyCbwDng_sTQaC9ft5pyjJFW2i9FJH2fRKQ?key=OAGsZBxi1N9J8bm8LC37Hi3-)
 
 - Trang bị được sắp xếp theo Phẩm>Sao>level
+- Khi đã mặc trang bị, click vào sẽ hiển thị chỉ số, bộ trang bị kèm chỉ số bộ trang bị phẩm cùng loại
+- Người chơi có thể gỡ hoặc thay thế trang bị khác bằng cách ấn vào từng button
+![[20241121165223.png]]
+
 - Danh sách trang bị : Mũ; Áo; Quần; Giày mỗi loại bao gồm các phẩm:
 
 | Phẩm | Sao |

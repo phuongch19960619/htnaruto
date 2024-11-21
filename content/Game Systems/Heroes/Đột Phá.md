@@ -21,4 +21,5 @@ tags:
 - Người chơi sử dụng enhance stone và gold để enhance hero
 - Enhance cũng tăng các chỉ số cơ bản của hero
 - Enhance stone để nâng Enhance lần sau sẽ cao hơn lần trước
+- Đột phá(tăng phẩm) sẽ mở khóa các kỹ năng bị động của tướng
 - Chi tiết tài nguyên, chỉ số đột phá tướng: tại đây
