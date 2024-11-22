@@ -29,7 +29,7 @@ tags:
 Khi tap vào biểu tượng sẽ có [[Tool-tip]] hiện ra.
 ![[20241122141201.png]]
 ![[20241122155459.png]]
-Các dòng được kích lên sẽ có màu xanh.
+Các dòng được kích lên sẽ có màu xanh, chi tiết thông tin xem trong [[Kích Dòng Class]].
 # Ref ART
 ![[MuMu12-20241118-170158.png]]
 **Video UI Battle**
