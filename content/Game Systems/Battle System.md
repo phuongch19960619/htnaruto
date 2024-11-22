@@ -14,6 +14,8 @@ tags:
 # UX mong muốn 
 ![[20241122141056.png]]
 ![[20241122141017.png]]
+Khi tap vào biểu tượng sẽ có [[Tool-tip]] hiện ra.
+![[20241122141201.png]]
 
 # Ref ART
 ![[MuMu12-20241118-170158.png]]
