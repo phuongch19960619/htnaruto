@@ -130,6 +130,7 @@ Ngoài [[Lobby System]], chọn [[Heroes System]] sau đó vào Tab Trang Bị.
 |      | 4    | 5400                   |
 |      | 5    | 5400                   |
 |      | 6    | 5400                   |
+**
 
 |   |   |   |   |
 |---|---|---|---|
