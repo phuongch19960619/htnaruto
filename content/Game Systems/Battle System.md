@@ -3,6 +3,7 @@ tags:
   - battle
   - system
   - tiennt
+  - readyUI
 ---
 # Cấu Trúc
 **Gồm 3 phần** 

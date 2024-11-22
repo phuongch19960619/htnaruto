@@ -6,6 +6,8 @@ tags:
 ---
 Đây là các hiệu ứng hiển thị thành Icon trên đầu nhân vật.
 Tổng cộng 9 hiệu ứng tăng, 9 hiệu ứng giảm.
+![[20241122150516.png]]![[20241122150524.png]]
+![[20241122150533.png]]![[20241122150541.png]]
 # Tăng
 
 | Tăng x% giáp       | Tăng x% miễn chống          | Tăng x% chính xác          |

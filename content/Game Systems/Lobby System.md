@@ -3,6 +3,7 @@ tags:
   - system
   - tiennt
   - lobby
+  - readyUI
 ---
 # Lobby
 ![[20241119105521.png]]
