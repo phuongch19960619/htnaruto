@@ -2,6 +2,7 @@
 tags:
   - battle
   - tiennt
+  - readyUI
 ---
 # Vị trí
 Hệ thống chiến đấu chia làm 2 phe đấu nhau 6 vs 6, đánh theo lượt. 

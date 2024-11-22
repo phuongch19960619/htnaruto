@@ -3,6 +3,7 @@ tags:
   - lobby
   - animation
   - tiennt
+  - ready-request
 ---
 Doc: [[Lobby System]].
 ![[OP5.png]]
