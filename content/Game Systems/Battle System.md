@@ -14,7 +14,7 @@ tags:
 
 | ID  | Detail                               |
 | --- | ------------------------------------ |
-| 1   | Nút [[Info Battle]]                  |
+| 1   | Nút [[Info Khắc Hệ]]                 |
 | 2   | Số Vòng Đấu                          |
 | 3   | Nút tăng tốc Battle [[Battle Speed]] |
 | 4   | Nút [[Skip Trận Đấu]]                |
