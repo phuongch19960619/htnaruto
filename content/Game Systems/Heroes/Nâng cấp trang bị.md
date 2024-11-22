@@ -1,6 +1,0 @@
----
-tags:
-  - hero
-  - tiennt
----
-x
