@@ -5,6 +5,7 @@ tags:
   - tiennt
 ---
 Đây là các hiệu ứng hiển thị thành Icon trên đầu nhân vật.
+Tổng cộng 9 hiệu ứng tăng, 9 hiệu ứng giảm.
 # Tăng
 
 | Tăng x% giáp       | Tăng x% miễn chống          | Tăng x% chính xác          |

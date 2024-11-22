@@ -34,7 +34,7 @@ Cấp độ ![[20241122142039.png]]
 [[Hệ]] ![[20241122142044.png]]
 **Thanh Máu** và **Thanh Nộ** ![[20241122142049.png]]
 Thanh Nộ có thể lên 3 Tầng, càng lên màu càng đậm ![[20241122144005.png]] 
-Trong trận đấu, các buff sẽ hiển thị trên đầu nhân vật, theo thứ tự từ phải ngoài cùng. Hiệu ứng xấu nằm hết về bên phải, hiệu ứng tốt nằm hết về bên trái.
+Trong trận đấu, các buff sẽ hiển thị trên đầu nhân vật, theo thứ tự từ phải ngoài cùng. Hiệu ứng xấu nằm hết về bên phải, hiệu ứng tốt nằm hết về bên trái. (Xem danh sách trong [[Hiệu Ứng Battle]])
 ![[20241122143739.png]]
 Nếu buff có hiệu ứng trên 2 lượt sẽ có con số để thể hiện số turn mà hiệu ứng gây ra ![[20241122144126.png]]
 Các hiệu ứng buff vĩnh viễn sẽ có biểu tượng vô cực.
