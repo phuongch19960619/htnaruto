@@ -10,6 +10,18 @@ tags:
 2. Battle - cơ chế [[Turnbased]]. 
 3. [[Kết Quả Trận Đấu]].
 ![[20241112155058.png]]
+![[20241122141555.png]]
+
+| ID  | Detail                               |
+| --- | ------------------------------------ |
+| 1   | Nút [[Info Battle]]                  |
+| 2   | Số Vòng Đấu                          |
+| 3   | Nút tăng tốc Battle [[Battle Speed]] |
+| 4   | Nút [[Skip Trận Đấu]]                |
+| 5   | Danh sách [[Hiệu Ứng Đội Hình]]      |
+| 6   | Đội hình phe mình                    |
+| 7   | Đội hình phe địch                    |
+| 8   | Background màn chơi                  |
 
 # UX mong muốn 
 ![[20241122141056.png]]
@@ -17,6 +29,14 @@ tags:
 Khi tap vào biểu tượng sẽ có [[Tool-tip]] hiện ra.
 ![[20241122141201.png]]
 
+Trên đầu nhân vật sẽ có
+![[20241122142010.png]]
+Cấp độ
+![[20241122142039.png]]
+[[Hệ]]
+![[20241122142044.png]]
+Thanh Máu và Thanh Nộ
+![[20241122142049.png]]
 # Ref ART
 ![[MuMu12-20241118-170158.png]]
 **Video UI Battle**
