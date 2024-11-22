@@ -22,21 +22,12 @@ tags:
 | 6   | Đội hình phe mình                    |
 | 7   | Đội hình phe địch                    |
 | 8   | Background màn chơi                  |
-
 # UX mong muốn 
 ![[20241122141056.png]]
 ![[20241122141017.png]]
 Khi tap vào biểu tượng sẽ có [[Tool-tip]] hiện ra.
 ![[20241122141201.png]]
 
-Trên đầu nhân vật sẽ có
-![[20241122142010.png]]
-Cấp độ
-![[20241122142039.png]]
-[[Hệ]]
-![[20241122142044.png]]
-Thanh Máu và Thanh Nộ
-![[20241122142049.png]]
 # Ref ART
 ![[MuMu12-20241118-170158.png]]
 **Video UI Battle**
