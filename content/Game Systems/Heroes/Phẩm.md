@@ -3,6 +3,7 @@ tags:
   - hero
   - class
   - tiennt
+  - phuongch
 ---
 Có 6 phẩm của Ninja, phẩm tăng lên sẽ tăng giới hạn [[Cấp Độ Thuyền Viên]].
 Trừ một số trường hợp đặc biệt như Lính Chì sẽ có ưu tiên khác.
@@ -24,6 +25,22 @@ Trừ một số trường hợp đặc biệt như Lính Chì sẽ có ưu tiê
 | 13               | 6        |
 | 14               | 6        |
 | 15               | 6        |
-![[20241113175326.png]]
+![[Pasted image 20241122094351.png]]**
 
-![[20241113175313.png]]
+|   |   |
+|---|---|
+|ID|Giải nghĩa|
+|1|Vàng đang có|
+|2|Đá đột phá đang có|
+|3|Chỉ số sau khi đột phá|
+|4|Gold để đột phá|
+|5|Đá đột phá để đột phá|
+|6|Button Đột phá|
+|7|X để thoát|
+
+- Người chơi sử dụng enhance stone và gold để enhance hero
+- Đột phá cũng tăng các chỉ số cơ bản của hero
+- Đá đột phá lần sau tài nguyên sử dụng sẽ cao hơn lần trước
+- Đột phá(tăng phẩm) sẽ mở khóa các kỹ năng bị động của tướng
+- Chi tiết tài nguyên, chỉ số đột phá tướng: tại đây
+

@@ -67,27 +67,42 @@ Ngoài [[Lobby System]], chọn [[Heroes System]] sau đó vào Tab Trang Bị.
 - Người chơi click vào trang bị mong muốn
 - Ấn X để quay lại
 
-# Trang bị nhanh
+## Trang bị nhanh
 - Người chơi ấn trang bị nhanh để trang bị cho tướng theo ưu tiên nhiều lực chiến nhất.
 
 # Đá hộ mệnh
+
+![[20241122092553.png]]
 - Level mở khóa xem tại [[Unlock Tính Năng]]
 - Bảo vật có các phẩm, người chơi up level Bảo vật sẽ tăng phẩm từ thấp lên cao: green, blue, purple,yellow, orange, red.
 - Mỗi 10 level là 1 phẩm. Nâng cấp hết 5 sao sẽ chuyển Bảo vật sang phẩm khác
 - Bảo vật bắt đầu ở Green- level 1
 - Khi đến phẩm X: Bảo vật có  thêm 1 dòng chỉ số nữa. Tối đa Bảo vật có 2 dòng chỉ số
+
+## Nâng cấp đá bảo mệnh
+
+![[20241122092524.png]]
 - Người chơi sử dụng gold và dust để tăng cấp Bảo vật
-- Tăng cấp Bảo vật sẽ thay đổi loại chỉ số và giá trị chỉ số. Người chơi có thể sử dụng gem để lock loại chỉ số ở các dòng khi tăng cấp (lock: giữ nguyên dạng stat, tăng cấp sẽ tăng giá trị chỉ số)
-- Level Bảo vật càng cao tài nguyên sử dụng càng lớn
-- Người chơi cũng có thể sử dụng tài nguyên để đổi loại stat hiện tại sang loại stat khác
-- Chi tiết tài nguyên để đổi dòng và tăng cấp: Tại đây
+- Tăng cấp Bảo vật sẽ thay đổi loại chỉ số và giá trị chỉ số. 
+- Người chơi có thể sử dụng gem để lock loại chỉ số ở các dòng khi tăng cấp (lock: giữ nguyên dạng stat, tăng cấp sẽ tăng giá trị chỉ số)
+-  Level Bảo vật càng caogem sử dụng càng lớn
+![[20241122092650.png]]
+
+## Hoán đổi chỉ số đá bảo mệnh
+- Người chơi cũng có thể sử dụng (gold+dust) để đổi loại stat hiện tại sang loại stat khác
+- Lối vào: click vào đá hộ mệnh chọn hoán đổi
+
+
+### Chi tiết tài nguyên để đổi dòng và tăng cấp: Tại đây
 # Bảo vật
 - Mỗi Tướng có 1 ô bảo vật
+- Lối vào: Nhân vật > ô bảo vật
 - Điều kiện mở khóa: [[Unlock Tính Năng]]
 - Khi click vào ô bảo vật: sẽ xuất hiện danh sách bảo vật 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe7NelI0pTNsMnk3eFInIBPNTBWHeC4Tf83ZuwsUfUr30o8HvrpqDTt1k2wxjkPOt5WqD-jrdFuNPxbMvsjoxRYUvQ_-EcX6bRXlBKjNEuc07bJC07qTc-18oNPnixbqnWkoMARtg?key=OAGsZBxi1N9J8bm8LC37Hi3-)
 
+- Người chơi chọn bảo vật để trang bị cho nhân vật
 - Sắp  xếp bảo vật từ phẩm thấp>cao>sao
 - Danh sách các phẩm bảo vật: Lục; Tím; Vàng; Bỏ
 - Chọn bảo vật user muốn
@@ -116,6 +131,17 @@ Ngoài [[Lobby System]], chọn [[Heroes System]] sau đó vào Tab Trang Bị.
 |      | 5    | 5400                   |
 |      | 6    | 5400                   |
 
+|   |   |   |   |
+|---|---|---|---|
+|Phẩm|EXP|Phẩm|EXP|
+|Trắng||Vàng||
+|Lục||Đỏ||
+|Tím||||
+
+
+
+**
 ## Thêm chỉ số
 - Các bảo vật vàng với đỏ khi đeo đúng lớp nhân vật sẽ tăng thêm chỉ số
-- Chi tiết: Tại đây
+
+ ## Chi tiết: Tại đây
