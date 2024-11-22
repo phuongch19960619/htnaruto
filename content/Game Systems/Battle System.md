@@ -11,6 +11,10 @@ tags:
 3. [[Kết Quả Trận Đấu]].
 ![[20241112155058.png]]
 
+# UX mong muốn 
+![[20241122141056.png]]
+![[20241122141017.png]]
+
 # Ref ART
 ![[MuMu12-20241118-170158.png]]
 **Video UI Battle**
