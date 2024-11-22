@@ -2,6 +2,7 @@
 tags:
   - battle
   - tiennt
+  - readyUI
 ---
 Gồm 2 Slots
 ![[20241112111905.png]]

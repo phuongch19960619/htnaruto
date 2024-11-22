@@ -2,6 +2,7 @@
 tags:
   - battle
   - tiennt
+  - readyUI
 ---
 Người dùng có thể trượt trái phải để lướt qua toàn bộ các nhân vật trong kho đồ.
 ![[20241112113254.png]]
