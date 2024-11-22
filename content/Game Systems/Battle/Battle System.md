@@ -13,18 +13,18 @@ tags:
 ![[20241112155058.png]]
 ![[20241122141555.png]]
 
-| ID  | Detail                              | Bấm vào sẽ                                             |
-| --- | ----------------------------------- | ------------------------------------------------------ |
-| 1   | Nút [[Info Khắc Hệ]]                | Hiện ra [[Pop-up]] [[Info Khắc Hệ]]                    |
-| 2   | Số Vòng Đấu                         | -                                                      |
-| 3   | Nút tăng tốc [[Battle Speed]]       | Trận đấu sẽ tăng tốc.                                  |
-| 4   | Nút [[Skip Trận Đấu]]               | Kết thúc trận đấu luôn, chi tiết: [[Kết Quả Trận Đấu]] |
-| 5   | Danh sách các [[Hệ]] trong đội hình | Hiển thị tool-tip (xem bên dưới).                      |
-| 6   | Đội hình phe mình                   | -                                                      |
-| 7   | Đội hình phe địch                   | -                                                      |
-| 8   | Background màn chơi                 | -                                                      |
+| ID  | Detail                                                                                |
+| --- | ------------------------------------------------------------------------------------- |
+| 1   | Nút [[Info Khắc Hệ]]. Bấm vào hiện ra [[Pop-up]] [[Info Khắc Hệ]]                     |
+| 2   | Số Vòng Đấu                                                                           |
+| 3   | Nút tăng tốc [[Battle Speed]]. Bấm vào tăng tốc trận đấu.                             |
+| 4   | Nút [[Skip Trận Đấu]]. Bấm vào kết thúc trận đấu và dẫn đến màn [[Kết Quả Trận Đấu]]. |
+| 5   | Danh sách các [[Hệ]] trong đội hình. Bấm vào hiển thị tool-tip (xem bên dưới).        |
+| 6   | Đội hình phe mình                                                                     |
+| 7   | Đội hình phe địch                                                                     |
+| 8   | Background màn chơi                                                                   |
 # UX mong muốn 
-![[20241122141056.png]]
+![[20241122161022.png]]
 ![[20241122141017.png]]
 Khi tap vào biểu tượng sẽ có [[Tool-tip]] hiện ra.
 ![[20241122141201.png]]
