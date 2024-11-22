@@ -19,7 +19,7 @@ tags:
 | 2   | Số Vòng Đấu                          |
 | 3   | Nút tăng tốc Battle [[Battle Speed]] |
 | 4   | Nút [[Skip Trận Đấu]]                |
-| 5   | Danh sách [[Hiệu Ứng Đội Hình]]      |
+| 5   | Danh sách [[Kích Dòng Class]]      |
 | 6   | Đội hình phe mình                    |
 | 7   | Đội hình phe địch                    |
 | 8   | Background màn chơi                  |

@@ -15,7 +15,7 @@ Trước khi vào battle, người chơi sẽ được sắp xếp lại đội 
 | 3   | Slot [[Hàng Trước]]                   |
 | 4   | Slot [[Hàng Sau]]                     |
 | 5   | Vị trí [[chiến hạm]]                  |
-| 6   | [[Hiệu Ứng Đội Hình]]                 |
+| 6   | [[Kích Dòng Class]]                 |
 | 7   | Button - Tấn Công                     |
 | 8   | [[Filter Đội Hình]]                   |
 | 9   | [[Danh Sách Nhân Vật Trong Đội Hình]] |
