@@ -27,7 +27,7 @@ Từ màn hình [[Lobby System]], ấn vào [[Gacha System]] rồi ấn Chiêu M
 
 # Triệu Hồi Đặc Biệt
 Chọn hệ mong muốn để tiến hành triệu hồi
-Mỗi lần triệu hồi có tỉ lệ được tướng hệ Hiếm (Lôi & Ám) và nhận thêm [[Thuốc Hoán Đổi]].
+Mỗi lần triệu hồi có tỉ lệ được tướng và nhận thêm [[Thuốc Hoán Đổi]].
 ### Tỉ lệ ra tướng
 
 | Rank | Tỉ lệ |
@@ -40,7 +40,7 @@ Danh sách và chi tiết tỉ lệ xem tại đây.
 ### Triệu hồi theo hệ
 - Có 4 [[hệ]] xuất hiện theo banner: [[Nhanh Nhẹn]], [[Sinh Khí]], [[Bền Bỉ]], [[Chính Xác]].
 - Người chơi lựa chọn [[hệ]] tướng mong muốn chiêu mộ. 
-- Khi đã lựa chọn: tướng xuất hiện chỉ trong hệ đó (không có tướng hệ khác) và tướng hệ Hiếm
+- Khi đã lựa chọn: tướng xuất hiện chỉ trong hệ đó (không có tướng hệ khác) và tướng hệ Hiếm ([[Thông Minh]] + [[Minh Mẫn]])
 ### Triệu hồi Đặc biệt x1
 - Triệu hồi x1 tiêu tốn 1 [[Thùng Bia]] và ra 1 tướng (theo mảnh) hoặc mảnh tướng
 - Đi kèm X số lượng (Random từ 10 - 30) **[[Thuốc Hoán Đổi]]**.
