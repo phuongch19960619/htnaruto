@@ -31,4 +31,14 @@ Ngoài [[Lobby System]], chọn [[Heroes System]] sau đó vào Tab Thức Tỉn
 | 13  | Next tướng tiếp theo                                                                           |
 
 Nguyên liệu để nâng sao tiếp theo: [Tại đây](https://docs.google.com/spreadsheets/d/1ViChc12Qpx3wZ1CnjJ5PfOvDO03acPHRa3LOuESwOsY/edit?gid=0#gid=0)
-Khi tăng sao sẽ hoàn trả tài nguyên như hiến tế 1 tướng
+
+Nếu có tướng phù hợp, khi click vào dấu cộng sẽ hiển thị list tướng phù hợp
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8LeTNUbLQ8OYyMMEq1nvx__wx2PTlVyAyQcCZNwTSDO-CDTLKwpkgCU8NOKdWlsRFLktTiaGykwWVgMAAc22DwI5-OU04OxGHyc1cGNc1faoeOad3zQljjIqd3xg7BvDich_e?key=Rj2GecSPXkOID9mZY__0sxSx)
+
+Người chơi ấn vào tướng để làm nguyên liệu thức tỉnh sau đó ấn chọn
+
+Nếu không có tướng nào sẽ hiển thị popup cách để có tướng dẫn đến chiêu mộ hoặc cửa hàng
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfoEE-7THbDOLPt9oO9Fv1MqOOWVpaOiIzHwtG03f3TvZ1ZHWXagU1lzd4T7k4sWwN0i-14yYR8t3fAnqyQ0hAY0T5wFqQURx-BfeYbcobW7DpTq5WjJq0Y8sN_nRSsCX-KI3iH-Q?key=Rj2GecSPXkOID9mZY__0sxSx)
+
+  Khi tăng sao sẽ hoàn trả tài nguyên như hiến tế 1 tướng
