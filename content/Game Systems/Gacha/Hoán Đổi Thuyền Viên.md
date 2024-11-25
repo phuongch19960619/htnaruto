@@ -3,10 +3,21 @@ tags:
   - gacha
   - duongnd
 ---
+# Vị trí tính năng
+Từ màn hình [[Lobby System]], ấn vào [[Gacha System]] rồi ấn Chiêu Mộ Đặc Biệt Sau đó bấm vào Tab Hoán Đổi Thuyền Viên.
+
+# Mô tả tính năng
+
+
+
+
+
+
+
 ![[20241111143335.png]]
-- Dùng [[Thuốc Hoán Đổi]] để đổi 1 ninja 5⭐ ở rank A hoặc S thành ninja 5⭐ cùng hệ.
+- Dùng [[Thuốc Hoán Đổi]] để đổi 1 Thuyền Viên 5⭐ ở rank A hoặc S thành Thuyền Viên 5⭐ cùng hệ.
 ![[20241111143809.png]]
-- Nếu không hài lòng với kết quả đổi có thể hủy để lưu lại tướng cũ nhưng **Thuốc Hoán Đổi** đã dùng sẽ không được hoàn lại.
+- Nếu không hài lòng với kết quả đổi có thể hủy để lưu lại tướng cũ nhưng **[[Thuốc Hoán Đổi]]** đã dùng sẽ không được hoàn lại.
 ![[20241111143823.png]]
 - Ninja trong đội hình thủ Đấu Trường hoặc Khóa thì không thể thay đổi.
 - Hoán đổi thành công sẽ chuyển Cấp Bậc, Trang Bị, Bảo Vật,.. Của ninja cũ sang ninja mới.

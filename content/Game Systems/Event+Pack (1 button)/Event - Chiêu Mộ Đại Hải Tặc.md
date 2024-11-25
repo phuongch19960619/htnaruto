@@ -21,7 +21,7 @@ Người chơi đạt đủ điểm trong event sẽ nhận lại quà qua [[Th�
 | 10  | Background                                |
 
 **Luật chơi:**
-1. Trong thời gian diễn ra sự kiện, cứ 1 lần [[content/Game Systems/Gacha/Chiêu Mộ Đại Hải Tặc|Chiêu Mộ Đại Hải Tặc]] sẽ tích 1 điểm thưởng.
+1. Trong thời gian diễn ra sự kiện, cứ 1 lần [[Chiêu Mộ Đại Hải Tặc|Chiêu Mộ Đại Hải Tặc]] sẽ tích 1 điểm thưởng.
 2. Có 4 vòng chơi. Mỗi vòng sẽ có các yêu cầu tích điểm riêng xem trong file balance.
 3. Phần thưởng tự động gửi về hòm thư - Tiêu đề: Chiêu Mộ Đại Hải Tặc. Nội dung bên trong: "Phần thưởng sự kiện Chiêu Mộ Đại Hải Tặc".
 ![[20241118114228.png]]
