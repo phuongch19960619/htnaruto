@@ -15,12 +15,12 @@ Docs Balance gốc: Link
 | --- | --------------------------------------------- |
 | 1   | Back Button về lại màn hình chính             |
 | 2   | Tên Ải tương ứng trong [[Địa Điểm Thám Hiểm]] |
-| 3   | [[Top Vượt ải]]                               |
+| 3   | [[Top Vượt Ải]]                               |
 | 4   | [[Info Vượt ải]]                              |
 | 5   | Đội hình idle trong [[AFK]]                   |
 | 6   | Background Map                                |
 | 7   | Đội hình quái map trong [[AFK]]               |
-| 8   | Button [[Vượt ải]]                            |
+| 8   | Button [[Vượt Ải]]                            |
 | 9   | [[Map thế giới]]                              |
 | 10  | Trạng thái ải đã vượt + tên                   |
 | 11  | Trạng thái ải đang chọn + tên                 |

@@ -30,8 +30,7 @@ Từ màn hình [[Lobby System]], ấn vào [[Gacha System]] rồi ấn Chiêu M
 | 15  | Banner Chiêu Mộ Hải Tặc (thường) - một splash art của nhân vật cùi bất kì (Cabaji).     |
 | 16  | Banner Chiêu Mộ Đại Hải Tặc (xịn) - một splash art của nhân vật xịn bất kì (Zephyr).    |
 
-Ở màn hình này, tập trung vào idle animation của 2 nhân vật Banner. 
-Bên trái là Cabaji, bên phải là Zephyr.
+Ở màn hình này, tập trung vào idle animation của 2 nhân vật Banner. Bên trái là Cabaji, bên phải là Zephyr. Art có thể linh động chọn hình ảnh hiển thị. Riêng Banner Đại Hải Tặc thì xem trong [List Thuyền Viên](https://docs.google.com/spreadsheets/d/17Teha6FWCmoefyR9eu2IA52o3bB0nEBH_IW-y0poYc8/edit?gid=649350007#gid=649350007) rank SS để chọn.
 Banner Đại Hải Tặc sẽ đẹp hơn, effect ngầu hơn Banner Hải Tặc.
 
 ![[HTHT-ChieuMoIdlegif.gif]]
