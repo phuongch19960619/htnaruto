@@ -3,7 +3,7 @@ tags:
   - battle
   - tiennt
 ---
-# 01 - Đảo Dressrosa A
+# 01 - Thị trấn Orange
 
 ![[BattleArena1.png]]
 # 02 - Bờ biển Wano
@@ -12,7 +12,7 @@ tags:
 ![[BattleArena3.png]]
 # 04 - Đảo Thriller Bark
 ![[BattleArena4.png]]
-# 05 - Địa điểm Zoro bị trói
+# 05 - Địa điểm Zoro bị trói (Thị Trấn Shells)
 https://youtu.be/xTCkMA_A5t0?si=aAog4eaY71r4hjsY&t=526
 ![[BattleArena5.png]]
 # 06 - Hòn đảo Kuraigana
@@ -21,7 +21,7 @@ https://youtu.be/xTCkMA_A5t0?si=aAog4eaY71r4hjsY&t=526
 ![[BattleArena7.png]]
 # 08 - Mũi Thuyền Going Merry
 ![[BattleArena8.png]]
-# 09 - Đảo Dressrosa B
+# 09 - Đảo Dressrosa
 ![[BattleArena9.png]]
 # 10 - Đảo Trên Trời Skypiea
 ![[BattleArena10.png]]
