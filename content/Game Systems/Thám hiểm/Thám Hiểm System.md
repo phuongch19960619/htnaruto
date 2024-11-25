@@ -8,27 +8,30 @@ tags:
 Docs System gốc: [Link](https://docs.google.com/document/d/156jdXlwpxDSQ06v6TAc6vNUu0gJDd8s70hGHWagl7f8/edit?tab=t.0)
 Docs Balance gốc: Link
 
+# Vị trí tính năng
+Từ màn hình [[Lobby System]], chọn Thám Hiểm để vào tính năng.
+![[20241125163405.png]]
 # Tổng Quan
 ![[20241113105033.png]]
 
-| ID  | Giải nghĩa                                    |
-| --- | --------------------------------------------- |
-| 1   | Back Button về lại màn hình chính             |
-| 2   | Tên Ải tương ứng trong [[Địa Điểm Thám Hiểm]] |
-| 3   | [[Top Vượt Ải]]                               |
-| 4   | [[Info Vượt ải]]                              |
-| 5   | Đội hình idle trong [[AFK]]                   |
-| 6   | Background Map                                |
-| 7   | Đội hình quái map trong [[AFK]]               |
-| 8   | Button [[Vượt Ải]]                            |
-| 9   | [[Map thế giới]]                              |
-| 10  | Trạng thái ải đã vượt + tên                   |
-| 11  | Trạng thái ải đang chọn + tên                 |
-| 12  | Trạng thái ải chưa vượt + tên                 |
-| 13  | Background tiến trình ải trong map            |
-| 14  | Thanh tài nguyên                              |
-| 15  | Phần thưởng vượt ải, nằm trong [[Hòm AFK]]    |
-| 16  | [[Hòm AFK]]                                   |
+| ID  | Giải nghĩa                                                           |
+| --- | -------------------------------------------------------------------- |
+| 1   | Back Button. Bấm sẽ về [[Lobby System]].                             |
+| 2   | Tên Ải tương ứng trong [[Địa Điểm Thám Hiểm]]. Không thể bấm.        |
+| 3   | Button xem top vượt ải. Bấm ra [[Top Vượt Ải]].                      |
+| 4   | Button hướng dẫn. Bấm ra [[Info Vượt ải]].                           |
+| 5   | Đội hình idle trong [[AFK]]. Không thể bấm.                          |
+| 6   | Background. Không thể bấm.                                           |
+| 7   | Đội hình quái trong [[AFK]]. Không thể bấm.                          |
+| 8   | Button Chiến Đấu. Bấm sẽ vào [[Vượt Ải]].                            |
+| 9   | Button bản đồ. Bấm vào [[Map thế giới]].                             |
+| 10  | Trạng thái ải đã vượt + tên. Bấm ra [[Pop-up]] vượt ải - mục [15].   |
+| 11  | Trạng thái ải đang chọn + tên. Bấm ra [[Pop-up]] vượt ải - mục [15]. |
+| 12  | Trạng thái ải chưa vượt + tên. Bấm ra [[Pop-up]] vượt ải - mục [15]. |
+| 13  | Background tiến trình ải trong map. Không thể bấm.                   |
+| 14  | Thanh tài nguyên. Không thể bấm.                                     |
+| 15  | Phần thưởng vượt ải - đây là [[Pop-up]].                             |
+| 16  | [[Hòm AFK]]. Bấm ra [[Pop-up]] thông tin đánh ải.                    |
 
 # Log cần bổ sung
 - Ải + số user vượt qua

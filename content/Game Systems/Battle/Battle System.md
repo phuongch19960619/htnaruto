@@ -22,7 +22,7 @@ tags:
 | 5   | Danh sách các [[Hệ]] trong đội hình. Bấm vào hiển thị tool-tip (xem bên dưới).        |
 | 6   | Đội hình phe mình                                                                     |
 | 7   | Đội hình phe địch                                                                     |
-| 8   | Background màn chơi                                                                   |
+| 8   | Background màn chơi -> Xem [[Danh sách Background Battle]].                           |
 # UX mong muốn 
 ![[20241122161022.png]]
 ![[20241122141017.png]]
