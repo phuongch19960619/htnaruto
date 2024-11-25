@@ -1,6 +1,0 @@
----
-tags:
-  - event
-  - tiennt
----
-xxxx
