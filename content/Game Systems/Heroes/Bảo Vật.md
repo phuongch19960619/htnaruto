@@ -1,3 +1,9 @@
+---
+tags:
+  - hero
+  - phuongch
+  - readyUI
+---
 Hero>Tướng>Trang bị>Bảo Vật
 - Mỗi Tướng có 1 ô bảo vật
 - Lối vào: Nhân vật > ô bảo vật

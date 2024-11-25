@@ -1,3 +1,9 @@
+---
+tags:
+  - hero
+  - phuongch
+  - readyUI
+---
 Hero>Tướng>Trang Bị>Nâng Ngọc
 
 ![[20241122092553.png]]
