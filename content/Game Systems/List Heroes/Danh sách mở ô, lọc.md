@@ -11,26 +11,25 @@ Docs Balance gốc: Link
 # Mô tả tính năng
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf05FAN7ejOPBoVDQt1XeYFPS35pWXwDwUuH8GtHf8ARRnl-eExiOvILX5UvO9H0rVpMMc2AENGyzt-nj0YVPXyJovVQwjhNVfrEFUFm9SMKY0c7OEK8kcN8a9-6W39dZXJzI4leg?key=nlnMGZKBeP7GlgWLaIIXgpqX)
 
-| ID  | Giải nghĩa                                        |
-| --- | ------------------------------------------------- |
-| 1   | Back Button về lại màn [[Lobby System]]           |
-| 2   | Hệ 1. Bấm vào ra list tướng hệ 1 đang có          |
-| 3   | Hệ 2                                              |
-| 4   | Hệ 3                                              |
-| 5   | Hệ 4                                              |
-| 6   | Hệ 5                                              |
-| 7   | Hệ 6                                              |
-| 8   | Sắp xếp. Bấm vào sẽ ra [[Khi ấn vào nút sắp xếp]] |
-| 9   | Tướng đang có                                     |
-| 10  | Mở thêm slot danh sách. (xem thêm bên dưới)       |
-| 11  | Trợ giúp. (xem thêm bên dưới)                     |
-| 12  | Thư viện. Bấm vào ra[[Thư Viện]]                  |
+| ID  | Giải nghĩa                                      |
+| --- | ----------------------------------------------- |
+| 1   | Back Button về lại màn [[Lobby System]]         |
+| 2   | Hệ [[Nhanh Nhẹn]]. Bấm ra list tướng cùng hệ.   |
+| 3   | Hệ [[Bền Bỉ]]. Bấm ra list tướng cùng hệ.       |
+| 4   | Hệ [[Chính Xác]]. Bấm ra list tướng cùng hệ.    |
+| 5   | Hệ [[Sinh Khí]]. Bấm ra list tướng cùng hệ.     |
+| 6   | Hệ [[Thông Minh]]. Bấm ra list tướng cùng hệ.   |
+| 7   | Hệ [[Minh Mẫn]]. Bấm ra list tướng cùng hệ.     |
+| 8   | Sắp xếp. Bấm vào ra [[Khi ấn vào nút sắp xếp]]. |
+| 9   | [[Thẻ Tướng]]. Bấm vào ra [[Thông Tin Tướng]].  |
+| 10  | Mở thêm slot danh sách. (xem thêm bên dưới)     |
+| 11  | Trợ giúp. (xem thêm bên dưới)                   |
+| 12  | Thư viện. Bấm vào ra [[Thư Viện]]               |
 
-# Các Hệ
+# Các [[Hệ]]
 - Khi click vào tướng sẽ hiện toàn bộ các tướng người chơi đang sở hữu trong Game
 - Khi click vào 1 hệ sẽ hiển thị ra các tướng hệ đó mà người chơi sở hữu đang có trong game
 - Khi click vào hệ đó lần thứ 2 sẽ hiển thị lại toàn bộ tướng người chơi đang sở hữu trong Game
-
 # Sắp xếp
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1_JZ7VxKeVGucG3IOsZTLYcWn5eQ3zLAXWoarhPNcGurBs4czCzeOglAqoMS-hzqcn4W3e1tmIJ-N_eX-4ayVNiRfbT1I5iXwiY_6ESkplLjPw3VRL6Zxg5cjdgB5VmagRRbTzw?key=nlnMGZKBeP7GlgWLaIIXgpqX)
 
@@ -55,5 +54,5 @@ Giá mở slot
 | 5   | 300               | 85                             |
 Ngoài ra, người chơi có thể mở rộng slot thông qua [[Túi Thuyền Trưởng]].
 # Trợ Giúp
-- Khi click vào sẽ hiển thị ra bảng pop upcó text mô tả 
+- Khi click vào sẽ hiển thị ra bảng [[Pop-up]] có text mô tả 
 ![[20241119164136.png]]

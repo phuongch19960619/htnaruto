@@ -51,10 +51,10 @@ Danh sách và chi tiết tỉ lệ xem tại đây.
 
 # Trạng thái chọn Thuyền Viên
 Có 4 banner, mỗi banner là một hình ảnh thuyền viên chỉ định (như hình). 
-1. Banner [[Nhanh Nhẹn]]: Nami
-2. Banner [[Sinh Khí]]: Eneru
-3. Banner [[Bền Bỉ]]: Portgas D. Ace
-4. Banner [[Chính Xác]]: Donquixote Doflamingo
+1. Banner [[Nhanh Nhẹn]]: Thay Nami thành **Mihawk**
+2. Banner [[Sinh Khí]]: Thay Eneru thành **Marco**
+3. Banner [[Bền Bỉ]]: Thay Portgas D. Ace thành **NicoRobin**
+4. Banner [[Chính Xác]]: Thay Donquixote Doflamingo thành **Yamato**
 
 Khi được lựa chọn, Banner sẽ có hiệu ứng được lựa chọn.
 ![[HTHT-ChieuMoDacBietFXgif.gif]]

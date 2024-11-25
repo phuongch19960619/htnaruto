@@ -4,14 +4,17 @@ tags:
   - class
   - tiennt
 ---
-Có 6 hạng của Thuyền Viên, tương ứng với phẩm là số sao khởi đầu.
+Một Thuyền Viên/Tướng sẽ được chia vào 1 trong các hạng (rank) từ **thấp đến cao** như sau:
 
-| Phẩm   | Sao khởi đầu | Sao max có thể lên | Hạn chế                                                                             |
-| ------ | ------------ | ------------------ | ----------------------------------------------------------------------------------- |
-| **D**  | 1            | 1                  | Không thể [[Thức Tỉnh]], không thể [[Trang Bị Đặc Thù]], không có [[Dấu Ấn Germa]]. |
-| **C**  | 2            | 2                  | Không thể [[Thức Tỉnh]], không thể [[Trang Bị Đặc Thù]], không có [[Dấu Ấn Germa]]. |
-| **B**  | 3            | 3                  | Không thể [[Thức Tỉnh]], không thể [[Trang Bị Đặc Thù]], không có [[Dấu Ấn Germa]]. |
-| **A**  | 4            | 5                  | Không thể [[Trang Bị Đặc Thù]], không có [[Dấu Ấn Germa]].                          |
-| **S**  | 5            | -                  | Không có [[Dấu Ấn Germa]].                                                          |
-| **SS** | 5            | -                  | -                                                                                   |
+| Hạng | Hình ảnh trong game                  | [[Thức tỉnh]] | [[Trang bị đặc thù]] | [[Dấu Ấn Germa]] |
+| ---- | ------------------------------------ | ------------- | -------------------- | ---------------- |
+| D    | ![[20241125151056.png]] | -             | -                    | -                |
+| C    | ![[20241125151126.png]] | -             | -                    | -                |
+| B    | ![[20241125151320.png]] | -             | -                    | -                |
+| A    | ![[20241125151325.png]] | Có            | -                    | -                |
+| S    | ![[20241125151330.png]] | Có            | Có                   | -                |
+| SS   | ![[20241125151335.png]] | Có            | Có                   | Có               |
+| SSS  | ![[20241125151341.png]] | Có            | Có                   | Có               |
+
+Có 6 hạng của Thuyền Viên, tương ứng với hạng là số sao khởi đầu.
 Trừ một số trường hợp đặc biệt như Lính Chì sẽ có ưu tiên khác.

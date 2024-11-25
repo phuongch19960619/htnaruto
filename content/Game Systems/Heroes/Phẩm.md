@@ -5,8 +5,13 @@ tags:
   - tiennt
   - phuongch
 ---
-Có 6 phẩm của Ninja, phẩm tăng lên sẽ tăng giới hạn [[Cấp Độ Thuyền Viên]].
+Có 6 phẩm của Thuyền Viên, phẩm tăng lên sẽ tăng giới hạn Cấp Độ Thuyền Viên.
 Trừ một số trường hợp đặc biệt như Lính Chì sẽ có ưu tiên khác.
+
+| Trạng thái   | Hình ảnh           | Hình ảnh                             |
+| ------------ | ------------------ | ------------------------------------ |
+| Chưa mở khóa | ![[slot_tier.png]] | ![[20241125153324.png]] |
+| Mở khóa      | ![[gem_tier.png]]  | ![[20241125153528.png]] |
 
 | Số sao của Ninja | Phẩm max |
 | ---------------- | -------- |
@@ -27,15 +32,15 @@ Trừ một số trường hợp đặc biệt như Lính Chì sẽ có ưu tiê
 | 15               | 6        |
 ![[20241122094351.png]]**
 
-| ID  | Giải nghĩa             |
-| --- | ---------------------- |
-| 1   | Vàng đang có           |
-| 2   | Đá đột phá đang có     |
-| 3   | Chỉ số sau khi đột phá |
-| 4   | Gold để đột phá        |
-| 5   | Đá đột phá để đột phá  |
-| 6   | Button Đột phá         |
-| 7   | X để thoát             |
+| ID  | Giải nghĩa               |
+| --- | ------------------------ |
+| 1   | [[Beli]] đang có         |
+| 2   | [[Đá Cường Hóa]] đang có |
+| 3   | Chỉ số sau khi đột phá   |
+| 4   | Gold để đột phá          |
+| 5   | Đá đột phá để đột phá    |
+| 6   | Button Đột phá           |
+| 7   | X để thoát               |
 
 - Người chơi sử dụng enhance stone và gold để enhance hero
 - Đột phá cũng tăng các chỉ số cơ bản của hero
