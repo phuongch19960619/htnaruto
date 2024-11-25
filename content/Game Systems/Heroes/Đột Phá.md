@@ -3,23 +3,25 @@ tags:
   - hero
   - phuongch
 ---
+
+- Khi nâng cấp tướng đạt giới hạn level cần đột phá Hero 1 lần để tăng giới hạn tăng level của main
+![[20241121111939.png]]
+Ấn vào nút "hướng lên" để vào pop up đột phá
+
 ![[20241121111855.png]]
 
-| ID  | Giải nghĩa             |
-| --- | ---------------------- |
-| 1   | Vàng đang có           |
-| 2   | Đá đột phá đang có     |
-| 3   | Chỉ số sau khi đột phá |
-| 4   | Gold để đột phá        |
-| 5   | Đá đột phá để đột phá  |
-| 6   | Button Đột phá         |
-| 7   | X để thoát             |
+| ID  | Giải nghĩa              |
+| --- | ----------------------- |
+| 1   | Đồng Beli đang có       |
+| 2   | Đá Cường hóa đang có    |
+| 3   | Chỉ số sau khi đột phá  |
+| 4   | Đồng Beli để đột phá    |
+| 5   | Đá Cường hóa để đột phá |
+| 6   | Button Đột phá          |
+| 7   | X để thoát              |
 
-- Khi nâng cấp tướng đạt giới hạn level cần Enhance Hero 1 lần để tăng giới hạn tăng level của main
-![[20241121111939.png]]
-
-- Người chơi sử dụng enhance stone và gold để enhance hero
+- Người chơi sử dụng Đá Cường Hóa và Đồng Beli để enhance hero
 - Enhance cũng tăng các chỉ số cơ bản của hero
-- Enhance stone để nâng Enhance lần sau sẽ cao hơn lần trước
-- Đột phá(tăng phẩm) sẽ mở khóa các kỹ năng bị động của tướng
-- Chi tiết tài nguyên, chỉ số đột phá tướng: tại đây
+- Đá Cường Hóa để nâng Enhance lần sau sẽ cao hơn lần trước
+- Đột phá (tăng phẩm) sẽ mở khóa các kỹ năng bị động của tướng
+- Chi tiết tài nguyên, chỉ số đột phá tướng: 

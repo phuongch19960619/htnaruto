@@ -28,7 +28,7 @@ Nếu sau 15 vòng không thắng thì thua.
 | 1   | Banner Lose                                                                                           |
 | 2   | [[Share Kết Quả Trận Đấu]]                                                                            |
 | 3   | [[Info Trận Đấu]]                                                                                     |
-| 4   | Các Button về tính năng: [[Nâng cấp trang bị]], [[Nâng cấp Thuyền Viên]], Chiêu mộ Ninja - [[Gacha Thường]] |
+| 4   | Các Button về tính năng: [[Nâng cấp trang bị]], [[Nâng lv]], Chiêu mộ Ninja - [[Gacha Thường]] |
 | 5   | Thông số tổng sát thương                                                                              |
 | 6   | Button - Đóng                                                                                         |
 | 7   | [[Battle ID]]                                                                                         |

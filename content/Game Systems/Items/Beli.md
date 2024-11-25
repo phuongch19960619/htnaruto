@@ -3,7 +3,7 @@ tags:
   - item
   - tiennt
 ---
-Dùng trong [[Nâng cấp Thuyền Viên]].
+Dùng trong [[Nâng lv]].
 ![[20241114174858.png]]
 **Tìm thấy trong:**
 1. Vượt ải
