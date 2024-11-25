@@ -2,6 +2,8 @@
 tags:
   - listheroes
   - tiennt
+  - readyUI
+  - phuongch
 ---
 # Tài liệu
 Docs System gốc: [Link](https://docs.google.com/document/d/1X5BmXDunyNVtlGfLv6pYpm3he5zkWOZq2bzh5OmK-lQ/edit?tab=t.0)
@@ -9,20 +11,20 @@ Docs Balance gốc: Link
 # Mô tả tính năng
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf05FAN7ejOPBoVDQt1XeYFPS35pWXwDwUuH8GtHf8ARRnl-eExiOvILX5UvO9H0rVpMMc2AENGyzt-nj0YVPXyJovVQwjhNVfrEFUFm9SMKY0c7OEK8kcN8a9-6W39dZXJzI4leg?key=nlnMGZKBeP7GlgWLaIIXgpqX)
 
-| ID  | Giải nghĩa                        |
-| --- | --------------------------------- |
-| 1   | Back Button về lại màn hình chính |
-| 2   | Hệ 1                              |
-| 3   | Hệ 2                              |
-| 4   | Hệ 3                              |
-| 5   | Hệ 4                              |
-| 6   | Hệ 5                              |
-| 7   | Hệ 6                              |
-| 8   | Sắp xếp                           |
-| 9   | Tướng đang có                     |
-| 10  | Mở thêm slot danh sách            |
-| 11  | Trợ giúp                          |
-| 12  | Thư viện                          |
+| ID  | Giải nghĩa                                        |
+| --- | ------------------------------------------------- |
+| 1   | Back Button về lại màn [[Lobby System]]           |
+| 2   | Hệ 1. Bấm vào ra list tướng hệ 1 đang có          |
+| 3   | Hệ 2                                              |
+| 4   | Hệ 3                                              |
+| 5   | Hệ 4                                              |
+| 6   | Hệ 5                                              |
+| 7   | Hệ 6                                              |
+| 8   | Sắp xếp. Bấm vào sẽ ra [[Khi ấn vào nút sắp xếp]] |
+| 9   | Tướng đang có                                     |
+| 10  | Mở thêm slot danh sách. (xem thêm bên dưới)       |
+| 11  | Trợ giúp. (xem thêm bên dưới)                     |
+| 12  | Thư viện. Bấm vào ra[[Thư Viện]]                  |
 
 # Các Hệ
 - Khi click vào tướng sẽ hiện toàn bộ các tướng người chơi đang sở hữu trong Game
@@ -53,5 +55,5 @@ Giá mở slot
 | 5   | 300               | 85                             |
 Ngoài ra, người chơi có thể mở rộng slot thông qua [[Túi Thuyền Trưởng]].
 # Trợ Giúp
-- Khi click vào sẽ hiển thị ra bảng có text mô tả 
+- Khi click vào sẽ hiển thị ra bảng pop upcó text mô tả 
 ![[20241119164136.png]]
