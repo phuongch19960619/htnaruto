@@ -5,8 +5,10 @@ tags:
   - tiennt
 ---
 Sao và [[phẩm]] qui định giới hạn sức mạnh của [[Heroes System]].
-Game chia làm 15 cấp sao. Sau 10 cấp sao sẽ thức tỉnh lên hạng số.
-Ta chia hình ảnh sao từ thấp đến cao như sau:
+Game chia làm 15 cấp sao. Sau 10 cấp sao sẽ thức tỉnh lên sao có số.
+![[20241125155834.png]]
+
+Ta chia hình ảnh sao từ **thấp** đến **cao** như sau:
 
 | Cấp sao              | Hình Ảnh                             |
 | -------------------- | ------------------------------------ |
@@ -14,6 +16,7 @@ Ta chia hình ảnh sao từ thấp đến cao như sau:
 | 6 -> 9               | ![[hero_star_2.png]]                 |
 | 10                   | ![[hero_star_3.png]]                 |
 | 11 -> 15 (Thức tỉnh) | ![[20241125154327.png]] |
+
 **VD về một vài cách kí hiệu**
 Tướng 3 sao sẽ có 3 ngôi sao cạnh nhau: ![[hero_star_1.png]]![[hero_star_1.png]]![[hero_star_1.png]]
 Tướng 7 sao sẽ có 2 sao tím ![[hero_star_2.png]]![[hero_star_2.png]]
