@@ -17,4 +17,6 @@ Một Thuyền Viên/Tướng sẽ được chia vào 1 trong các hạng (rank)
 | SSS  | ![[20241125151341.png]] | Có            | Có                   | Có               |
 
 Có 6 hạng của Thuyền Viên, tương ứng với hạng là số sao khởi đầu.
+**Màu sắc** của mỗi hạng rank giống như hình mô tả trong bảng trên.
+
 Trừ một số trường hợp đặc biệt như Lính Chì sẽ có ưu tiên khác.
