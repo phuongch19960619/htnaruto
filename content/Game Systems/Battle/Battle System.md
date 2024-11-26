@@ -30,7 +30,13 @@ Khi tap vào biểu tượng sẽ có [[Tool-tip]] hiện ra.
 ![[20241122141201.png]]
 ![[20241122155459.png]]
 Các dòng được kích lên sẽ có màu xanh, chi tiết thông tin xem trong [[Kích Dòng Class]].
+
 # Ref ART
 ![[MuMu12-20241118-170158.png]]
 **Video UI Battle**
 ![[1119.mp4]]
+
+# Update 26 Nov 2024
+![[20241126093818.png]]
+Các cánh sao sẽ sáng theo các màu hệ của các nhân vật trong battle.
+Sao trong trận là 6 cánh - tương đương với 6 nhân vật.
