@@ -33,3 +33,15 @@ Từ [[Lobby System]], vào [[Thư Viện]], bấm vào [[Thông Tin Tướng]],
 ### Chi tiết tài nguyên để đổi dòng và tăng cấp: Tại đây
 
 
+## Icon ngọc
+
+![[20241126171623.png]]
+
+| id  | Là gì                                                                   |
+| --- | ----------------------------------------------------------------------- |
+| 1   | Khung ứng với từng phẩm bao bên ngoài (màu sắc khung đại diện cho phẩm) |
+| 2   | Hiệu ứng khung ngọc (nếu có)                                            |
+| 3   | Background cùng màu với phẩm                                            |
+| 4   | Hình ảnh Ngọc                                                           |
+| 5   | Hình ảnh hiệu ứng ngọc (nếu có)                                         |
+| 6   | Sao Ngọc ở góc dưới trái                                                |

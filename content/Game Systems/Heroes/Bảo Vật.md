@@ -5,7 +5,7 @@ tags:
   - readyUI
 ---
 # Vị trí tính năng
-Từ [[Lobby System]], vào [[Thư Viện]], bấm vào [[Thông Tin Tướng]], mở tab [[Trang bị]] và ấn vào ô Bảo Vật.
+Từ [[Lobby System]], vào [[Thư Viện]], bấm vào [[Thông Tin Tướng]], mở tab [[Bảo Vật]] và ấn vào ô Bảo Vật.
 ![[HTHT-TrangBiNone_baovatgif.gif]]
 
 # Mô tả tính năng
@@ -17,12 +17,12 @@ Từ [[Lobby System]], vào [[Thư Viện]], bấm vào [[Thông Tin Tướng]],
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe7NelI0pTNsMnk3eFInIBPNTBWHeC4Tf83ZuwsUfUr30o8HvrpqDTt1k2wxjkPOt5WqD-jrdFuNPxbMvsjoxRYUvQ_-EcX6bRXlBKjNEuc07bJC07qTc-18oNPnixbqnWkoMARtg?key=OAGsZBxi1N9J8bm8LC37Hi3-)
 
 
-- Người chơi chọn bảo vật để trang bị cho nhân vật. Hệ thống bung [[Pop-up]] hỏi người chơi lắp đồ.
+- Người chơi chọn bảo vật để Bảo Vật cho nhân vật. Hệ thống bung [[Pop-up]] hỏi người chơi lắp đồ.
 ![[HTHT-FlowTrangBigif.gif]]
 - Sắp xếp bảo vật từ phẩm thấp>cao>sao
 - Danh sách các phẩm bảo vật: Lục; Tím; Vàng; Bỏ
 - Chọn bảo vật user muốn
-- Ấn X để quay lại trang bị
+- Ấn X để quay lại Bảo Vật
 # Các trạng thái
 ![[20241126164948.png]]
 Bảo vật có 2 trạng thái: chưa có và đã có đồ.
@@ -71,3 +71,17 @@ Nếu còn dư EXP, hệ thống sẽ bung [[Pop-up]] qui đổi lại thành b�
 ## Thêm chỉ số
 - Các bảo vật vàng với đỏ khi đeo đúng lớp nhân vật sẽ tăng thêm chỉ số
 
+## Icon Bảo Vật
+
+![[20241126172056.png]]
+
+| id  | Là gì                                                                   |
+| --- | ----------------------------------------------------------------------- |
+| 1   | Khung ứng với từng phẩm bao bên ngoài (màu sắc khung đại diện cho phẩm) |
+| 2   | Hiệu ứng khung Bảo Vật nếu có                                           |
+| 3   | Background cùng màu với phẩm                                            |
+| 4   | Hình ảnh Bảo Vật                                                        |
+| 5   | Hình ảnh hiệu ứng Bảo Vật(nếu có)                                       |
+| 6   | Sao Bảo Vật ở góc dưới trái                                             |
+| 7   | Số lượng ở góc dưới bên phải                                            |
+| 8   | Hệ (nếu có) ở góc trên bên phải                                         |

@@ -47,22 +47,37 @@ Ngoài [[Lobby System]], chọn [[Heroes System]] sau đó vào Tab Trang Bị.
 
 - Danh sách trang bị : Mũ; Áo; Quần; Giày mỗi loại bao gồm các phẩm:
 
-| Phẩm | Sao | Phẩm | Sao |
-| ---- | --- | ---- | --- |
-| Lục  | 1   | Vàng | 1   |
-| Lục  | 2   | Vàng | 2   |
-| Lam  | 1   | Vàng | 3   |
-| Lam  | 2   | Vàng | 4   |
-| Tím  | 1   | Đỏ   | 1   |
-| Tím  | 2   | Đỏ   | 2   |
-| Tím  | 3   | Đỏ   | 3   |
-|      |     | Đỏ   | 4   |
-|      |     | Đỏ   | 5   |
-|      |     | Đỏ   | 6   |
+| Phẩm  | Sao | Phẩm | Sao |
+| ----- | --- | ---- | --- |
+| Trắng | 1   | Vàng | 1   |
+| Trắng | 2   | Vàng | 2   |
+| Lục   | 1   | Vàng | 3   |
+| Lục   | 2   | Vàng | 4   |
+| Lam   | 1   | Đỏ   | 1   |
+| Lam   | 2   | Đỏ   | 2   |
+| Tím   | 1   | Đỏ   | 3   |
+| Tím   | 2   | Đỏ   | 4   |
+| Tím   | 3   | Đỏ   | 5   |
+|       |     | Đỏ   | 6   |
 
 - Người chơi click vào trang bị mong muốn
 - Ấn X để quay lại
 
+
 ## Trang bị nhanh
 - Người chơi ấn trang bị nhanh để trang bị cho tướng theo ưu tiên nhiều lực chiến nhất.
 
+
+## Icon Trang Bị
+![[20241126172228.png]]
+
+| id  | Là gì                                                                   |
+| --- | ----------------------------------------------------------------------- |
+| 1   | Khung ứng với từng phẩm bao bên ngoài (màu sắc khung đại diện cho phẩm) |
+| 2   | Hiệu ứng khung trang bị nếu có                                          |
+| 3   | Background cùng màu với phẩm                                            |
+| 4   | Hình ảnh trang bị                                                       |
+| 5   | Hình ảnh hiệu ứng trang bị(nếu có)                                      |
+| 6   | Sao trang bị ở góc dưới trái                                            |
+| 7   | Số lượng ở góc dưới bên phải                                            |
+| 8   | Lớp nhân vật phía trên bên phải (nếu có)                                |
