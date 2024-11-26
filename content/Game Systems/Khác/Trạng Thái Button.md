@@ -5,7 +5,7 @@ tags:
   - phuongch
 ---
 # List hero
-![[Pasted image 20241125170336.png]]
+![[20241125170336.png]]
 
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
@@ -20,7 +20,7 @@ tags:
 
 # Thư Viện
 
-![[Pasted image 20241125172252.png]]
+![[20241125172252.png]]
 
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
@@ -34,7 +34,7 @@ tags:
 
 # Nâng Lv
 
-![[Pasted image 20241125172421.png]]
+![[20241125172421.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
@@ -48,14 +48,14 @@ tags:
 
 ## Chỉ Số Nâng Cao
 
-![[Pasted image 20241125172622.png]]
+![[20241125172622.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
 | 1      | Tối đi                   |        |                          |
 
 # Trang Bị
-![[Pasted image 20241125172708.png]]
+![[20241125172708.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
@@ -67,7 +67,7 @@ tags:
 |        |                          |        |                          |
 ## Thay Gỡ Trang Bị
 
-![[Pasted image 20241125172823.png]]
+![[20241125172823.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
@@ -76,7 +76,7 @@ tags:
 | 3      | Tối đi                   |        |                          |
 
 # Thức Tỉnh
-![[Pasted image 20241125173014.png]]
+![[20241125173014.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
@@ -84,14 +84,14 @@ tags:
 | 2      | Tối đi                   | 5      | Tối đi                   |
 | 3      | Tối đi                   | 6      | Tối đi                   |
 ## Tìm Kiếm Tướng để Thức Tỉnh
-![[Pasted image 20241125173121.png]]
+![[20241125173121.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
 | 1      | Tối đi                   | 2      | Tối đi                   |
 
 # Mua Thêm Slot
-![[Pasted image 20241125173637.png]]
+![[20241125173637.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
@@ -99,7 +99,7 @@ tags:
 
 # Ngọc
 
-![[Pasted image 20241125173709.png]]
+![[20241125173709.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
@@ -107,14 +107,14 @@ tags:
 | 3      | Tối đi                   |        |                          |
 
 ## Nâng Ngọc
-![[Pasted image 20241125173749.png]]
+![[20241125173749.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
 | 1      | Tối đi                   | 2      | Tối đi                   |
 ## Hoán Đổi chỉ số ngọc
 ### Trước khi ấn hoán đổi
-![[Pasted image 20241125173832.png]]
+![[20241125173832.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
@@ -122,7 +122,7 @@ tags:
 | 3      | Tối đi                   |        |                          |
 
 ### Sau khi ấn hoán đổi
-![[Pasted image 20241125173915.png]]
+![[20241125173915.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào         |
 | ------ | ------------------------ | ------ | -------------------------------- |
@@ -132,7 +132,7 @@ tags:
 # Bảo Vật
 
 # Lần Đầu
-![[Pasted image 20241125174203.png]]
+![[20241125174203.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
@@ -142,7 +142,7 @@ tags:
 
 ## Khi đang đeo Bảo vật
 
-![[Pasted image 20241125174006.png]]
+![[20241125174006.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
@@ -150,8 +150,25 @@ tags:
 | 2      | Tối đi                   |        |                          |
 
 ### Thay bảo vật
-![[Pasted image 20241125174301.png]]
+![[20241125174301.png]]
 
 | Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
 | ------ | ------------------------ | ------ | ------------------------ |
 | 1      | Tối đi                   |        |                          |
+### Nâng Cấp bảo vật
+![[20241126094230.png]]
+
+| Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
+| ------ | ------------------------ | ------ | ------------------------ |
+| 1      | Tối đi                   | 3      | Tối đi                   |
+| 2      | Tối đi                   |        |                          |
+
+## Khóa/Mở khóa/Share Tướng/ Dấu Ấn Germa
+
+![[20241126094422.png]]
+
+| Vị trí | Trạng thái khi click vào | Vị trí | Trạng thái khi click vào |
+| ------ | ------------------------ | ------ | ------------------------ |
+| 1      | Tối đi                   | 3      | Tối đi                   |
+| 2      | Tối đi                   |        |                          |
+|        |                          |        |                          |
