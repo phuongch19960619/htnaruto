@@ -9,6 +9,8 @@ Docs Balance gốc: Link
 
 # Vị trí tính năng
 Ngoài [[Lobby System]], chọn [[Heroes System]] sau đó vào Tab Thức Tỉnh.
+![[HTHT-ThucTinhPosgif.gif]]
+
 ![[20241113174202.png]]
 
 # Mô tả tính năng
