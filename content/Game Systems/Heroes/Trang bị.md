@@ -19,9 +19,9 @@ Ngoài [[Lobby System]], chọn [[Heroes System]] sau đó vào Tab Trang Bị.
 | 1   | Back Button về lại màn hình Tướng |
 | 2   | [[Beli]] đang có                  |
 | 3   | [[Đá EXP]] đang có                |
-| 4   | Trang bị hiện tại/trang bị        |
-| 5   | Đá hộ mệnh                        |
-| 6   | Bảo vật                           |
+| 4   | [[Trang bị]]                      |
+| 5   | [[Nâng Ngọc]]                     |
+| 6   | [[Bảo vật]]                       |
 | 7   | Button - Trang bị nhanh           |
 | 8   | Button - Gỡ trang bị              |
 | 9   | Tên, Hạng, Phẩm nhân vật          |
