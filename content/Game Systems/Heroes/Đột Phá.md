@@ -3,7 +3,10 @@ tags:
   - hero
   - phuongch
 ---
+# Vị trí tính năng
+Ở tab [[Nâng lv]].
 
+# Miêu tả tính năng
 - Khi nâng cấp tướng đạt giới hạn level cần đột phá Hero 1 lần để tăng giới hạn tăng level của main
 ![[20241121111939.png]]
 Ấn vào nút "hướng lên" để vào pop up đột phá

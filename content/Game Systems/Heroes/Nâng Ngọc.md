@@ -4,8 +4,13 @@ tags:
   - phuongch
   - readyUI
 ---
-Hero>Tướng>Trang Bị>Nâng Ngọc
+# Vị trí tính năng
+Từ [[Lobby System]], vào [[Thư Viện]], bấm vào [[Thông Tin Tướng]], mở tab [[Trang bị]] và ấn vào ô Ngọc.
 
+![[HTHT-BaoVatPosgif.gif]]
+
+![[20241126160605.png]]
+# Mô tả tính năng
 ![[20241122092553.png]]
 - Level mở khóa xem tại [[Unlock Tính Năng]]
 - Ngọc có các phẩm, người chơi up level Ngọc sẽ tăng phẩm từ thấp lên cao: green, blue, purple,yellow, orange, red.

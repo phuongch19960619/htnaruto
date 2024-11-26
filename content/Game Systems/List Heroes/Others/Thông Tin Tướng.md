@@ -8,21 +8,29 @@ tags:
 Từ [[Lobby System]], bấm vào Tướng, sau đó bấm vào hình thẻ tướng bất kì.
 
 # Mô tả tính năng
-![[20241122163807.png]]
+![[20241126161446.png]]
 
-| ID  | Detail                                                                         |
-| --- | ------------------------------------------------------------------------------ |
-| 1   | Nút Back về [[Thư Viện]]                                                       |
-| 2   | Background của tính năng                                                       |
-| 3   | Thanh tiền tệ                                                                  |
-| 4   | [[Khóa-Mở Khóa Thuyền Viên]]                                                   |
-| 5   | [[Share Thuyền Viên]]                                                          |
-| 6   | [[(Coming Soon) Dấu Ấn Germa]] (Dấu ấn Germa)                                                |
-| 7   | Thông tin chỉ số thuyền viên ở lv 250 ([[Lực Chiến]]. Level tướng, [[Phẩm]], ) |
-| 8   | Toàn bộ chỉ số tướng (xem ở dưới)                                              |
-| 9   | Kỹ năng tướng ở lv 250                                                         |
-| 10  | [[Phẩm]], tên, sao ([[Thức Tỉnh]]) Thuyền viên ở lv 250                        |
-| 11  | Hệ thống pet                                                                   |
+| ID  | Detail                                                                           |
+| --- | -------------------------------------------------------------------------------- |
+| 1   | Nút Back. Bấm về [[Thư Viện]]                                                    |
+| 2   | Background của tính năng. Không thể bấm.                                         |
+| 3   | Thanh tiền tệ. Không thể bấm.                                                    |
+| 4   | Nút để [[Khóa-Mở Khóa Thuyền Viên]]. Bấm đổi trạng thái.                         |
+| 5   | Nút [[Share Thuyền Viên]]. Bấm hiển thị [[Pop-up]].                              |
+| 6   | Thông tin [[(Coming Soon) Dấu Ấn Germa]]. Bấm ra [[Tool-tip]] (xem bên dưới).    |
+| 7   | Thông tin thuyền viên ở lv 250. Không thể bấm. Xem thêm trong [[Nâng lv]].       |
+| 8   | Nút detail chỉ số tướng. Bấm vào ra [[Tool-tip]] (xem bên dưới).                 |
+| 9   | Hình ảnh kỹ năng tướng và level. Bấm vào ra [[Tool-tip]] kĩ năng (xem bên dưới). |
+| 10  | [[Phẩm]], tên, [[sao]] ([[Thức Tỉnh]]) Thuyền viên ở lv 250. Không thể bấm.      |
+| 11  | Hệ thống pet. Bấm vào ra [[Pet System]].                                         |
+| 12  | Tab Nâng Cấp. Bấm vào ra [[Nâng lv]].                                            |
+| 13  | Tab Trang Bị. Bấm vào ra [[Trang bị]] + [[Bảo Vật]].                             |
+| 14  | Tab Thức Tỉnh. Bấm vào ra [[Thức Tỉnh]] + [[(Coming Soon) Haki]]                 |
+| 15  | Tab Germa. Bấm vào ra [[(Coming Soon) Dấu Ấn Germa]].                            |
+| 16  | Tab Trang Bị Đặc thù. Bấm vào ra [[(Coming Soon) Trang Bị Đặc Thù]].                           |
+
+# Thông tin [[(Coming Soon) Dấu Ấn Germa]]
+Bấm vào Icon [6] sẽ bung ra [[Tool-tip]] về [[(Coming Soon) Dấu Ấn Germa]].
 
 # Hiển thị thông tin, chỉ số tướng
 Hiển thị thông tin; chỉ số tướng ở lv 250 (không bao gồm các loại trang bị,...)

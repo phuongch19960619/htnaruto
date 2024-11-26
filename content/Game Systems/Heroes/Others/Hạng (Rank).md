@@ -6,7 +6,7 @@ tags:
 ---
 Một Thuyền Viên/Tướng sẽ được chia vào 1 trong các hạng (rank) từ **thấp đến cao** như sau:
 
-| Hạng | Hình ảnh trong game                  | [[Thức tỉnh]] | [[Trang bị đặc thù]] | [[(Coming Soon) Dấu Ấn Germa]] |
+| Hạng | Hình ảnh trong game                  | [[Thức tỉnh]] | [[(Coming Soon) Trang Bị Đặc Thù]] | [[(Coming Soon) Dấu Ấn Germa]] |
 | ---- | ------------------------------------ | ------------- | -------------------- | ---------------- |
 | D    | ![[20241125151056.png]] | -             | -                    | -                |
 | C    | ![[20241125151126.png]] | -             | -                    | -                |
