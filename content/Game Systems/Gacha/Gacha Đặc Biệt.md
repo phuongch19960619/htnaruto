@@ -38,8 +38,8 @@ Mỗi lần triệu hồi có tỉ lệ được tướng và nhận thêm [[Thu
 | SS   | 1%    |
 Danh sách và chi tiết tỉ lệ xem tại đây.
 ### Triệu hồi theo hệ
-- Có 4 [[hệ]] xuất hiện theo banner: [[Nhanh Nhẹn]], [[Sinh Khí]], [[Bền Bỉ]], [[Chính Xác]].
-- Người chơi lựa chọn [[hệ]] tướng mong muốn chiêu mộ. 
+- Có 4 [[Hệ]] xuất hiện theo banner: [[Nhanh Nhẹn]], [[Sinh Khí]], [[Bền Bỉ]], [[Chính Xác]].
+- Người chơi lựa chọn [[Hệ]] tướng mong muốn chiêu mộ. 
 - Khi đã lựa chọn: tướng xuất hiện chỉ trong hệ đó (không có tướng hệ khác) và tướng hệ Hiếm ([[Thông Minh]] + [[Minh Mẫn]])
 ### Triệu hồi Đặc biệt x1
 - Triệu hồi x1 tiêu tốn 1 [[Thùng Bia]] và ra 1 tướng (theo mảnh) hoặc mảnh tướng

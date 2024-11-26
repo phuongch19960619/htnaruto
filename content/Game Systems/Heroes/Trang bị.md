@@ -28,7 +28,7 @@ Ngoài [[Lobby System]], chọn [[Heroes System]] sau đó vào Tab Trang Bị.
 | 10  | Pet                               |
 | 11  | [[Khóa-Mở Khóa Thuyền Viên]]      |
 | 12  | [[Share Thuyền Viên]]             |
-| 13  | [[Dấu Ấn Germa]]                  |
+| 13  | [[(Coming Soon) Dấu Ấn Germa]]                  |
 | 14  | Tướng trước                       |
 | 15  | Tướng sau                         |
 

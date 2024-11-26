@@ -4,7 +4,7 @@ tags:
   - class
   - tiennt
 ---
-Sao và [[phẩm]] qui định giới hạn sức mạnh của [[Heroes System]].
+Sao và [[Phẩm]] qui định giới hạn sức mạnh của [[Heroes System]].
 Game chia làm 15 cấp sao. Sau 10 cấp sao sẽ thức tỉnh lên sao có số.
 ![[20241125155834.png]]
 

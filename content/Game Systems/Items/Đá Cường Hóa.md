@@ -3,14 +3,19 @@ tags:
   - item
   - tiennt
 ---
-Dùng trong [[Đột Phá]].
 
+| ID  | Hình Ảnh   | Tính năng sử dụng       |
+| --- | ---------- | ----------------------- |
+| 2   | ![[2.png]] | Dùng trong [[Đột Phá]]. |
+**Hình trong game**
 ![[20241121160854.png]]
-**Tìm thấy trong:**
-1. Vượt Ải
-2. Cửa Hàng
-3. Chiến dịch
-4. Leo tháp
-5. Thành tựu
-6. Sự kiện
-7. Huyết tế
+
+| Tìm thấy trong  |
+| --------------- |
+| [[Vượt Ải]]     |
+| [[Shop System]] |
+| Chiến Dịch      |
+| Leo tháp        |
+| Thành tựu       |
+| Sự kiện         |
+| [[Huyết Tế]]    |

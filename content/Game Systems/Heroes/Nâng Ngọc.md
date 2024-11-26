@@ -25,8 +25,6 @@ Hero>Tướng>Trang Bị>Nâng Ngọc
 ## Hoán đổi chỉ số đá bảo mệnh
 - Người chơi cũng có thể sử dụng (Đồng Beli+Bụi Ma Thuật) để đổi loại stat hiện tại sang loại stat khác
 - Lối vào: click vào đá hộ mệnh chọn hoán đổi
-
-
 ### Chi tiết tài nguyên để đổi dòng và tăng cấp: Tại đây
 
 

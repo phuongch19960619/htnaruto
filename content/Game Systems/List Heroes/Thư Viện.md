@@ -33,7 +33,7 @@ Xem trong [[Thẻ Tướng]].
 
 # Các [[Hệ]]
 - Khi click vào thư viện sẽ hiện toàn bộ các tướng hiện đang có trong Game.
-- Khi click vào 1 [[hệ]] sẽ hiển thị ra các tướng hiện đang có trong game.
+- Khi click vào 1 [[Hệ]] sẽ hiển thị ra các tướng hiện đang có trong game.
 - Khi click vào hệ đó lần thứ 2 sẽ hiển thị lại toàn bộ tướng trong game.
 # Sắp xếp các tướng
 - Tướng đã sở hữu sẽ sáng lên, tướng chưa sở hữu sẽ có màu xám

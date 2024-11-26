@@ -17,7 +17,7 @@ Từ [[Lobby System]], bấm vào Tướng, sau đó bấm vào hình thẻ tư�
 | 3   | Thanh tiền tệ                                                                  |
 | 4   | [[Khóa-Mở Khóa Thuyền Viên]]                                                   |
 | 5   | [[Share Thuyền Viên]]                                                          |
-| 6   | [[Dấu Ấn Germa]] (Dấu ấn Germa)                                                |
+| 6   | [[(Coming Soon) Dấu Ấn Germa]] (Dấu ấn Germa)                                                |
 | 7   | Thông tin chỉ số thuyền viên ở lv 250 ([[Lực Chiến]]. Level tướng, [[Phẩm]], ) |
 | 8   | Toàn bộ chỉ số tướng (xem ở dưới)                                              |
 | 9   | Kỹ năng tướng ở lv 250                                                         |
