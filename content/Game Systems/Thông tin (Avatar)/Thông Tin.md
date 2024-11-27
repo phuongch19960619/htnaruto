@@ -2,6 +2,7 @@
 tags:
   - avatar
   - tiennt
+  - readyUI
 ---
 # Vị trí tính năng
 Ngoài [[Lobby System]], tap vào bảng tên.
@@ -19,16 +20,16 @@ Khi tap vào bảng tên sẽ hiển thị ra [[Pop-up]] Thông tin cá nhân
 
 | ID  | Detail                                                              |
 | --- | ------------------------------------------------------------------- |
-| 1   | Button - Đóng                                                       |
-| 2   | Tab Thông Tin Cá nhân                                               |
-| 3   | Tab Phản Hồi - dùng để gửi [[Thư]]                                  |
-| 4   | Khung Avatar và [[Cấp Độ Người Chơi]]                               |
-| 5   | [[Sửa]] Avatar                                                      |
-| 6   | Username                                                            |
-| 7   | Thông tin cơ bản                                                    |
-| 8   | Nút [[Sửa]] Username                                                |
-| 9   | Nút [[đổi server]]                                                  |
-| 10  | Nút đăng xuất, bấm sẽ ra [[Login Scene Tool]]                       |
-| 11  | EXP để lên [[Cấp Độ Người Chơi]] tiếp theo                          |
+| 1   | Button - Đóng. Bấm vào đóng Pop-up.                                 |
+| 2   | Tab Thông Tin Cá nhân. Bấm để chuyển Tab.                           |
+| 3   | Tab Phản Hồi - dùng để gửi [[CSKH]]. Bấm chuyển Tab.                |
+| 4   | Khung Avatar và [[Cấp Độ Người Chơi]]. Không thể bấm.               |
+| 5   | [[Sửa]] Avatar. Bấm để sửa Avatar.                                  |
+| 6   | Username. Không thể bấm.                                            |
+| 7   | Thông tin cơ bản. Không thể bấm.                                    |
+| 8   | Nút [[Sửa]] Username.                                               |
+| 9   | Nút [[Đổi Server]].                                                 |
+| 10  | Nút đăng xuất, bấm sẽ ra [[Login Scene Tool]].                      |
+| 11  | EXP để lên [[Cấp Độ Người Chơi]] tiếp theo.                         |
 | 12  | Nút tắt tiếng - bấm vào sẽ tắt SFX - [[Tắt Bật Music, Sound]]       |
 | 13  | Nút tắt nhạc nền - bấm vào tắt hết music - [[Tắt Bật Music, Sound]] |
