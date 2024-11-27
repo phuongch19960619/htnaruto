@@ -2,7 +2,9 @@
 tags:
   - login
   - tiennt
+  - readyUI
 ---
+# Tool hỗ trợ
 Ở màn hình Login sẽ có các tool hỗ trợ khác
 ![[20241115173016.png]]
 
@@ -17,3 +19,6 @@ Nút chỉnh sửa tài nguyên
 
 Khi bấm vào sẽ hiển thị [[Pop-up]], người chơi có thể clear cache của game.
 ![[20241115173107.png]]
+
+# Chọn Server
+Bung ra [[Pop-up]] [[Đổi Server]].

@@ -2,6 +2,7 @@
 tags:
   - login
   - tiennt
+  - readyUI
 ---
 Bảng thông báo đăng nhập hiện ra khi vào game. 
 Nếu vào game lần đầu tiên sẽ hiện ra ngay lập tức. 

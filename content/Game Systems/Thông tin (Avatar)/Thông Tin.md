@@ -29,7 +29,7 @@ Khi tap vào bảng tên sẽ hiển thị ra [[Pop-up]] Thông tin cá nhân
 | 7   | Thông tin cơ bản. Không thể bấm.                                    |
 | 8   | Nút [[Sửa]] Username.                                               |
 | 9   | Nút [[Đổi Server]].                                                 |
-| 10  | Nút đăng xuất, bấm sẽ ra [[Login Scene Tool]].                      |
+| 10  | Nút đăng xuất, bấm sẽ ra [[Login Scene, Chọn Server]].                      |
 | 11  | EXP để lên [[Cấp Độ Người Chơi]] tiếp theo.                         |
 | 12  | Nút tắt tiếng - bấm vào sẽ tắt SFX - [[Tắt Bật Music, Sound]]       |
 | 13  | Nút tắt nhạc nền - bấm vào tắt hết music - [[Tắt Bật Music, Sound]] |
