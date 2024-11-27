@@ -2,6 +2,7 @@
 tags:
   - alertnfloating
   - tiennt
+  - readyUI
 ---
 Thông báo thường hiển thị khi người chơi không đạt điều kiện [[Unlock Tính Năng]]. 
 Thông báo hiện lên, bay lên rồi biến mất.
