@@ -25,7 +25,7 @@ Khi dùng kĩ năng, nộ của nhân vật reset về 0.
 Mọi nhân vật đều có nộ khởi đầu = 50. 
 
 # Sát thương kĩ năng %
-Tăng sát thương kĩ năng. VD: Sát thương kĩ năng là 15%. Skill là gây 150% Công thì skill sẽ gây ra 150% * 115% = 172.5% Công.
+Tăng sát thương kĩ năng. VD: Sát thương kĩ năng là 15%. Sát thương sau khi dùng kỹ năng là 100 lên 115 
 # Chính xác %
 Tỉ lệ gây sát thương chính xác của nhân vật, dành cho cả đòn đánh thường lẫn đòn đánh kĩ năng.
 # Chặn %
@@ -41,6 +41,7 @@ Tỉ lệ chí mạng đòn đánh thường.
 # Sát thương chí mạng %
 Sát thương đòn đánh khi chí mạng. 
 Trước mỗi đòn đánh thường sẽ check chí mạng. Nếu chí mạng sẽ tấn công với sát thương chí mạng.
+Sts thương chí mạng ban đầu là 200%
 # Phá giáp %
 Tỉ lệ giảm thủ của kẻ địch.
 # Miễn chống %
@@ -53,6 +54,7 @@ VD: Giảm sát thương là 10%. Sau khi trừ thủ là 500 sát thương, nh�
 VD: sát thương chuẩn là 5% thì 5% Công sẽ bỏ qua phòng thủ và giảm sát thương.
 
 # Tính toán về chỉ số
-1. Trong 1 skill: các effect(buff, debuff) được thực hiện trước khi tấn công
+1. Trong 1 skill: các effect dạng buff cho bản thân, đồng đội sẽ được tính trước khi sử dụng skill, Các debuff cho kẻ địch sẽ được tính sau khi sử dụng skill
 2. Các chỉ số trái ngược theo %(ví dụ: chặn/chính xác, kháng hiệu ứng/miễn chống  được  tính toán + và - số %
 3. Các từ "sát thương" trong mô tả skill được hiểu là sát thương cuối
+4. Khi tăng level skill tướng sẽ chỉ tăng % chỉ số, không thêm hiệu ứng mớ
