@@ -3,6 +3,8 @@ tags:
   - tuido
   - system
   - tiennt
+  - duongnd
+  - readyUI
 ---
 # Tài liệu
 Docs System gốc: [Link](https://docs.google.com/document/d/1JdnhyscNBfg8OK7Ss5-EI1KP6Nq8-qykGPqojgw04IE/edit?tab=t.0#heading=h.76545dsn0x58)
@@ -18,16 +20,22 @@ Từ [[Lobby System]], ấn vào Túi Đồ để vào tính năng.
 
 | ID  | Giải nghĩa                                                |
 | --- | --------------------------------------------------------- |
-| 1   | Back Button về lại màn hình chính                         |
-| 2   | Tên Tính năng: **Túi Đồ**                                 |
-| 3   | Trang bị Phẩm cao có effect                               |
-| 4   | Background Túi đồ                                         |
-| 5   | Trang bị Phẩm thấp không có effect                        |
+| 1   | Back Button. Bấm về [[Lobby System]].                     |
+| 2   | Tên Tính năng: **Túi Đồ**. Không thể bấm.                 |
+| 3   | Trang bị Phẩm cao có effect.                              |
+| 4   | Background Túi đồ.                                        |
+| 5   | Trang bị Phẩm thấp không có effect.                       |
 | 6   | [[Túi Đồ - Tab Trang Bị]]                                 |
 | 7   | [[Túi Đồ - Tab Nguyên Liệu]]                              |
 | 8   | [[Túi Đồ - Tab Mảnh Ghép]]                                |
 | 9   | [[Túi Đồ - Tab Bảo Vật]]                                  |
 | 10  | [[Heroes System]] (chuyển hướng nhanh sang quản lý tướng) |
+![[20241127095205.png]]
+**Mỗi một item đều có các thông tin sau:**
+1. Màu sắc theo độ hiếm và thể loại vật phẩm - 7 loại.
+![[20241127095636.png]]
+2. Số sao (nếu có) ở góc trái dưới.
+3. Số lượng vật phẩm ở góc phải dưới.
 
 # Log cần bổ sung
 - Item/ Số lần sử dụng trong túi đồ

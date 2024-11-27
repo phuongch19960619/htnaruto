@@ -2,12 +2,15 @@
 tags:
   - tuido
   - duongnd
+  - readyUI
 ---
 Trong [[Túi Đồ System]].
 ![[MuMu12-20241119-032705.png]]
 # Số lượng
 - Không giới hạn số lượng chứa trong tab.
-- Chỉ chứa Mảnh tướng và Mảnh Bảo vật trong tab.
+- Có thể scroll lên xuống, không có thanh scroll.
+- Chỉ chứa Mảnh tướng và Mảnh [[Bảo vật]] trong tab.
+![[HTHT-TuiDoScrollgif.gif]]
 # Sắp xếp
 - Ưu tiên: (theo thứ tự) và đi kèm số lượng (số lượng mỗi vật phẩm: max: 9999 hoặc không giới hạn)
 1. Mảnh Bảo vật: Lam > Tím> Vàng> Đỏ

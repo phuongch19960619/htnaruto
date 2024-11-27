@@ -2,12 +2,16 @@
 tags:
   - tuido
   - duongnd
+  - readyUI
 ---
 Trong [[Túi Đồ System]].
 ![[MuMu12-20241119-032920.png]]
+
 # Số Bảo vật
 - Không giới hạn số lượng chứa trong tab.
+- Có thể scroll lên xuống, không có thanh scroll.
 - Chỉ chứa Vật phẩm trong tab.
+![[HTHT-TuiDoScrollgif.gif]]
 # Sắp xếp
 - Ưu tiên Số sao > Phẩm
 - Hiển thị Vật phẩm kèm số lượng của vật phẩm đó (max = 9999, hoặc không giới hạn)

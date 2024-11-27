@@ -2,12 +2,15 @@
 tags:
   - tuido
   - duongnd
+  - readyUI
 ---
 Trong [[Túi Đồ System]].
 ![[MuMu12-20241119-032428.png]]
 # Số Vật phẩm
-- Không giới hạn vật phẩm chứa trong tab
-- Chỉ chứa dạng Vật phẩm, nguyên liệu
+- Không giới hạn vật phẩm chứa trong tab.
+- Có thể scroll lên xuống, không có thanh scroll.
+- Chỉ chứa dạng Vật phẩm, nguyên liệu.
+![[HTHT-TuiDoScrollgif.gif]]
 # Sắp xếp
 - Ưu tiên: (theo thứ tự) và đi kèm số lượng (số lượng mỗi vật phẩm: max: 9999 hoặc không giới hạn)
 1. Tài nguyên nâng cấp tướng
