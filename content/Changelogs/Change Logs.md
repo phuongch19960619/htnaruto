@@ -5,6 +5,9 @@ tags:
   - duongnd
   - system
 ---
+# 27 Nov 2024
+- Bố cục lại thông tin về [[Túi Đồ System]]. 
+- Thêm hình ảnh minh họa trong [[Túi Đồ - Bán]].
 # 26 Nov 2024
 - **Bổ sung thông tin về ngôi sao** trong [[Battle System]]. 
 - **Thêm mô tả màu sắc** trong [[Hạng (Rank)]] và [[Thẻ Tướng]].
