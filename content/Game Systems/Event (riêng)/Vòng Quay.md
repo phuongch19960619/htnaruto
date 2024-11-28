@@ -2,6 +2,7 @@
 tags:
   - event
   - duongnd
+  - readyUI
 ---
 # Tài liệu
 Docs System gốc: [Link](https://docs.google.com/document/d/157v7k435b_zcDH5bT2jzmQ3ZQxnGAMZ7I9Z_VVGxfgQ/edit?tab=t.0#heading=h.76545dsn0x58)
@@ -14,48 +15,51 @@ Từ màn hình [[Lobby System]], vào Vòng Quay.
 # Mô tả tính năng
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc701niDtM4R1cPp1JsnFkJrktxqtbLOaE2OUnxHJ-cWX5s2tXzZJhDI-QIgLBk7B_ovQJr4oAzTJmR74axZv_Ymtw3It_VbivTPByXdP_mwlM8sAxBe2o2aaubHrvH-gYK9Tuz?key=_NwE6L7Nsvuah99xBrIqnscI)
 
-| ID  | Giải nghĩa                                   |
-| --- | -------------------------------------------- |
-| 1   | Back Button về lại màn hình chính            |
-| 2   | Nền popup/background                         |
-| 3   | Khung & BG Vòng quay thường                  |
-| 4   | Khung & BG Vòng quay siêu cấp                |
-| 5   | Vòng quay thường                             |
-| 6   | Vòng quay siêu cấp                           |
+| ID  | Giải nghĩa                        |
+| --- | --------------------------------- |
+| 1   | Back Button về lại màn hình chính |
+| 2   | Nền popup/background              |
+| 3   | Khung & BG Vòng quay thường       |
+| 4   | Khung & BG Vòng quay siêu cấp     |
+| 5   | Vòng quay thường                  |
+| 6   | Vòng quay siêu cấp                |
 
 # Vòng Quay Thường
-## ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcSUMO_bPsFKqQE97lwK6zYV3_ivSLzAt8P0VnaqR2mjFcdfBlNEh-FVq6Nf6ALK4_KsgsVBk0WKuexF5OU-ZDpn9o9ijfhZH-JlxIfEGFXaNWb3pWEMJ2okWEocApc-rLNy4q_nQ?key=_NwE6L7Nsvuah99xBrIqnscI)
+![[HTHT-VongQuay.mp4]]
 
+![[20241128145635.png]]
 
-| ID  | Giải nghĩa                                 |
-| --- | ------------------------------------------ |
-| 1   | Back Button về lại màn hình chính          |
-| 2   | Thanh tài nguyên                           |
-| 3   | Đồng hồ đếm ngược làm mới                  |
-| 4   | Vòng quay                                  |
-| 5   | Item thưởng trong vòng quay                |
-| 6   | Quay 1 lượt                                |
-| 7   | Quay 10 lượt                               |
-| 8   | Quay 100 lượt                              |
-| 9   | Làm mới                                    |
-| 10  | Background Vòng quay thường (có anim + fx) |
-| 11  | Trợ giúp                                   |
-| 12  | Cửa hàng                                   |
+| ID  | Giải nghĩa                                                     |
+| --- | -------------------------------------------------------------- |
+| 1   | Back Button về lại [[Lobby System]].                           |
+| 2   | Thanh tài nguyên. Không bấm được.                              |
+| 3   | Đồng hồ đếm ngược làm mới. Không bấm được.                     |
+| 4   | Vòng quay.                                                     |
+| 5   | Item thưởng trong vòng quay. Bấm vào hiển thị ra [[Tool-tip]]. |
+| 6   | Nút Quay 1 lượt                                                |
+| 7   | Nút Quay 10 lượt                                               |
+| 8   | Nút Quay 100 lượt                                              |
+| 9   | Nút Làm mới                                                    |
+| 10  | Background Vòng quay thường (có anim + fx)                     |
+| 11  | Trợ giúp. Bấm vào mở [[Pop-up]] [[Trợ Giúp Vòng Quay]].        |
+| 12  | Cửa hàng. Bấm vào tới [[Shop Vòng Quay]]                       |
 # Vòng Quay Siêu Cấp
-## ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNEWRqKrR11zf7uBzNId_T1hlnqFLUha6su82RSvf3lCPx9VD0gLaq-dcz_AU_LoGwvNnZh5SV_1e91sqdsdW9XSjhvyj8KNpLZcsOkOFGxMvZ1gCJL_4qObVCGWrVpOKNjSJ9JQ?key=_NwE6L7Nsvuah99xBrIqnscI)
+![[HTHT-VongQuaySieuCap.mp4]]
 
-| ID  | Giải nghĩa                                 |
-| --- | ------------------------------------------ |
-| 1   | Back Button về lại màn hình chính          |
-| 2   | Thanh tài nguyên                           |
-| 3   | Đồng hồ đếm ngược làm mới                  |
-| 4   | Vòng quay                                  |
-| 5   | Item thưởng trong vòng quay                |
-| 6   | Quay 1 lượt                                |
-| 7   | Quay 10 lượt                               |
-| 8   | Quay 100 lượt                              |
-| 9   | Làm mới                                    |
-| 10  | Background Vòng quay thường (có anim + fx) |
+![[20241128145737.png]]
+
+| ID  | Giải nghĩa                                                     |
+| --- | -------------------------------------------------------------- |
+| 1   | Back Button về lại [[Lobby System]].                           |
+| 2   | Thanh tài nguyên. Không bấm được.                              |
+| 3   | Đồng hồ đếm ngược làm mới. Không bấm được.                     |
+| 4   | Vòng quay                                                      |
+| 5   | Item thưởng trong vòng quay. Bấm vào hiển thị ra [[Tool-tip]]. |
+| 6   | Nút Quay 1 lượt                                                |
+| 7   | Nút Quay 10 lượt                                               |
+| 8   | Nút Quay 100 lượt                                              |
+| 9   | Nút Làm mới                                                    |
+| 10  | Background Vòng quay thường (có anim + fx)                     |
 
 # Vòng quay Thường
 ## Thời gian
