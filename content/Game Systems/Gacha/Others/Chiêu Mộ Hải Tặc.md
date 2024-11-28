@@ -6,6 +6,7 @@ tags:
 ![[20241111151041.png]]
 Sử dụng [[Cốc Bia Thường]] để triệu hồi.
 Khi hết tài nguyên triệu hồi mà vẫn bấm tiếp sẽ bung [[Floating Thông Báo]]: “Không đủ nguyên liệu”.
+Bấm vào sẽ ra [[Kết quả chiêu mộ]].
 # Tỉ lệ ra tướng
 Không có bảo hiểm ra tướng xịn.
 

@@ -21,8 +21,8 @@ Từ màn hình [[Lobby System]], ấn vào [[Gacha System]] rồi ấn Chiêu M
 | 6   | Tab [[Hoán Đổi Thuyền Viên]]. Bấm để chuyển UI.                |
 | 7   | Button - Trạng thái chọn Thuyền Viên (Xem bên dưới)            |
 | 8   | Button - Các Banner Thuyền Viên khác.                          |
-| 9   | Nút Chiêu mộ x1                                                |
-| 10  | Nút Chiêu mộ x10                                               |
+| 9   | Nút Chiêu mộ x1. Ấn ra [[Kết quả chiêu mộ]].                   |
+| 10  | Nút Chiêu mộ x10. Ấn ra [[Kết quả chiêu mộ]].                  |
 | 11  | Background                                                     |
 
 # Triệu Hồi Đặc Biệt
