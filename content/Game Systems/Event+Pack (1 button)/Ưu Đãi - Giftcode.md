@@ -2,6 +2,7 @@
 tags:
   - event
   - tiennt
+  - readyUI
 ---
 Nằm trong [[Event Pack System]], tab Ưu Đãi. Đây là một sự kiện con trong tab này.
 Người chơi nhập **Giftcode** sẽ nhận lại quà qua [[Thư]].

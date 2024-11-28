@@ -2,9 +2,12 @@
 tags:
   - event
   - tiennt
+  - readyUI
 ---
 Nằm dưới cùng trong [[Event Pack System]], tab Sự Kiện Tháng. Đây là một sự kiện con trong tab này.
 Người chơi đạt đủ [[Cấp Độ Người Chơi]] trong event sẽ nhận lại quà qua [[Thư]].
+![[HTHT-DatLevel-ezgif.gif]]
+
 ![[20241119092245.png]]
 
 | ID  | Detail                                    |

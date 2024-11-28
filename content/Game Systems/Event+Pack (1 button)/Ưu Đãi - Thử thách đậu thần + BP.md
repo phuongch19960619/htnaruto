@@ -2,10 +2,13 @@
 tags:
   - event
   - tiennt
+  - readyUI
 ---
 Nằm trong [[Event Pack System]], tab Ưu Đãi. Đây là một sự kiện con trong tab này.
 Người chơi leo đủ số tầng [[Leo Đậu Thần (Tower)]] sẽ nhận lại quà qua [[Thư]].
 Sự kiện này **không giới hạn** thời gian.
+![[HTHT-ThuThacDauThan-ezgif.gif]]
+
 ![[20241119092924.png]]
 
 | ID  | Detail                                                       |
