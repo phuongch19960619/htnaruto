@@ -2,6 +2,7 @@
 tags:
   - event
   - duongnd
+  - readyUI
 ---
 # Tài liệu
 Docs System gốc: [Link](https://docs.google.com/document/d/1-s9oifMxRcEZhxFoN-5jqgSjrpiHfZK5GFswidQiV8w/edit?tab=t.0#heading=h.76545dsn0x58)
@@ -14,16 +15,16 @@ Ngoài [[Lobby System]], ấn vào biểu tượng Điểm Danh
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQVhPQek5l9qdAHy7KT0lN-6XjFz8JmfTPeOzSxV4DvpM-vlcTQmvMRE1yQsxIz6cGpHNm6VlCUiLBdEbLjgOsOHtD4K-zn8vFE8eXwseCGuCZ68aPOviSyA9NT4SJf1lp6fRhPA?key=UYuBNwVCqT9SSJ0NTE9fyi3-)
 
-| ID  | Giải nghĩa                          |
-| --- | ----------------------------------- |
-| 1   | Nhấn ra ngoài về lại màn hình chính |
-| 2   | Tên tính năng [Điểm danh]           |
-| 3   | Khung + BG popup [Điểm danh]        |
-| 4   | Trạng thái Quà đã nhận              |
-| 5   | Trạng thái quà có thể nhận          |
-| 6   | Đồng hồ đếm ngược quà nhận          |
-| 7   | Trạng thái quà chưa thể nhận        |
-| 8   | Button Điểm danh                    |
+| ID  | Giải nghĩa                                      |
+| --- | ----------------------------------------------- |
+| 1   | Nhấn ra ngoài về lại màn hình chính             |
+| 2   | Tên tính năng [Điểm danh]                       |
+| 3   | Khung + BG popup [Điểm danh]                    |
+| 4   | Trạng thái Quà đã nhận - xám đi và có dấu tích. |
+| 5   | Trạng thái quà có thể nhận - có hiệu ứng.       |
+| 6   | Đồng hồ đếm ngược quà nhận                      |
+| 7   | Trạng thái quà chưa thể nhận                    |
+| 8   | Button Điểm danh                                |
 
 # Điểm danh
 ## Quy tắc
