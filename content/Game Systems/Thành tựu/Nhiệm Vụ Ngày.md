@@ -2,6 +2,8 @@
 tags:
   - thanhtuu
   - duongnd
+  - tiennt
+  - readyUI
 ---
 # Vị trí tính năng
 Từ màn hình [[Lobby System]], bấm vào Nhiệm Vụ để hiện ra [[Pop-up]] Nhiệm Vụ Hằng Ngày.
@@ -10,18 +12,18 @@ Từ màn hình [[Lobby System]], bấm vào Nhiệm Vụ để hiện ra [[Pop-
 # Mô tả tính năng
 ![[20241119143702.png]]
   
-| ID  | Giải nghĩa                                   |
-| --- | -------------------------------------------- |
-| 1   | Back Button về lại màn hình chính            |
-| 2   | Tên Tính năng [Nhiệm vụ]                     |
-| 3   | Đồng hồ đếm ngược làm mới                    |
-| 4   | Tiêu đề nhiệm vụ tổng                        |
-| 5   | Quà nhận khi hoàn thành all nhiệm vụ         |
-| 6   | Thanh tiến độ tổng nhiệm vụ                  |
-| 7   | Tiêu đề nhiệm vụ ngày                        |
-| 8   | Thanh tiến độ của nhiệm vụ ngày              |
-| 9   | Quà khi hoàn thành nhiệm vụ ngày             |
-| 10  | Thực hiện - đi đến tính năng để làm nhiệm vụ |
+| ID  | Giải nghĩa                                                 |
+| --- | ---------------------------------------------------------- |
+| 1   | Back Button. Bấm về [[Lobby System]].                      |
+| 2   | Tên Tính năng [Nhiệm vụ]. Không thể bấm.                   |
+| 3   | Đồng hồ đếm ngược làm mới. Không thể bấm.                  |
+| 4   | Tiêu đề nhiệm vụ tổng.                                     |
+| 5   | Quà nhận khi hoàn thành all nhiệm vụ. Bấm ra [[Tool-tip]]. |
+| 6   | Thanh tiến độ tổng nhiệm vụ.                               |
+| 7   | Tiêu đề nhiệm vụ ngày.                                     |
+| 8   | Thanh tiến độ của nhiệm vụ ngày.                           |
+| 9   | Quà khi hoàn thành nhiệm vụ ngày. Bấm ra [[Tool-tip]].     |
+| 10  | Thực hiện. Bấm sẽ dẫn đến tính năng để làm nhiệm vụ.       |
 
 # Nhiệm vụ ngày
 ## Thời gian
@@ -39,9 +41,9 @@ Từ màn hình [[Lobby System]], bấm vào Nhiệm Vụ để hiện ra [[Pop-
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc8xq4iV2yNO19odCVmPUnYwYzuhNShXdgI9MilTHXFbegH4pfgYYPEfy3JjTt2IofhoMf6ZXYhi-f372izpnlRiAWaHJWAa4OSgHTmsIFMRUILKWMhhjc-y0RtK-HPRPn3bNeUPg?key=RVbebzSoXuxmWJKRlFJX8PxQ)
 
 ## Quà
-- Mỗi nhiệm vụ khi hoàn thành sẽ có quà thưởng riêng
-- Khi hoàn thành tất cả nhiệm vụ ngày trong ngày sẽ được bonus thêm thưởng
-- Quà khi hoàn thành nhiệm vụ và tất cả nhiệm vụ. File Balance
+- Mỗi nhiệm vụ khi hoàn thành sẽ có quà thưởng riêng. Khi nhận quà sẽ bung [[Pop-up thưởng]].
+- Khi hoàn thành tất cả nhiệm vụ ngày trong ngày sẽ được bonus thêm thưởng.
+- Quà khi hoàn thành nhiệm vụ và tất cả nhiệm vụ. File Balance.
 - Khi user không nhận ngay thưởng, qua ngày thưởng sẽ chuyển qua [[Thư]]
 ## Thực hiện & Nhận thưởng
 - Button **Thực hiện** sẽ đưa user đến tính năng tương ứng để làm nhiệm vụ
