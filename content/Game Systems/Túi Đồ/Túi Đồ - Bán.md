@@ -20,7 +20,7 @@ Bán vật phẩm chuyển đổi sang beli (tiền vàng-low currency). Mỗi p
 | 4   | Mô tả dài của Item.                                                    |
 | 5   | Effect [[Trang bị]]                                                    |
 | 6   | Nút Bán. Bấm ra [[Pop-up]] bán. (xem bên dưới).                        |
-Người chơi bấm vào biểu tượng hộp quà [2] để show ra [[pop-up]] các địa điểm drop.
+Người chơi bấm vào biểu tượng hộp quà [2] để show ra [[Pop-up]] các địa điểm drop.
 ![[HTHT-Item-OpenGiftgif.gif]]
 
 Khi ấn vào nút Bán, hiện ra thông tin bán đồ.

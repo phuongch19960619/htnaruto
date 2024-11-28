@@ -2,20 +2,21 @@
 tags:
   - event
   - duongnd
+  - readyUI
 ---
 # Tài liệu
 Docs System gốc: [Link](https://docs.google.com/document/d/1mrTc6qHIMISd3wN_wcpB0UwF7JBZEoenx2Jp3-7OxO0/edit?tab=t.0#heading=h.76545dsn0x58)
 Docs Balance gốc: Link
 
 # Vị trí tính năng
-Tại [[Lobby System]], ấn vào 7 Ngày
+Tại [[Lobby System]], ấn vào Đăng Nhập.
 ![[20241119160604.png]]
 # Mô tả tính năng
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJlOACxC2qn7xZSq0u6mg9Z51Xnrs8BvoLbh2MhZefixxC1126b64HZEn-WZzOj9nsMI9MVXuNqS-jteVhm_vOdzX6FBOkDNdzIH08X0QTs6GBmGvsmoAipEUVqUHlV4oBCzNVzQ?key=pDt4uHqJE9Sz5EOKsztYyTBi)
 
 | ID  | Giải nghĩa                                   |
 | --- | -------------------------------------------- |
-| 1   | Nhấn ra ngoài về lại màn hình chính          |
+| 1   | Nhấn ra ngoài về lại [[Lobby System]].       |
 | 2   | Tên tính năng [7 ngày mở server]             |
 | 3   | Ngày hiện tại hoặc ngày đang chọn            |
 | 4   | Đặc trưng quà nhận cho ngày đang chọn        |
