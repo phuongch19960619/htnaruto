@@ -1,13 +1,14 @@
 ---
 tags:
   - item
+  - tiennt
 ---
 
-| ID  | Hình Ảnh | Tính năng sử dụng       |
-| --- | -------- | ----------------------- |
-| 1   |          | Dùng trong [[Nâng lv]]. |
+| ID  | Hình Ảnh    | Tính năng sử dụng             |
+| --- | ----------- | ----------------------------- |
+| 30  | ![[30.png]] | [[Bảo Vật]] hệ [[Chính Xác]]. |
 **Hình trong game**
-
+![[20241129162422.png]]
 
 | Tính Năng            | Tìm thấy trong |
 | -------------------- | :------------: |
