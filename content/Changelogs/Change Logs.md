@@ -5,6 +5,8 @@ tags:
   - duongnd
   - system
 ---
+# 29 Nov 2024
+- Add Items List đợt 1
 # 28 Nov 2024
 - Add thêm hình ảnh minh họa trong [[Vòng Quay]], [[Tool-tip]], [[Login30 (Điểm danh)]] 
 - Add minh họa cho [[Event Pack System]].
