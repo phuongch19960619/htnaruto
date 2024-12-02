@@ -5,7 +5,7 @@ tags:
 ---
 # Công
 Là chỉ số sát thương của [[Heroes System]].
-Sát thương gây ra = **Sát thương lý thuyết** - **Phòng thủ lý thuyết** - **Giảm sát thương**
+Sát thương gây ra = **Sát thương lý thuyết** - **Phòng thủ lý thuyết** - %**Giảm sát thương**
 Với đòn đánh thường, **Sát thương lý thuyết** là Công * Buff. 
 Với đòn đánh kĩ năng, Sát thương lý thuyết sẽ tính theo %Công. VD: 150% Công. 
 Phòng thủ lý thuyết là Thủ * Buff.
@@ -29,7 +29,7 @@ Tăng sát thương kĩ năng. VD: Sát thương kĩ năng là 15%. Sát thươn
 # Chính xác %
 Tỉ lệ gây sát thương chính xác của nhân vật, dành cho cả đòn đánh thường lẫn đòn đánh kĩ năng.
 # Chặn %
-Tỉ lệ chặn sát thương. 
+Tỉ lệ chặn/ không nhận sát thương sát thương. 
 Khi đòn đánh thường bị chặn, nhân vật tấn công không hồi nộ, nhân vật chặn được hồi nộ.
 Khi đòn đánh kĩ năng bị chặn, nhân vật chặn được hồi nộ.
 
@@ -58,3 +58,8 @@ VD: sát thương chuẩn là 5% thì 5% Công sẽ bỏ qua phòng thủ và gi
 2. Các chỉ số trái ngược theo %(ví dụ: chặn/chính xác, kháng hiệu ứng/miễn chống  được  tính toán + và - số %
 3. Các từ "sát thương" trong mô tả skill được hiểu là sát thương cuối
 4. Khi tăng level skill tướng sẽ chỉ tăng % chỉ số, không thêm hiệu ứng mớ
+
+# Tỷ Lệ Skill
+1. Mỗi mục tiêu có 1 tỷ lệ riêng với mỗi loại tỷ lệ
+
+Ví dụ: skill tấn công 3 mục tiêu và có 33% tỷ lệ làm choáng thì mỗi mục tiêu (3 mục tiêu bị tấn công) có 33% cơ hội bị choáng tức là có thể mục tiêu 1 và 2 bị choáng mục tiêu 3 không bị choáng
