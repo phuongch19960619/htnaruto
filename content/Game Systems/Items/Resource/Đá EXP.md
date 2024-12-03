@@ -6,7 +6,7 @@ tags:
 
 | ID  | Hình Ảnh   | Tính năng sử dụng       |
 | --- | ---------- | ----------------------- |
-| 1   | ![[1a.png]] | Dùng trong [[Nâng lv]]. |
+| 1   | ![[1.png]] | Dùng trong [[Nâng lv]]. |
 **Hình trong game**
 ![[20241114174721.png]]
 
