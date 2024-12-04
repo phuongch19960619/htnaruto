@@ -23,6 +23,7 @@ Từ màn hình [[Lobby System]], bấm vào Thành Tựu để hiện ra [[Pop-
 | 7   | Thanh progression cho nhiệm vụ.                     |
 | 8   | Phần thưởng nhiệm vụ. Bấm vào hiện ra [[Tool-tip]]. |
 Các nhiệm vụ khi hoàn thành sẽ được đẩy lên trên cùng và có thêm nút nhận thưởng.
+
 ![[20241204112753.png]]
 Ấn nhận thưởng sẽ bung ra [[Pop-up thưởng]].
 
