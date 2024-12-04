@@ -17,7 +17,7 @@ tags:
 | Vòng quay           |       x        |
 | Chiến dịch          |                |
 | Gói mua             |                |
-| [[Huyết Tế]]        |                |
+| [[Huyết Tế -Hoàn Trả]]        |                |
 | Cửa Hàng Đấu Trường |       x        |
 
 

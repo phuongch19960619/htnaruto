@@ -18,4 +18,4 @@ tags:
 | Leo tháp        |
 | Thành tựu       |
 | Sự kiện         |
-| [[Huyết Tế]]    |
+| [[Huyết Tế -Hoàn Trả]]    |
