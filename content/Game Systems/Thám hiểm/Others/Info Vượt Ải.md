@@ -2,6 +2,7 @@
 tags:
   - thamhiem
   - tiennt
+  - readyUI
 ---
 Dạng [[Pop-up]], ghi rõ thông tin về tính năng thám hiểm.
 ![[20241113114927.png]]
