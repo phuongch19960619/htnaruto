@@ -5,7 +5,9 @@ tags:
   - duongnd
   - system
 ---
-# 3 Dev 2024
+# 4 Dec 2024
+- [[Thành Tựu]]
+# 3 Dec 2024
 - Add [[Reward Theo Progress (Pop-up)]] trong [[Thám Hiểm System]].
 - Add [[Feature Unlock]]. 
 - Add [[Quest]].
