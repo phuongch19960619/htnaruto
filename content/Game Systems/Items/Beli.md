@@ -11,4 +11,4 @@ Dùng trong [[Nâng lv]].
 3. Vòng quay
 4. Chiến dịch
 5. Gói mua
-6. [[Huyết Tế]]
+6. [[Huyết Tế -Hoàn Trả]]

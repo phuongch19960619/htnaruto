@@ -34,11 +34,11 @@ Một số tính năng khi unlock sẽ có [[Pop-up]] thông báo.
 | 20    | [[Chiến Dịch - Beli]]                 |               |                                             |
 | 20    | [[Tiệm Đồ]]                           |               |                                             |
 | 20    | [[Nhiệm Vụ Ngày]]                     |               |                                             |
-| 21    | [[Hạm đội (CLAN) - System]]           |               | [[Huyết Tế]], [[Hạm đội (CLAN) - Tạo Clan]] |
+| 21    | [[Hạm đội (CLAN) - System]]           |               | [[Huyết Tế -Hoàn Trả]], [[Hạm đội (CLAN) - Tạo Clan]] |
 | 22    | [[Thành tựu System]]                  |               |                                             |
 | 24    | [[Leo Đậu Thần (Tower)]]              |               |                                             |
 | 25    | [[Chiến Dịch - Nguyên Liệu]]          |               |                                             |
-| 25    | [[Huyết Tế]]                          |               |                                             |
+| 25    | [[Huyết Tế -Hoàn Trả]]                          |               |                                             |
 | 28    | [[Tổng bộ (Ủy thác)]]                 |               |                                             |
 | 30    | [[Chiến Dịch - Mảnh Hải Tặc]]         |               |                                             |
 | 30    | [[Đảo trời (Khai thác)]]              |               |                                             |
