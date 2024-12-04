@@ -24,7 +24,7 @@ Từ màn hình [[Lobby System]], chọn Thám Hiểm để vào tính năng.
 | 6   | Background. Không thể bấm.                                           |
 | 7   | Đội hình quái trong [[AFK]]. Không thể bấm.                          |
 | 8   | Button Chiến Đấu. Bấm sẽ vào [[Vượt Ải]].                            |
-| 9   | Button bản đồ. Bấm vào [[Map thế giới]].                             |
+| 9   | Button bản đồ. Bấm vào [[Map Thế Giới]].                             |
 | 10  | Trạng thái ải đã vượt + tên. Bấm ra [[Pop-up]] vượt ải - mục [15].   |
 | 11  | Trạng thái ải đang chọn + tên. Bấm ra [[Pop-up]] vượt ải - mục [15]. |
 | 12  | Trạng thái ải chưa vượt + tên. Bấm ra [[Pop-up]] vượt ải - mục [15]. |
