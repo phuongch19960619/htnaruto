@@ -65,6 +65,7 @@ Các nhiệm vụ đã nhận thưởng xong sẽ bị đẩy xuống dưới c�
 | 12  | Số cúp kiếm được khi hoàn thành.                              |
 | 13  | Thanh Progression của nhiệm vụ                                |
 | 14  | Thưởng nhiệm vụ. Thể hiện giống Item trong [[Túi Đồ System]]. |
+
 ![[HTHT-ThanhTuu-Herogif.gif]]
 # Log cần bổ sung
 - Quest được hoàn thành/số user
