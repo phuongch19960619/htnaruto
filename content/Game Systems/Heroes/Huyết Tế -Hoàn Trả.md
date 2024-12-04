@@ -48,7 +48,7 @@ Trừ các tướng đang trong đội hình vượt ải hoặc đấu trườn
 
 Khi huyết tế các tướng đã nâng cấp, sẽ hoàn trả cả Beli và đá EXP đã nâng cấp
 
-Tài nguyên nhận được sau khi huyết tế
+Tài nguyên nhận được sau khi huyết tế như sau:
 
 | Tướng | [[Đá EXP]] | [[Đá Cường Hóa]] | [[Hồn Hải Tặc]] |
 | ----- | ---------- | ---------------- | --------------- |
@@ -57,7 +57,18 @@ Tài nguyên nhận được sau khi huyết tế
 | 3 sao | 400        | 8                | 10              |
 | 4 sao | 880        | 20               | 26              |
 | 5 sao | 3360       | 208              | 260             |
-|       |            |                  |                 |
+Người chơi có thể xem trước tài nguyên sau khi huyết tế bằng cách bấm vào nút tìm kiếm![[20241204161725.png]]
+
+
+
+![[20241204161710.png]]
+
+
+
+Người chơi click vào trợ giúp để xem thông tin huyết tế. Khi  click vào trợ giúp sẽ hiển thị ra popup trợ giúp
+![[20241204160445.png]]
+
+
 
 **
 
@@ -103,3 +114,7 @@ Các Tướng "tài nguyên" không phải bản coppy của tướng chính đ�
 
 
 Người chơi chọn tướng cần hoàn trả sau đó ấn Hoàn trả để nhận tài nguyên
+
+Người chơi click vào trợ giúp để xem thông tin hoàn trả. Khi  click vào trợ giúp sẽ hiển thị ra popup trợ giúp
+![[20241204160445.png]]
+
