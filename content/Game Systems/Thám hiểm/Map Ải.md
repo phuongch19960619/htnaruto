@@ -4,7 +4,7 @@ tags:
   - duongnd
 ---
 ![[HTHT_Ai.mp4]]
-- Mỗi Map có 10 ải. Mỗi ải chỉ đánh 1 lần & nhận quà 1 lần.
+- Mỗi [[Địa Điểm Thám Hiểm]] có 10 ải. Mỗi ải chỉ đánh 1 lần & nhận quà 1 lần.
 - Click vào ải sẽ xem được quà. Danh sách quà nhận theo từng ải | File Balance
 - Trạng thái Ải:
 - Ải đã vượt: hiển thị màu sáng
