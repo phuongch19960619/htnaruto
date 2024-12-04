@@ -11,7 +11,7 @@ Từ màn hình [[Lobby System]], bấm vào Thành Tựu để hiện ra [[Pop-
 
 # Mô tả tính năng
 ![[20241204110354.png]]
-  
+
 | ID  | Giải nghĩa                                          |
 | --- | --------------------------------------------------- |
 | 1   | Tab Thành Tựu. Mặc định vào Tab này khi mở UI.      |
@@ -22,6 +22,7 @@ Từ màn hình [[Lobby System]], bấm vào Thành Tựu để hiện ra [[Pop-
 | 6   | Nhiệm Vụ để đạt được quà.                           |
 | 7   | Thanh progression cho nhiệm vụ.                     |
 | 8   | Phần thưởng nhiệm vụ. Bấm vào hiện ra [[Tool-tip]]. |
+
 Các nhiệm vụ khi hoàn thành sẽ được đẩy lên trên cùng và có thêm nút nhận thưởng.
 
 ![[20241204112753.png]]
