@@ -7,6 +7,7 @@ tags:
 ---
 # 4 Dec 2024
 - [[Thành Tựu]]
+- Update UI: [[Địa Điểm Thám Hiểm]], [[Hòm AFK]], [[Phụ Bản System]]
 # 3 Dec 2024
 - Add [[Reward Theo Progress (Pop-up)]] trong [[Thám Hiểm System]].
 - Add [[Feature Unlock]]. 
