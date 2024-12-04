@@ -8,6 +8,7 @@ tags:
 Docs System gốc: [Link](https://docs.google.com/document/d/156jdXlwpxDSQ06v6TAc6vNUu0gJDd8s70hGHWagl7f8/edit?tab=t.0)
 Docs Balance gốc: Link
 
+Check form [[Bảo Vật]]  và [[Heroes System]]
 # Vị trí tính năng
 Từ màn hình [[Lobby System]], chọn Thám Hiểm để vào tính năng.
 ![[20241125163405.png]]
