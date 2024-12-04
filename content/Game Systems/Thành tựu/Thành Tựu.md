@@ -32,17 +32,18 @@ Các nhiệm vụ đã nhận thưởng xong sẽ bị đẩy xuống dưới c�
 ## Leagues
 ![[20241204110623.png]]
 
-| ID  | Giải nghĩa                                         |
-| --- | -------------------------------------------------- |
-| 1   | Tab Thành Tựu. Bấm mở tab.                         |
-| 2   | Tab Thông Thạo.                                    |
-| 3   | Đóng Pop-up. Trở về [[Lobby System]].              |
-| 4   | Khu vực thể hiện danh sách thông thạo.             |
-| 5   | Tổng số lượng cúp mà người chơi đã đạt.            |
-| 6   | Tính năng Leagues. Bấm vào ra UI leagues như trên. |
-| 7   | Thanh progression cho leagues.                     |
-| 8   | Nội dung League. Xem bên dưới.                     |
+| ID  | Giải nghĩa                                                   |
+| --- | ------------------------------------------------------------ |
+| 1   | Tab Thành Tựu. Bấm mở tab.                                   |
+| 2   | Tab Thông Thạo.                                              |
+| 3   | Đóng Pop-up. Trở về [[Lobby System]].                        |
+| 4   | Khu vực thể hiện danh sách thông thạo.                       |
+| 5   | Tổng số lượng cúp mà người chơi đã đạt.                      |
+| 6   | Tính năng Leagues. Bấm vào ra UI leagues như trên.           |
+| 7   | Thanh progression cho leagues. Gồm các mốc scroll lên xuống. |
+| 8   | Thưởng mốc.                                                  |
 
+![[HTHT-ThanhTuu-Leagues-gif.gif]]
 ## Tướng
 ![[20241204112435.png]]
 
@@ -63,7 +64,7 @@ Các nhiệm vụ đã nhận thưởng xong sẽ bị đẩy xuống dưới c�
 | 12  | Số cúp kiếm được khi hoàn thành.                              |
 | 13  | Thanh Progression của nhiệm vụ                                |
 | 14  | Thưởng nhiệm vụ. Thể hiện giống Item trong [[Túi Đồ System]]. |
-
+![[HTHT-ThanhTuu-Herogif.gif]]
 # Log cần bổ sung
 - Quest được hoàn thành/số user
 - Quest được hoàn thành nhiều nhất
