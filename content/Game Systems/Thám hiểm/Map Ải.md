@@ -2,6 +2,7 @@
 tags:
   - thamhiem
   - duongnd
+  - readyUI
 ---
 ![[HTHT_Ai.mp4]]
 - Mỗi [[Địa Điểm Thám Hiểm]] có 10 ải. Mỗi ải chỉ đánh 1 lần & nhận quà 1 lần.
