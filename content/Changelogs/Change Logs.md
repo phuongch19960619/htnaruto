@@ -5,6 +5,8 @@ tags:
   - duongnd
   - system
 ---
+# 5 Dec 2024
+- [[Event - Thất Vũ Hải]].
 # 4 Dec 2024
 - [[Thành Tựu]]
 - Update UI: [[Địa Điểm Thám Hiểm]], [[Hòm AFK]], [[Phụ Bản System]]
