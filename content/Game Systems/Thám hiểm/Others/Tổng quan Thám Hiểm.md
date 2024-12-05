@@ -14,7 +14,8 @@ Sóng biển sẽ trôi theo hướng thuyền đi từ trái sang phải. (Bi�
 
 Formation idle
 Đội hình idle sẽ gồm 3 tướng . Chạy sang ngang
-![[20241204143254.png]]
+![[20241205142847.png]]
+
 
 Khung text random trò chuyện
 ![[20241204143346.png]]
