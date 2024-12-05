@@ -5,7 +5,8 @@ tags:
   - readyUI
 ---
 Mỗi khi quái chết, item rơi ra và tài nguyên sẽ bay về hòm. 
-![[20241204140148.png]]
+![[bandicam2024-12-0514-24-51-686.mp4]]
+
 
 Hòm có 3 trạng thái (từ trái sang phải): Rỗng, Có Tài Nguyên, Đầy.
 ![[20241113111319.png]]
@@ -18,7 +19,8 @@ Từ hòm có tài nguyên: Từ hòm có tài nguyên, sau 5 phút không nhậ
 ![[HTHT_AFK_Full.mp4]]
 
 Khi nhận hòm AFK, hiện ra [[Pop-up]] thưởng. Chi tiết chỉ số xem trong file Balance.
-![[20241113111610.png]]
+![[20241205142655.png]]
+
 
 Nhận quà AFK , với điều kiện exp nhận đủ đạt level sẽ hiện thông báo đạt level
 ![[20241204150149.png]]
