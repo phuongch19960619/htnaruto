@@ -46,7 +46,8 @@ Khung text random trò chuyện
 Khung hiển thị tên Đảo hiện tại
 ![[20241204144748.png]]
 
-Map thế giới
+Map thế giới: dạng 1 tấm bản đồ mở ra thế giới, hiển thị lần lượt các chương , và các đảo có trong game
+Button khi click vào sẽ hiển thị [[Map Thế Giới]]
 ![[20241204145410.png]]
 
 Ải
@@ -67,3 +68,12 @@ Yêu cầu cấp độ
 
 Bấm Vượt ải , khi mà level không đủ, xuất hiện thông báo "Yêu cầu cấp độ xxx"
 ![[20241204145752.png]]
+
+## Top vượt ải
+Button ![[20241205181057.png]] : vẽ button như dạng BXH ![[20241205181323.png]]
+
+Khi click sẽ hiển thị popup [[Top Vượt Ải]]
+
+## Trợ giúp
+Button: ![[20241205181401.png]] : dấu hỏi để cho user biết đây là tính năng trợ giúp
+Click vào hiển thị popup [[Info Vượt Ải]]
