@@ -48,6 +48,7 @@ Khung hiển thị tên Đảo hiện tại
 
 Map thế giới: dạng 1 tấm bản đồ mở ra thế giới, hiển thị lần lượt các chương , và các đảo có trong game
 Button khi click vào sẽ hiển thị [[Map Thế Giới]]
+Hiển thị bao gồm các [[Địa Điểm Thám Hiểm]]
 ![[20241204145410.png]]
 
 Ải
