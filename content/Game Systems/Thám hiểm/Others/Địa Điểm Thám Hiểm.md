@@ -30,64 +30,35 @@ Người chơi không thể trở về địa điểm đã đi qua và chưa đi
 
 Danh sách các đảo:
 
-Đảo 2: Shells Town
-![[20241204140746.png]]
-Đảo 3: Orange Town
-![[20241204141102.png]]
-Đảo 4: Syrup Village
-![[20241204141112.png]]
-Đảo 5: Baratie
-![[20241204141120.png]]
-Đảo 6: Arlong Park
-![[20241204141129.png]]
-Đảo 7: Loguetown
-![[20241204141843.png]]
-Đảo 8: Reverse Mountain
-![[20241204142019.png]]
-Đảo 9: Whiskey Peak
-![[20241204142057.png]]
-Đảo 10: Little Garden
-![[20241204141146.png]]
-Đảo 11: Drum Island
-![[20241204142114.png]]
-Đảo 12: Alabasta
-![[20241204141155.png]]
-Đảo 13: Jaya
-![[20241204142205.png]]
-Đảo 14: Skypiea
-![[20241204141223.png]]
-Đảo 15: Long Ring Long Land
+| Tên                     | Ảnh                     |
+| ----------------------- | ----------------------- |
+| Shells Town             | ![[20241204140746.png]] |
+| Orange Town             | ![[20241204141102.png]] |
+| Syrup Village           | ![[20241204141112.png]] |
+| Baratie                 | ![[20241204141120.png]] |
+| Arlong Park             | ![[20241204141129.png]] |
+| Loguetown               | ![[20241204141843.png]] |
+| Reverse Mountain        | ![[20241204142019.png]] |
+| Whiskey Peak            | ![[20241204142057.png]] |
+| Little Garden           | ![[20241204141146.png]] |
+| Drum Island             | ![[20241204142114.png]] |
+| Alabasta                | ![[20241204141155.png]] |
+| Jaya                    | ![[20241204142205.png]] |
+| Skypiea                 | ![[20241204141223.png]] |
+| Water 7                 | ![[20241204141232.png]] |
+| Enies Lobby             | ![[20241204141449.png]] |
+| Thriller Bark           | ![[20241204141439.png]] |
+| Sabaody Archipelago     | ![[20241204142317.png]] |
+| Amazon Lily             | ![[20241204142329.png]] |
+| Impel Down              | ![[20241204141431.png]] |
+| Marineford              | ![[20241204141419.png]] |
+| Sabaody Archipelago (2) | ![[20241204142317.png]] |
+| Fisherman Island        | ![[20241204142352.png]] |
+| Punk Hazard             | ![[20241204142403.png]] |
+| Dressrosa               | ![[20241204142414.png]] |
+| Whole Cake Island       | ![[20241204142434.png]] |
+| Wano Country            |                         |
+| Egghead Island          |                         |
+| Elbaf (chưa đến)        |                         |
+| Laugh Tale              |                         |
 
-Đảo 16: Water 7
-![[20241204141232.png]]
-Đảo 17: Enies Lobby
-![[20241204141449.png]]
-Đảo 18: Thriller Bark
-![[20241204141439.png]]
-Đảo 19: Sabaody Archipelago
-![[20241204142317.png]]
-Đảo 20: Amazon Lily
-![[20241204142329.png]]
-Đảo 21: Impel Down
-![[20241204141431.png]]
-Đảo 22: Marineford
-![[20241204141419.png]]
-Đảo 23: Sabaody Archipelago (2)
-![[20241204142317.png]]
-Đảo 24: Fisherman Island
-![[20241204142352.png]]
-Đảo 25: Punk Hazard
-![[20241204142403.png]]
-Đảo 26: Dressrosa
-![[20241204142414.png]]
-Đảo 27: Zou
-
-Đảo 28: Whole Cake Island
-![[20241204142434.png]]
-Đảo 29: Wano Country
-
-Đảo 30: Egghead Island
-
-Đảo 31: Elbaf (chưa đến)
-
-Đảo 32: Laugh Tale
