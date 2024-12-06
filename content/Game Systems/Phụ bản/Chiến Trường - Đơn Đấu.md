@@ -16,7 +16,7 @@ tags:
 | 6   | Điểm mùa giải user TOP                                           |
 | 7   | Info bản thân User                                               |
 | 8   | Hạng + Điểm User                                                 |
-| 9   | Item [[Ticket Arena]]                                            |
+| 9   | Item [[Giấy Thách Đấu]]                                          |
 | 10  | Button Chiến Đấu                                                 |
 | 11  | [[Rewards Đơn Đấu]]                                              |
 | 12  | [[Lịch Sử Đơn Đấu]]                                              |
@@ -30,7 +30,7 @@ tags:
 ## Điểm
 - Chiến đấu kết thúc thì bên thắng được cộng điểm, thua bị trừ điểm. Xếp hạng căn cứ vào điểm
 ## Ticket
-- Tham gia Chiến Trường sẽ tốn [[Ticket Arena]] có thể dùng [[Kim Cương]] để mua Ticket Arena. Giá Ticket Arena = 20 (kim cương) (không giới hạn lượt mua).
+- Tham gia Chiến Trường sẽ tốn [[Giấy Thách Đấu]] có thể dùng [[Kim Cương]] để mua Ticket Arena. Giá Ticket Arena = 20 (kim cương) (không giới hạn lượt mua).
 
 # Bảng đấu
 ## Số lượng và chia bảng

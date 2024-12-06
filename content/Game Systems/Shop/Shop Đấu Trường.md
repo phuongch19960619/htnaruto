@@ -8,5 +8,5 @@ Thuộc nhóm [[Shop System]]. Đây là nơi để người chơi mua hàng. T�
 
 Cửa hàng đấu trường không có limit item và reset thời gian.
 
-Chiến trường sẽ thưởng [[Huy hiệu Chiến Trường]], sử dụng làm currency mua vật phẩm trong shop.
+Chiến trường sẽ thưởng [[Huy Hiệu Chiến Trường]], sử dụng làm currency mua vật phẩm trong shop.
 - Danh sách vật phẩm + giá . File balance

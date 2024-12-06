@@ -80,7 +80,7 @@ Khi quay mà không đủ điều kiện sẽ hiển thị [[Floating Thông Bá
 ## Làm mới
 - Đến 0h mỗi ngày sẽ bắt buộc làm mới item trong vòng quay
 - Lần đầu trong ngày sẽ free làm mới (không mất kim cương).
-- Các lần tiếp theo mất 40 [[kim cương]], không giới hạn lượt làm mới.
+- Các lần tiếp theo mất 40 [[Kim Cương]], không giới hạn lượt làm mới.
 
 | Lần | Kim cương |
 | --- | --------- |
@@ -124,7 +124,7 @@ Khi quay mà không đủ điều kiện sẽ hiển thị [[Floating Thông Bá
 
 - Quay vòng quay Siêu cấp không nhận được [[Cỏ 4 Lá]]
 # Xu Quay 
-- Khi hết có thể mua bằng [[Kim cương]]
+- Khi hết có thể mua bằng [[Kim Cương]]
 
 | Xu                     | Kim Cương      |
 | ---------------------- | -------------- |

@@ -5,6 +5,8 @@ tags:
   - duongnd
   - system
 ---
+# 6 Dec 2024
+- Update Item List.
 # 5 Dec 2024
 - [[Event - Thất Vũ Hải]].
 # 4 Dec 2024

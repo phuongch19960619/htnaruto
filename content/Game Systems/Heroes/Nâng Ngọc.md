@@ -21,7 +21,7 @@ Từ [[Lobby System]], vào [[Thư Viện]], bấm vào [[Thông Tin Tướng]],
 ## Nâng cấp đá bảo mệnh
 
 ![[20241122092524.png]]
-- Người chơi sử dụng Đồng Beli và Bụi Ma Thuật để tăng cấp Ngọc
+- Người chơi sử dụng Đồng [[Beli]] và [[Bụi Ma Thuật]] để tăng cấp Ngọc
 - Tăng cấp Ngọc sẽ thay đổi loại chỉ số và giá trị chỉ số. 
 - Người chơi có thể sử dụng Kim Cương để lock loại chỉ số ở các dòng khi tăng cấp (lock: giữ nguyên dạng stat, tăng cấp sẽ tăng giá trị chỉ số)
 -  Level Ngọc càng cao Kim Cương sử dụng càng lớn
