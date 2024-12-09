@@ -5,7 +5,7 @@ tags:
   - readyUI
 ---
 # Vị trí tính năng
-Từ [[Lobby System]], vào [[Thư Viện]], bấm vào [[Thông Tin Tướng]], mở tab [[Bảo Vật]] và ấn vào ô Bảo Vật.
+Từ [[Lobby System]], bấm vào [[Thông Tin Tướng]], mở tab [[Bảo Vật]] và ấn vào ô Bảo Vật.
 ![[HTHT-TrangBiNone_baovatgif.gif]]
 
 # Mô tả tính năng
