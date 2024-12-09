@@ -2,6 +2,7 @@
 tags:
   - hero
   - phuongch
+  - readyUI
 ---
 # Vị trí tính năng
 Từ [[Lobby System]], vào [[Thư Viện]], bấm vào [[Thông Tin Tướng]], mở tab[[Trang bị Đặc Thù]]
