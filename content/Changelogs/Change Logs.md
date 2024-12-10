@@ -10,6 +10,7 @@ tags:
 - Thêm mới: [[Shop Cỏ 4 Lá]].
 - Thêm mới: [[Event - Xu Vòng Quay]].
 - Thêm mới: [[Event - Xu Vòng Quay Siêu Cấp]].
+- Thêm mới: [[Chiến dịch (nguyên liệu)]].
 # 9 Dec 2024
 - Thêm mới: [[Trang bị Đặc Thù]]
 - Thêm mới: [[Luyện Tướng]]
