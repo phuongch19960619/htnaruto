@@ -5,6 +5,11 @@ tags:
   - duongnd
   - system
 ---
+# 10 Dec 2024
+- Bổ sung [[Tool-tip]] Tướng.
+# 9 Dec 2024
+- Thêm mới: [[Trang bị Đặc Thù]]
+- Thêm mới: [[Luyện Tướng]]
 # 6 Dec 2024
 - Update Item List.
 # 5 Dec 2024
