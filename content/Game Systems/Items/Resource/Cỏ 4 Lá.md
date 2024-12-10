@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh     | Tính năng sử dụng                                                                            |
 | --- | ------------ | -------------------------------------------------------------------------------------------- |
 | 22  | ![[22c.png]] | Tìm trong [[Vòng Quay]] và [[Thành tựu System]]. Sử dụng để mua đồ trong [[Shop Vòng Quay]]. |
+
 **Hình trong game**
 
 ![[20241119154749.png]]

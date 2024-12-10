@@ -7,7 +7,9 @@ tags:
 | ID    | Hình Ảnh       | Tính năng sử dụng             |
 | ----- | -------------- | ----------------------------- |
 | 40013 | ![[40013.png]] | Dùng trong [[Túi Đồ System]]. |
+
 **Hình ảnh và mô tả trong game**
+
 ![[20241129160926.png]]
 
 | Tính Năng           | Tìm thấy trong |

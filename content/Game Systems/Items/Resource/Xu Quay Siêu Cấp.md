@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh     | Tính năng sử dụng                       |
 | --- | ------------ | --------------------------------------- |
 | 13  | ![[13c.png]] | Sử dụng để quay [[Vòng Quay]] Siêu Cấp. |
+
 **Hình trong game**
 
 ![[20241119155217.png]]

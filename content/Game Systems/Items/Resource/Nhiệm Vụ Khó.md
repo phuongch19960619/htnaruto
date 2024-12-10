@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh     | Tính năng sử dụng       |
 | --- | ------------ | ----------------------- |
 | 18  | ![[18c.png]] | Dùng trong [[Tổng Bộ]]. |
+
 **Hình trong game**
 
 ![[20241121163133.png]]

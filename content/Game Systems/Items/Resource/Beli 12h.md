@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh     | Tính năng sử dụng       |
 | --- | ------------ | ----------------------- |
 | 63  | ![[63c.png]] | Dùng trong [[Nâng lv]]. |
+
 **Hình trong game**
 
 ![[20241121160456.png]]

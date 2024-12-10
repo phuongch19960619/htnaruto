@@ -6,6 +6,7 @@ tags:
 | ID  | Hình Ảnh     | Tính năng sử dụng                |
 | --- | ------------ | -------------------------------- |
 | 36  | ![[36c.png]] | Dùng trong [[Shop Đại Hải Tăc]]. |
+
 **Hình trong game**
 
 ![[20241206164145.png]]

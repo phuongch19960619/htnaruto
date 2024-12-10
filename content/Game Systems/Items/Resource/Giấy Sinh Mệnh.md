@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh    | Tính năng sử dụng                |
 | --- | ----------- | -------------------------------- |
 | 8   | ![[8c.png]] | Sử dụng trong [[Shop Luyện Tập]] |
+
 **Hình trong game**
 
 ![[20241121163748.png]]

@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh     | Tính năng sử dụng           |
 | --- | ------------ | --------------------------- |
 | 11  | ![[11c.png]] | Sử dụng trong [[Chiến Hạm]] |
+
 **Hình trong game**
 
 ![[20241121163825.png]]

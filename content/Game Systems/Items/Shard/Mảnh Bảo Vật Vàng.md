@@ -4,10 +4,12 @@ tags:
   - tiennt
 ---
 
-| ID  | Hình Ảnh   | Tính năng sử dụng             |
-| --- | ---------- | ----------------------------- |
+| ID  | Hình Ảnh    | Tính năng sử dụng             |
+| --- | ----------- | ----------------------------- |
 | 2   | ![[2a.png]] | Dùng trong [[Túi Đồ System]]. |
+
 **Hình trong game**
+
 -
 
 | Tính Năng           | Tìm thấy trong |

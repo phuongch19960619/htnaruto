@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh     | Tính năng sử dụng                     |
 | --- | ------------ | ------------------------------------- |
 | 10  | ![[10c.png]] | Sử dụng để quay [[Vòng Quay]] Thường. |
+
 **Hình trong game**
 
 ![[20241119155031.png]]

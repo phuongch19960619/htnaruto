@@ -6,6 +6,7 @@ tags:
 | ID  | Hình Ảnh     | Tính năng sử dụng                  |
 | --- | ------------ | ---------------------------------- |
 | 33  | ![[33c.png]] | Dùng trong [[Huyết Tế -Hoàn Trả]]. |
+
 **Hình trong game**
 
 ![[20241206164704.png]]

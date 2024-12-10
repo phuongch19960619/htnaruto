@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh    | Tính năng sử dụng               |
 | --- | ----------- | ------------------------------- |
 | 7   | ![[7c.png]] | Sử dụng trong [[Shop Huyết Tế]] |
+
 **Hình trong game**
 
 ![[20241121163635.png]]

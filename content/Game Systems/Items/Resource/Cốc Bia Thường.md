@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh     | Tính năng sử dụng            |
 | --- | ------------ | ---------------------------- |
 | 14  | ![[14c.png]] | Dùng trong [[Gacha Thường]]. |
+
 **Hình trong game**
 
 ![[20241121162729.png]]

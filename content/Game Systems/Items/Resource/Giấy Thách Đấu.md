@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh    | Tính năng sử dụng                    |
 | --- | ----------- | ------------------------------------ |
 | 4   | ![[4c.png]] | Dùng trong [[Chiến Trường (Arena)]]. |
+
 **Hình trong game**
 
 ![[20241113161513.png]]

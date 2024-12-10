@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh     | Tính năng sử dụng                    |
 | --- | ------------ | ------------------------------------ |
 | 15  | ![[15c.png]] | Dùng trong [[Chiêu Mộ Đại Hải Tặc]]. |
+
 **Hình trong game**
 
 ![[20241121162832.png]]

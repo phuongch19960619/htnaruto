@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh    | Tính năng sử dụng                                         |
 | --- | ----------- | --------------------------------------------------------- |
 | 6   | ![[6c.png]] | Tìm trong Hạm Đội, sử dụng để mua trong [[Shop Hạm Đội]]. |
+
 **Hình trong game**
 
 ![[20241121163437.png]]

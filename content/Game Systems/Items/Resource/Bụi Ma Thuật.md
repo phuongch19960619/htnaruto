@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh    | Tính năng sử dụng         |
 | --- | ----------- | ------------------------- |
 | 3   | ![[3c.png]] | Dùng trong [[Nâng Ngọc]]. |
+
 **Hình trong game**
 
 ![[20241206154739.png]]

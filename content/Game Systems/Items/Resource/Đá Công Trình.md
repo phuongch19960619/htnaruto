@@ -7,6 +7,7 @@ tags:
 | ID  | Hình Ảnh    | Tính năng sử dụng        |
 | --- | ----------- | ------------------------ |
 | 5   | ![[5c.png]] | Dùng trong [[Đảo Trời]]. |
+
 **Hình trong game**
 
 ![[20241121163308.png]]
