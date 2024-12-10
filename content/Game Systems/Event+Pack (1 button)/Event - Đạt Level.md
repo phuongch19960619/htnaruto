@@ -25,5 +25,7 @@ Người chơi đạt đủ [[Cấp Độ Người Chơi]] trong event sẽ nh�
 
 **Luật chơi:**
 1. Trong thời gian diễn ra sự kiện, cứ đạt đủ [[Cấp Độ Người Chơi]] sẽ tích 1 điểm thưởng.
-2. Phần thưởng tự động gửi về hòm thư - Tiêu đề: Thưởng Cấp Độ. Nội dung bên trong: "Phần thưởng sự kiện Lên Cấp".
+2. Nhiệm vụ khi hoàn thành sẽ được đẩy xuống dưới cùng và có trạng thái hoàn thành.
+![[20241210104743.png]]
+3. Phần thưởng tự động gửi về hòm thư - Tiêu đề: Thưởng Cấp Độ. Nội dung bên trong: "Phần thưởng sự kiện Lên Cấp".
 ![[20241118114228.png]]
