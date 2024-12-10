@@ -4,11 +4,11 @@ tags:
 ---
 Lối vào
 Từ Giao diện chính > Luyện tướng
-![[Pasted image 20241209152657.png]]
+![[20241209152657.png]]
 
 Điều kiện mở khóa: [[Unlock Tính Năng]]
 
-![[Pasted image 20241209152854.png]]
+![[20241209152854.png]]
 
 | ID  | Giải nghĩa                       |
 | --- | -------------------------------- |
@@ -23,7 +23,7 @@ Từ Giao diện chính > Luyện tướng
 Chỉ luyện được các tướng A từ 4 sao lên 5 sao. Mỗi Hệ có quy định các tướng có thể luyện tướng
 
 Khi người chơi chọn 1 tướng để luyện tướng  sẽ hiển thị thêm thông tin cần để luyện tướng đó ở khu (2)
-![[Pasted image 20241209154553.png]]
+![[20241209154553.png]]
 
 Tướng hệ nào dùng các tướng làm nguyên liệu luyện tướng của hệ đó
 Điều kiện luyện tướng từ 1 tướng A 4 sao lên 5 sao về số lượng là giống nhau và chỉ khác nhau về 
@@ -36,4 +36,4 @@ Tài nguyên để luyện được 1 tướng lên 5 sao:
 (Nếu người chơi vào giao diện tướng và nâng sao thì tài nguyên cần dùng là 1 coppy thay vì 2)
 
 Sau khi hợp thành thành công sẽ hiển thị popup luyện tướng thành công: Tướng 5 sao và tài nguyên giống như huyết tế các tướng trong phần nguyên liệu
-![[Pasted image 20241209160232.png]]
+![[20241209160232.png]]
