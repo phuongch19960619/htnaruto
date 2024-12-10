@@ -5,15 +5,15 @@ tags:
   - pve
 ---
 # Vị trí tính năng
-Từ [[Lobby System (Home)]], chọn [[Phụ Bản System]], sau đó chọn Chiến Dịch.
+Từ [[Lobby System (Home)]], chọn [[Phụ Bản System]], sau đó chọn Tổng Bộ.
+
+![[HTHT-TongBoPos-ezgif.gif]]
+
 ![[20241210151841.png]]
 
-![[20241210151940.png]]
-
+![[20241210162400.png]]
 
 # Mô tả tính năng
-
-![[20241210152203.png]]
 
 
 | ID  | Giải nghĩa                                                                     |
