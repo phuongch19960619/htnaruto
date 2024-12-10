@@ -19,7 +19,7 @@ Cấu tạo tương tự một [[Shop System]] - có mua bán và các button t�
 | 7   | Thanh tiền tệ: [[Beli]] và [[Kim Cương]]                            |
 | 8   | Background                                                          |
 | 9   | Background + tên Event.                                             |
-| 10  | Số lượng vật phẩm dùng trong event -> [[Dép Luffy]].                |
+| 10  | Số lượng vật phẩm dùng trong event -> [[Cỏ 4 Lá]].                  |
 | 11  | Thông tin 1 ô shop. Gồm: tag limited, hình ảnh, số lượng và giá cả. |
 Các đồ Limited chỉ có thể mua 10 lần.
 Khi mua hết sẽ có biểu tượng Sold Out. 
