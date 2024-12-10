@@ -8,6 +8,8 @@ tags:
 # 10 Dec 2024
 - Bổ sung [[Tool-tip]] Tướng.
 - Thêm mới: [[Shop Cỏ 4 Lá]].
+- Thêm mới: [[Event - Xu Vòng Quay]].
+- Thêm mới: [[Event - Xu Vòng Quay Siêu Cấp]].
 # 9 Dec 2024
 - Thêm mới: [[Trang bị Đặc Thù]]
 - Thêm mới: [[Luyện Tướng]]
