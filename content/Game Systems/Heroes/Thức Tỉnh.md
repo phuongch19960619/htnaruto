@@ -8,7 +8,7 @@ Docs System gốc: [Link](https://docs.google.com/document/d/1FibaPZeGoysRWVcPQL
 Docs Balance gốc: Link
 
 # Vị trí tính năng
-Ngoài [[Lobby System]], chọn [[Heroes System]] sau đó vào Tab Thức Tỉnh.
+Ngoài [[Lobby System (Home)]], chọn [[Heroes System]] sau đó vào Tab Thức Tỉnh.
 ![[HTHT-ThucTinhPosgif.gif]]
 
 ![[20241113174202.png]]

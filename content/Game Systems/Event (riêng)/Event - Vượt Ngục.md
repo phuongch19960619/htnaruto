@@ -4,7 +4,7 @@ tags:
   - tiennt
 ---
 # Vị trí tính năng
-Ngoài [[Lobby System]], bấm vào biểu tượng Vượt Ngục. 
+Ngoài [[Lobby System (Home)]], bấm vào biểu tượng Vượt Ngục. 
 
 ![[20241206143123.png]]
 

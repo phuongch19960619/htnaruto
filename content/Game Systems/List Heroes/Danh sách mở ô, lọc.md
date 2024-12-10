@@ -13,7 +13,7 @@ Docs Balance gốc: Link
 
 | ID  | Giải nghĩa                                      |
 | --- | ----------------------------------------------- |
-| 1   | Back Button về lại màn [[Lobby System]]         |
+| 1   | Back Button về lại màn [[Lobby System (Home)]]         |
 | 2   | Hệ [[Nhanh Nhẹn]]. Bấm ra list tướng cùng hệ.   |
 | 3   | Hệ [[Bền Bỉ]]. Bấm ra list tướng cùng hệ.       |
 | 4   | Hệ [[Chính Xác]]. Bấm ra list tướng cùng hệ.    |

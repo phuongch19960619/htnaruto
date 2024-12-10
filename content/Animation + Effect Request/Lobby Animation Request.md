@@ -5,7 +5,7 @@ tags:
   - tiennt
   - ready-request
 ---
-Doc: [[Lobby System]].
+Doc: [[Lobby System (Home)]].
 ![[OP5.png]]
 
 # Animation Request

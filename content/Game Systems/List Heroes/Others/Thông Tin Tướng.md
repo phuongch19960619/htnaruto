@@ -5,7 +5,7 @@ tags:
   - readyUI
 ---
 # Vị trí tính năng
-Từ [[Lobby System]], bấm vào Tướng, sau đó bấm vào hình thẻ tướng bất kì.
+Từ [[Lobby System (Home)]], bấm vào Tướng, sau đó bấm vào hình thẻ tướng bất kì.
 
 # Mô tả tính năng
 ![[20241126161446.png]]

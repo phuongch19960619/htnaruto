@@ -11,7 +11,7 @@ Người chơi đạt đủ điểm trong event sẽ nhận lại quà qua [[Th�
 
 | ID  | Detail                                         |
 | --- | ---------------------------------------------- |
-| 1   | Button - Back về [[Lobby System]]              |
+| 1   | Button - Back về [[Lobby System (Home)]]              |
 | 2   | Thanh tiền tệ: [[Beli]] + [[Kim Cương]]        |
 | 3   | [[Shop Đại Hải Tăc]]                           |
 | 4   | [[Event Pack System]] - tab sự kiện tuần       |
@@ -26,7 +26,7 @@ Người chơi đạt đủ điểm trong event sẽ nhận lại quà qua [[Th�
 | 13  | Danh sách vật phẩm thưởng khi đạt đủ điểm.     |
 
 **Luật chơi:**
-- Trong thời gian diễn ra sự kiện, nếu xoay [[Vòng Quay]] sẽ tích 1 điểm. Đủ điểm sẽ nhận quà nhiệm vụ. 
+- Trong thời gian diễn ra sự kiện, nếu xoay **[[Vòng Quay]] Siêu Cấp** sẽ tích 1 điểm. Đủ điểm sẽ nhận quà nhiệm vụ. 
 - Nhiệm vụ khi hoàn thành sẽ được đẩy xuống dưới cùng và có trạng thái hoàn thành.
 ![[20241210104743.png]]
 - Phần thưởng tự động gửi về hòm thư - Tiêu đề: Xu Vòng Quay Siêu Cấp. Nội dung bên trong: "Phần thưởng sự kiện Xu Vòng Quay Siêu Cấp".

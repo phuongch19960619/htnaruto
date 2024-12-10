@@ -10,7 +10,7 @@ Docs System gốc: [Link](https://docs.google.com/document/d/11iSxHZKzCREEeGZKeW
 Docs Balance gốc: Link
 
 # Vị trí tính năng
-Ngoài [[Lobby System]], chọn [[Heroes System]] chọn [[Thư Viện]]
+Ngoài [[Lobby System (Home)]], chọn [[Heroes System]] chọn [[Thư Viện]]
 ![[20241113171116.png]]
 
 ![[20241122162734.png]]

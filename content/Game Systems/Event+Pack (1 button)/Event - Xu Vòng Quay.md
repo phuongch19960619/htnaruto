@@ -11,7 +11,7 @@ Người chơi đạt đủ điểm trong event sẽ nhận lại quà qua [[Th�
 
 | ID  | Detail                                         |
 | --- | ---------------------------------------------- |
-| 1   | Button - Back về [[Lobby System]]              |
+| 1   | Button - Back về [[Lobby System (Home)]]              |
 | 2   | Thanh tiền tệ: [[Beli]] + [[Kim Cương]]        |
 | 3   | [[Shop Đại Hải Tăc]]                           |
 | 4   | [[Event Pack System]] - tab sự kiện tuần       |

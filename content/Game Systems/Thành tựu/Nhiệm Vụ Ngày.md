@@ -6,7 +6,7 @@ tags:
   - readyUI
 ---
 # Vị trí tính năng
-Từ màn hình [[Lobby System]], bấm vào Nhiệm Vụ để hiện ra [[Pop-up]] Nhiệm Vụ Hằng Ngày.
+Từ màn hình [[Lobby System (Home)]], bấm vào Nhiệm Vụ để hiện ra [[Pop-up]] Nhiệm Vụ Hằng Ngày.
 ![[20241119143823.png]]
 
 # Mô tả tính năng
@@ -14,7 +14,7 @@ Từ màn hình [[Lobby System]], bấm vào Nhiệm Vụ để hiện ra [[Pop-
   
 | ID  | Giải nghĩa                                                 |
 | --- | ---------------------------------------------------------- |
-| 1   | Back Button. Bấm về [[Lobby System]].                      |
+| 1   | Back Button. Bấm về [[Lobby System (Home)]].                      |
 | 2   | Tên Tính năng [Nhiệm vụ]. Không thể bấm.                   |
 | 3   | Đồng hồ đếm ngược làm mới. Không thể bấm.                  |
 | 4   | Tiêu đề nhiệm vụ tổng.                                     |

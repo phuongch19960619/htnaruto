@@ -13,7 +13,7 @@ Nơi kiếm tài nguyên tướng của người chơi
 
 ![[20241125094705.png]]
 
-Ở màn hình [[Lobby System]], người chơi ấn vào **Chiêu mộ**. Hệ thống sẽ bung ra thêm 2 options:
+Ở màn hình [[Lobby System (Home)]], người chơi ấn vào **Chiêu mộ**. Hệ thống sẽ bung ra thêm 2 options:
 - **Chiêu mộ** - [[Gacha Thường]]
 - **Chiêu mộ đặc biệt** - [[Gacha Đặc Biệt]]
 Bấm vào sẽ vào các màn hình Gacha riêng.

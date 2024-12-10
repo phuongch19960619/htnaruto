@@ -5,7 +5,7 @@ Một số tính năng khi unlock sẽ có [[Pop-up]] thông báo.
 
 | Level | Feature Unlock                        | is[[Pop-up]]? | Locked Feature                                        |
 | ----- | ------------------------------------- | ------------- | ----------------------------------------------------- |
-| 1     | [[Lobby System]]                      |               | [[Phụ Bản System]]                                    |
+| 1     | [[Lobby System (Home)]]                      |               | [[Phụ Bản System]]                                    |
 | 1     | [[Currency - System]]                 |               |                                                       |
 | 1     | [[Tutorial]]                          |               |                                                       |
 | 1     | [[Event Riêng System]]                |               |                                                       |

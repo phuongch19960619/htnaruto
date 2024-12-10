@@ -9,7 +9,7 @@ Docs System gốc: [Link](https://docs.google.com/document/d/157v7k435b_zcDH5bT2
 Docs Balance gốc: Link
 
 # Vị trí tính năng
-Từ màn hình [[Lobby System]], vào Vòng Quay.
+Từ màn hình [[Lobby System (Home)]], vào Vòng Quay.
 ![[20241119153810.png]]
   
 # Mô tả tính năng
@@ -31,7 +31,7 @@ Từ màn hình [[Lobby System]], vào Vòng Quay.
 
 | ID  | Giải nghĩa                                                     |
 | --- | -------------------------------------------------------------- |
-| 1   | Back Button về lại [[Lobby System]].                           |
+| 1   | Back Button về lại [[Lobby System (Home)]].                           |
 | 2   | Thanh tài nguyên. Không bấm được.                              |
 | 3   | Đồng hồ đếm ngược làm mới. Không bấm được.                     |
 | 4   | Vòng quay.                                                     |
@@ -50,7 +50,7 @@ Từ màn hình [[Lobby System]], vào Vòng Quay.
 
 | ID  | Giải nghĩa                                                     |
 | --- | -------------------------------------------------------------- |
-| 1   | Back Button về lại [[Lobby System]].                           |
+| 1   | Back Button về lại [[Lobby System (Home)]].                           |
 | 2   | Thanh tài nguyên. Không bấm được.                              |
 | 3   | Đồng hồ đếm ngược làm mới. Không bấm được.                     |
 | 4   | Vòng quay                                                      |

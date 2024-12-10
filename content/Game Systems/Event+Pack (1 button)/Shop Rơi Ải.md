@@ -9,7 +9,7 @@ Cấu tạo tương tự một [[Shop System]] - có mua bán và các button t�
 
 | ID  | Detail                                                              |
 | --- | ------------------------------------------------------------------- |
-| 1   | Button - Back về [[Lobby System]].                                  |
+| 1   | Button - Back về [[Lobby System (Home)]].                                  |
 | 2   | [[Event Pack System]] - tab sự kiện tuần                            |
 | 3   | [[Event Pack System]] - tab sự kiện tháng                           |
 | 4   | [[Event Pack System]] - tab ưu đãi                                  |

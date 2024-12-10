@@ -4,7 +4,7 @@ tags:
   - duongnd
 ---
 # Vị trí tính năng
-Từ màn hình [[Lobby System]], ấn vào [[Gacha System]] rồi ấn Chiêu Mộ Đặc Biệt Sau đó bấm vào Tab Hoán Đổi Thuyền Viên.
+Từ màn hình [[Lobby System (Home)]], ấn vào [[Gacha System]] rồi ấn Chiêu Mộ Đặc Biệt Sau đó bấm vào Tab Hoán Đổi Thuyền Viên.
 
 # Mô tả tính năng
 

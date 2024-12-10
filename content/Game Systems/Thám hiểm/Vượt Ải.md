@@ -6,7 +6,7 @@ tags:
   - readyUI
 ---
 # Vị trí tính năng
-Từ [[Lobby System]], bấm vào [[Thám Hiểm System]], Bấm vào Vượt Ải.
+Từ [[Lobby System (Home)]], bấm vào [[Thám Hiểm System]], Bấm vào Vượt Ải.
 
 ![[20241112155058.png]]
 

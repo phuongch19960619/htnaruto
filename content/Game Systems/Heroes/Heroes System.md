@@ -4,7 +4,7 @@ tags:
   - system
   - tiennt
 ---
-Từ màn hình [[Lobby System]], vào danh sách Thuyền Viên qua Button.
+Từ màn hình [[Lobby System (Home)]], vào danh sách Thuyền Viên qua Button.
 ![[20241113171116.png]]
 ![[20241126155433.png]]
 Bấm vào một hình ảnh thuyền viên bất kì để vào màn hình [[Thông Tin Tướng]].

@@ -10,7 +10,7 @@ Trong thời gian diễn ra sự kiện, người chơi sử dụng [[Bánh Lái
 
 | ID  | Detail                                                                 |
 | --- | ---------------------------------------------------------------------- |
-| 1   | Button Back. Bấm về [[Lobby System]]                                   |
+| 1   | Button Back. Bấm về [[Lobby System (Home)]]                                   |
 | 2   | Thanh tiền tệ [[Bánh Lái Chiêu Mộ]]. Không thể bấm.                    |
 | 3   | Background sự kiện. Không thể bấm.                                     |
 | 4   | Tướng lựa chọn khi dùng [[Bánh Lái Chiêu Mộ]]. Bấm để chọn tướng.      |

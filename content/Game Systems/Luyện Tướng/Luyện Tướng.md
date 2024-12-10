@@ -12,7 +12,7 @@ Từ Giao diện chính > Luyện tướng
 
 | ID  | Giải nghĩa                       |
 | --- | -------------------------------- |
-| 1   | Nút back trở về [[Lobby System]] |
+| 1   | Nút back trở về [[Lobby System (Home)]] |
 | 2   | Khu vực luyện tướng              |
 | 3   | Nút hợp thành tướng              |
 | 4   | Tên Hệ đang chọn để luyện tướng  |

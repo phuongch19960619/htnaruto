@@ -5,7 +5,7 @@ tags:
   - readyUI
 ---
 # Vị trí tính năng
-Từ [[Lobby System]], vào [[Thư Viện]], bấm vào [[Thông Tin Tướng]], mở tab[[Trang bị Đặc Thù]]
+Từ [[Lobby System (Home)]], vào [[Thư Viện]], bấm vào [[Thông Tin Tướng]], mở tab[[Trang bị Đặc Thù]]
 # Mô tả tính năng
 
 ![[20241209141229.png]]

@@ -9,7 +9,7 @@ Docs System gốc: [Link](https://docs.google.com/document/d/1-s9oifMxRcEZhxFoN-
 Docs Balance gốc: Link
 
 # Vị trí tính năng
-Ngoài [[Lobby System]], ấn vào biểu tượng Điểm Danh
+Ngoài [[Lobby System (Home)]], ấn vào biểu tượng Điểm Danh
 ![[20241119160012.png]]
 # Mô tả tính năng
 
