@@ -5,7 +5,8 @@ tags:
 ---
 Thuộc nhóm [[Event Pack System]]. Shop nằm trong Tab **Sự Kiện Tuần**.
 Cấu tạo tương tự một [[Shop System]] - có mua bán và các button tương tự.
-![[20241129152122.png]]
+
+![[20241210104354.png]]
 
 | ID  | Detail                                                              |
 | --- | ------------------------------------------------------------------- |
@@ -21,3 +22,10 @@ Cấu tạo tương tự một [[Shop System]] - có mua bán và các button t�
 | 10  | Số lượng vật phẩm dùng trong event -> [[Dép Luffy]].                |
 | 11  | Thông tin 1 ô shop. Gồm: tag limited, hình ảnh, số lượng và giá cả. |
 Các đồ Limited chỉ có thể mua 10 lần.
+Khi mua hết sẽ có biểu tượng Sold Out. 
+
+![[20241210104219.png]]
+
+Bấm vào mua tiếp sẽ hiển thị [[Floating Thông Báo]] "Hết Lượt Mua"
+
+![[20241210104254.png]]
