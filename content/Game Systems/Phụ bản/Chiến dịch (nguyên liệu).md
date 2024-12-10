@@ -3,6 +3,7 @@ tags:
   - phuban
   - tiennt
   - pve
+  - readyUI
 ---
 # Vị trí tính năng
 Từ [[Lobby System (Home)]], chọn [[Phụ Bản System]], sau đó chọn Chiến Dịch.
