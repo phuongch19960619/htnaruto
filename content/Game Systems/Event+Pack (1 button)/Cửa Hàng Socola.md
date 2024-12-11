@@ -14,7 +14,7 @@ Cấu tạo tương tự một [[Shop System]] - có mua bán và các button t�
 | 2   | [[Event Pack System]] - tab sự kiện tuần                            |
 | 3   | [[Event Pack System]] - tab sự kiện tháng                           |
 | 4   | [[Event Pack System]] - tab ưu đãi                                  |
-| 5   | [[Shop Đại Hải Tăc]]                                                |
+| 5   | [[Shop Đại Hải Tặc]]                                                |
 | 6   | Icon + tab sự kiện Cửa Hàng Socola                                  |
 | 7   | Thanh tiền tệ: [[Beli]] và [[Kim Cương]]                            |
 | 8   | Background                                                          |

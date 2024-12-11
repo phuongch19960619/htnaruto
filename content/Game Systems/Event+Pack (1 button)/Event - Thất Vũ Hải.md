@@ -18,7 +18,7 @@ Người chơi sử dụng [[Ống Nhòm]] để đánh boss, mỗi lần tấn 
 | --- | -------------------------------------------------------------------------- |
 | 1   | Button - Back về Lobby                                                     |
 | 2   | Thanh tiền tệ                                                              |
-| 3   | [[Shop Đại Hải Tăc]]                                                       |
+| 3   | [[Shop Đại Hải Tặc]]                                                       |
 | 4   | [[Event Pack System]] - tab sự kiện tuần                                   |
 | 5   | [[Event Pack System]] - tab sự kiện tháng                                  |
 | 6   | [[Event Pack System]] - tab ưu đãi                                         |

@@ -9,11 +9,11 @@ Cấu tạo tương tự một [[Shop System]] - có mua bán và các button t�
 
 | ID  | Detail                                                              |
 | --- | ------------------------------------------------------------------- |
-| 1   | Button - Back về [[Lobby System (Home)]].                                  |
+| 1   | Button - Back về [[Lobby System (Home)]].                           |
 | 2   | [[Event Pack System]] - tab sự kiện tuần                            |
 | 3   | [[Event Pack System]] - tab sự kiện tháng                           |
 | 4   | [[Event Pack System]] - tab ưu đãi                                  |
-| 5   | [[Shop Đại Hải Tăc]]                                                |
+| 5   | [[Shop Đại Hải Tặc]]                                                |
 | 6   | Icon + tab sự kiện Shop Rơi Ải                                      |
 | 7   | Thanh tiền tệ: [[Beli]] và [[Kim Cương]]                            |
 | 8   | Background                                                          |
