@@ -8,7 +8,7 @@ tags:
 # 11 Dec 2024
 - Thêm mới: [[Shop Đại Hải Tặc]].
 - Thêm mới: [[Socola]], [[Cửa Hàng Socola]].
-- 
+- Update background cho [[Tháp Đơn]].
 # 10 Dec 2024
 - Bổ sung [[Tool-tip]] Tướng.
 - Thêm mới: [[Shop Cỏ 4 Lá]].
