@@ -9,7 +9,7 @@ Docs System gốc: [Link](https://docs.google.com/document/d/157v7k435b_zcDH5bT2
 Docs Balance gốc: Link
 
 # Vị trí tính năng
-Từ màn hình [[Lobby System]], vào Vòng Quay.
+Từ màn hình [[Lobby System (Home)]], vào Vòng Quay.
 ![[20241119153810.png]]
   
 # Mô tả tính năng
@@ -31,7 +31,7 @@ Từ màn hình [[Lobby System]], vào Vòng Quay.
 
 | ID  | Giải nghĩa                                                     |
 | --- | -------------------------------------------------------------- |
-| 1   | Back Button về lại [[Lobby System]].                           |
+| 1   | Back Button về lại [[Lobby System (Home)]].                           |
 | 2   | Thanh tài nguyên. Không bấm được.                              |
 | 3   | Đồng hồ đếm ngược làm mới. Không bấm được.                     |
 | 4   | Vòng quay.                                                     |
@@ -50,7 +50,7 @@ Từ màn hình [[Lobby System]], vào Vòng Quay.
 
 | ID  | Giải nghĩa                                                     |
 | --- | -------------------------------------------------------------- |
-| 1   | Back Button về lại [[Lobby System]].                           |
+| 1   | Back Button về lại [[Lobby System (Home)]].                           |
 | 2   | Thanh tài nguyên. Không bấm được.                              |
 | 3   | Đồng hồ đếm ngược làm mới. Không bấm được.                     |
 | 4   | Vòng quay                                                      |
@@ -80,7 +80,7 @@ Khi quay mà không đủ điều kiện sẽ hiển thị [[Floating Thông Bá
 ## Làm mới
 - Đến 0h mỗi ngày sẽ bắt buộc làm mới item trong vòng quay
 - Lần đầu trong ngày sẽ free làm mới (không mất kim cương).
-- Các lần tiếp theo mất 40 [[kim cương]], không giới hạn lượt làm mới.
+- Các lần tiếp theo mất 40 [[Kim Cương]], không giới hạn lượt làm mới.
 
 | Lần | Kim cương |
 | --- | --------- |
@@ -124,7 +124,7 @@ Khi quay mà không đủ điều kiện sẽ hiển thị [[Floating Thông Bá
 
 - Quay vòng quay Siêu cấp không nhận được [[Cỏ 4 Lá]]
 # Xu Quay 
-- Khi hết có thể mua bằng [[Kim cương]]
+- Khi hết có thể mua bằng [[Kim Cương]]
 
 | Xu                     | Kim Cương      |
 | ---------------------- | -------------- |

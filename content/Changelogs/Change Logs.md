@@ -5,6 +5,17 @@ tags:
   - duongnd
   - system
 ---
+# 10 Dec 2024
+- Bổ sung [[Tool-tip]] Tướng.
+- Thêm mới: [[Shop Cỏ 4 Lá]].
+- Thêm mới: [[Event - Xu Vòng Quay]].
+- Thêm mới: [[Event - Xu Vòng Quay Siêu Cấp]].
+- Thêm mới: [[Chiến Dịch (nguyên liệu)]].
+# 9 Dec 2024
+- Thêm mới: [[Trang bị Đặc Thù]]
+- Thêm mới: [[Luyện Tướng]]
+# 6 Dec 2024
+- Update Item List.
 # 5 Dec 2024
 - [[Event - Thất Vũ Hải]].
 # 4 Dec 2024

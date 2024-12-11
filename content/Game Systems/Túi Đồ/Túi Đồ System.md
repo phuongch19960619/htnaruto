@@ -11,7 +11,7 @@ Docs System gốc: [Link](https://docs.google.com/document/d/1JdnhyscNBfg8OK7Ss5
 Docs Balance gốc: Link
 
 # Vị trí tính năng
-Từ [[Lobby System]], ấn vào Túi Đồ để vào tính năng. 
+Từ [[Lobby System (Home)]], ấn vào Túi Đồ để vào tính năng. 
 ![[20241119150417.png]]
 
 ![[HTHT-TuiDo.mp4]]
@@ -20,7 +20,7 @@ Từ [[Lobby System]], ấn vào Túi Đồ để vào tính năng.
 
 | ID  | Giải nghĩa                                                |
 | --- | --------------------------------------------------------- |
-| 1   | Back Button. Bấm về [[Lobby System]].                     |
+| 1   | Back Button. Bấm về [[Lobby System (Home)]].                     |
 | 2   | Tên Tính năng: **Túi Đồ**. Không thể bấm.                 |
 | 3   | Trang bị Phẩm cao có effect.                              |
 | 4   | Background Túi đồ.                                        |

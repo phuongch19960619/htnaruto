@@ -25,5 +25,7 @@ Người chơi đạt đủ điểm trong event sẽ nhận lại quà qua [[Th�
 Luật chơi:
 1. Trong thời gian diễn ra sự kiện, cứ 1 lần [[Gacha Đặc Biệt]] sẽ tích 1 điểm thưởng.
 2. Có 4 vòng chơi. Mỗi vòng sẽ có các yêu cầu tích điểm riêng xem trong file balance.
-3. Phần thưởng tự động gửi về hòm thư - Tiêu đề: Chiêu Mộ Đặc Biệt. Nội dung bên trong: "Phần thưởng sự kiện Chiêu Mộ Đặc Biệt".
+3. Nhiệm vụ khi hoàn thành sẽ được đẩy xuống dưới cùng và có trạng thái hoàn thành.
+![[20241210104743.png]]
+4. Phần thưởng tự động gửi về hòm thư - Tiêu đề: Chiêu Mộ Đặc Biệt. Nội dung bên trong: "Phần thưởng sự kiện Chiêu Mộ Đặc Biệt".
 ![[20241118114228.png]]

@@ -24,5 +24,5 @@ Người chơi đạt đủ điểm trong event sẽ nhận lại quà qua [[Th�
 
 **Luật chơi:**
 1. Trong thời gian diễn ra sự kiện, cứ 1 lần Luyện tướng sẽ nhận thưởng có giới hạn.
-2. Phần thưởng tự động gửi về hòm thư - Tiêu đề: Luyện Hải Tặc. Nội dung bên trong: "Phần thưởng sự kiện Luyện Hải Tặc".
+3. Phần thưởng tự động gửi về hòm thư - Tiêu đề: Luyện Hải Tặc. Nội dung bên trong: "Phần thưởng sự kiện Luyện Hải Tặc".
 ![[20241118114228.png]]

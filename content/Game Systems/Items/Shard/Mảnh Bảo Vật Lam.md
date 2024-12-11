@@ -7,7 +7,9 @@ tags:
 | ID  | Hình Ảnh   | Tính năng sử dụng             |
 | --- | ---------- | ----------------------------- |
 | 5   | ![[5.png]] | Dùng trong [[Túi Đồ System]]. |
+
 **Hình trong game**
+
 -
 
 | Tính Năng           | Tìm thấy trong |

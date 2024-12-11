@@ -7,7 +7,9 @@ tags:
 | ID  | Hình Ảnh   | Tính năng sử dụng       |
 | --- | ---------- | ----------------------- |
 | 2   | ![[2.png]] | Dùng trong [[Đột Phá]]. |
+
 **Hình trong game**
+
 ![[20241121160854.png]]
 
 | Tìm thấy trong  |

@@ -6,14 +6,14 @@ tags:
   - tiennt
 ---
 # Vị trí tính năng
-Từ màn hình [[Lobby System]], ấn vào [[Gacha System]] rồi ấn Chiêu Mộ.
+Từ màn hình [[Lobby System (Home)]], ấn vào [[Gacha System]] rồi ấn Chiêu Mộ.
 
 # Mô tả tính năng
 ![[20241111145409.png]]
 
 | ID  | Giải nghĩa                                                                              |
 | --- | --------------------------------------------------------------------------------------- |
-| 1   | Back Button. Bấm về [[Lobby System]]                                                    |
+| 1   | Back Button. Bấm về [[Lobby System (Home)]]                                                    |
 | 2   | Thanh tài nguyên. Không bấm được.                                                       |
 | 3   | Thanh [[Điểm Tích Lũy]]. Bấm vào sẽ bung [[Floating Thông Báo]] hoặc [[Pop-up thưởng]]. |
 | 4   | Button Info. Bấm ra [[Pop-up]] [[Info Banner Gacha]]                                    |

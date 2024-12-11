@@ -8,7 +8,7 @@ Docs System gốc: [Link](https://docs.google.com/document/d/12JphWKZLjPIt8g74OX
 Docs Balance gốc: Link
 
 # Vị trí tính năng
-Ngoài [[Lobby System]], chọn [[Heroes System]] sau đó vào Tab Trang Bị.
+Ngoài [[Lobby System (Home)]], chọn [[Heroes System]] sau đó vào Tab Trang Bị.
 
 ![[HTHT-TrangBi-Location.mp4]]
 # Mô tả tính năng

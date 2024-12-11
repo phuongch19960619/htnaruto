@@ -6,14 +6,14 @@ tags:
   - readyUI
 ---
 # Vị trí tính năng
-Từ màn hình [[Lobby System]], ấn vào [[Gacha System]] rồi ấn Chiêu Mộ Đặc Biệt.
+Từ màn hình [[Lobby System (Home)]], ấn vào [[Gacha System]] rồi ấn Chiêu Mộ Đặc Biệt.
 
 # Mô tả tính năng
 ![[20241111161613.png]]
 
 | ID  | Giải nghĩa                                                     |
 | --- | -------------------------------------------------------------- |
-| 1   | Back Button. Bấm sẽ về [[Lobby System]].                       |
+| 1   | Back Button. Bấm sẽ về [[Lobby System (Home)]].                       |
 | 2   | Thanh tài nguyên. Không bấm được.                              |
 | 3   | Button Info. Bấm ra [[Pop-up]] [[Info Chiêu Mộ Đặc Biệt]]      |
 | 4   | Button Info. Bấm ra [[Pop-up]] [[Hướng dẫn Chiêu Mộ Đặc Biệt]] |

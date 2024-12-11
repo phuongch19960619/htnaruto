@@ -4,7 +4,7 @@ tags:
   - tiennt
 ---
 # Vị trí tính năng
-Từ [[Lobby System]], ấn vào biểu tượng Thư để mở tính năng.
+Từ [[Lobby System (Home)]], ấn vào biểu tượng Thư để mở tính năng.
 ![[20241120101835.png]]
 **Video**
 ![[HTHT-Mail.mp4]]

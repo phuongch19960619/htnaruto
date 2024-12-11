@@ -21,7 +21,10 @@ Người chơi đạt đủ điểm trong event sẽ nhận lại quà qua [[Th�
 | 9   | Nội dung Event                            |
 
 **Luật chơi:**
-1. Trong thời gian diễn ra sự kiện, nếu chiến thắng [[Chiến Trường - Đơn Đấu]] và Liên Đấu sẽ tích 2 điểm thưởng, thua tích 1 điểm thưởng.
-2. Phần thưởng tự động gửi về hòm thư - Tiêu đề: Chiến Trường. Nội dung bên trong: "Phần thưởng sự kiện Chiến Trường".
+- Trong thời gian diễn ra sự kiện, nếu chiến thắng [[Chiến Trường - Đơn Đấu]] và Liên Đấu sẽ tích 2 điểm thưởng, thua tích 1 điểm thưởng.
+- Nhiệm vụ khi hoàn thành sẽ được đẩy xuống dưới cùng và có trạng thái hoàn thành.
+![[20241210104743.png]]
+
+- Phần thưởng tự động gửi về hòm thư - Tiêu đề: Chiến Trường. Nội dung bên trong: "Phần thưởng sự kiện Chiến Trường".
 ![[20241118114228.png]]
 

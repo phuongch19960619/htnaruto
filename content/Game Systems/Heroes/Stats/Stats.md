@@ -63,3 +63,6 @@ VD: sát thương chuẩn là 5% thì 5% Công sẽ bỏ qua phòng thủ và gi
 1. Mỗi mục tiêu có 1 tỷ lệ riêng với mỗi loại tỷ lệ
 
 Ví dụ: skill tấn công 3 mục tiêu và có 33% tỷ lệ làm choáng thì mỗi mục tiêu (3 mục tiêu bị tấn công) có 33% cơ hội bị choáng tức là có thể mục tiêu 1 và 2 bị choáng mục tiêu 3 không bị choáng
+
+# Các hiệu ứng sát thương theo thời gian
+Các hiệu ứng chịu sát thương theo thời gian chỉ chịu ảnh hưởng bởi chỉ số skill và xóa hiệu ứng xấu. (Không chịu tác động giảm sát thương, tăng sát thương,.....)

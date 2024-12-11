@@ -5,7 +5,7 @@ tags:
   - readyUI
 ---
 # Vị trí tính năng
-Ngoài [[Lobby System]], tap vào bảng tên.
+Ngoài [[Lobby System (Home)]], tap vào bảng tên.
 ![[20241119165647.png]]
 
 # Mô tả tính năng

@@ -10,14 +10,14 @@ Docs Balance gốc: Link
 
 Check form [[Bảo Vật]]  và [[Heroes System]]
 # Vị trí tính năng
-Từ màn hình [[Lobby System]], chọn Thám Hiểm để vào tính năng.
+Từ màn hình [[Lobby System (Home)]], chọn Thám Hiểm để vào tính năng.
 ![[20241125163405.png]]
 # Tổng Quan
 ![[20241113105033.png]]
 
 | ID  | Giải nghĩa                                                           |
 | --- | -------------------------------------------------------------------- |
-| 1   | Back Button. Bấm sẽ về [[Lobby System]].                             |
+| 1   | Back Button. Bấm sẽ về [[Lobby System (Home)]].                             |
 | 2   | Tên Ải tương ứng trong [[Địa Điểm Thám Hiểm]]. Không thể bấm.        |
 | 3   | Button xem top vượt ải. Bấm ra [[Top Vượt Ải]].                      |
 | 4   | Button hướng dẫn. Bấm ra [[Info Vượt ải]].                           |

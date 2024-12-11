@@ -6,7 +6,7 @@ tags:
   - readyUI
 ---
 # Vị trí tính năng
-Từ màn hình [[Lobby System]], bấm vào Thành Tựu để hiện ra [[Pop-up]] Thành Tựu.
+Từ màn hình [[Lobby System (Home)]], bấm vào Thành Tựu để hiện ra [[Pop-up]] Thành Tựu.
 ![[20241204110128.png]]
 
 # Mô tả tính năng
@@ -16,7 +16,7 @@ Từ màn hình [[Lobby System]], bấm vào Thành Tựu để hiện ra [[Pop-
 | --- | --------------------------------------------------- |
 | 1   | Tab Thành Tựu. Mặc định vào Tab này khi mở UI.      |
 | 2   | Tab Thông Thạo. Xem bên dưới.                       |
-| 3   | Đóng Pop-up. Trở về [[Lobby System]].               |
+| 3   | Đóng Pop-up. Trở về [[Lobby System (Home)]].               |
 | 4   | Khu vực thể hiện danh sách thành tựu.               |
 | 5   | Nội dung 1 thành tựu. Không thể bấm.                |
 | 6   | Nhiệm Vụ để đạt được quà.                           |
@@ -38,7 +38,7 @@ Các nhiệm vụ đã nhận thưởng xong sẽ bị đẩy xuống dưới c�
 | --- | ------------------------------------------------------------ |
 | 1   | Tab Thành Tựu. Bấm mở tab.                                   |
 | 2   | Tab Thông Thạo.                                              |
-| 3   | Đóng Pop-up. Trở về [[Lobby System]].                        |
+| 3   | Đóng Pop-up. Trở về [[Lobby System (Home)]].                        |
 | 4   | Khu vực thể hiện danh sách thông thạo.                       |
 | 5   | Tổng số lượng cúp mà người chơi đã đạt.                      |
 | 6   | Tính năng Leagues. Bấm vào ra UI leagues như trên.           |
@@ -53,7 +53,7 @@ Các nhiệm vụ đã nhận thưởng xong sẽ bị đẩy xuống dưới c�
 | --- | ------------------------------------------------------------- |
 | 1   | Tab Thành Tựu. Bấm mở tab.                                    |
 | 2   | Tab Thông Thạo.                                               |
-| 3   | Đóng Pop-up. Trở về [[Lobby System]].                         |
+| 3   | Đóng Pop-up. Trở về [[Lobby System (Home)]].                         |
 | 4a  | Danh sách tướng. Có thể scroll lên xuống.                     |
 | 4b  | Danh sách nhiệm vụ. Có thể scroll lên xuống.                  |
 | 5   | Hình ảnh nhân vật trong trạng thái chưa select.               |
