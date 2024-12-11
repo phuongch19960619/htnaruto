@@ -5,6 +5,10 @@ tags:
   - duongnd
   - system
 ---
+# 11 Dec 2024
+- Thêm mới: [[Shop Đại Hải Tặc]].
+- Thêm mới: [[Socola]], [[Cửa Hàng Socola]].
+- 
 # 10 Dec 2024
 - Bổ sung [[Tool-tip]] Tướng.
 - Thêm mới: [[Shop Cỏ 4 Lá]].
