@@ -32,21 +32,15 @@ Sử dụng 1 đội hình để khiêu chiến tầng (bao gồm max 6 tướng
 - Danh sách quà theo tầng. File Balance
 # Background Đấu Đơn
 
-- Cấu trúc: theo từng tầng, mỗi tầng sẽ
-![[20241210174327.png]]
+Cấu trúc tương tự như game gốc
+![[20241211150926.png]]
 
-Background dạng cuộn nói liền với nhau
-![[20241210174936.png]]
-Background nối liền vô hạn với nhau
-![[20241210175344.png]]
+Thay thế cây đậy bằng **Tháp dưới biển Impel Down** - vẽ bên ngoài của tháp - không phải vẽ bên trong 
+- Tương tự game gốc có thể kéo lên kéo xuống đậu thần thì mình cũng có thể kéo lên kéo xuống tháp
+![[HuyềnThoạiHảiTặc(11).mp4]]
+Background sẽ là khung cảnh dưới biển
 
-# Background Đấu Đơn | Chinh phục New World
+![[20241211150856.png]]
 
-Background thể hiện bản đồ thế giới trong ONE PIECE
-Có đặt 4 địa điểm tương ứng như 4 tầng trong tháp. Lần lượt sẽ đánh từ trái qua phải
-
-![[image_2024-12-11_11-16-29.png]]
-
-Khi đánh hết 4 tầng sẽ hiện ra 4 tầng mới.
-Số tầng: hiển thị ở vị trí
-![[20241211113242.png]]
+REF thêm: 
+![[20241211151449.png]]
