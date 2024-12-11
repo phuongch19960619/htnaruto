@@ -5,6 +5,8 @@ tags:
   - duongnd
   - system
 ---
+# 12 Dec 2024
+- Thêm mới: [[Marineford Tổng bộ (Ủy thác)]].
 # 11 Dec 2024
 - Thêm mới: [[Shop Đại Hải Tặc]].
 - Thêm mới: [[Socola]], [[Cửa Hàng Socola]].
