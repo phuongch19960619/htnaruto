@@ -5,8 +5,13 @@ tags:
   - duongnd
   - system
 ---
+# 13 Dec 2024
+- Thêm mới: [[Boss Akainu]] và [[Shop Akainu]], chỉnh sửa item [[Tín Vật Hải Tặc]].
 # 12 Dec 2024
 - Thêm mới: [[Marineford Tổng bộ (Ủy thác)]].
+- Thêm mới: [[Shop Huy Hiệu Rank S]].
+- Thêm mới: [[Kho Báu Huyền Thoại]].
+- Thêm mới: [[Event - Tích Lũy VIP EXP]].
 # 11 Dec 2024
 - Thêm mới: [[Shop Đại Hải Tặc]].
 - Thêm mới: [[Socola]], [[Cửa Hàng Socola]].
