@@ -44,14 +44,33 @@ Docs Balance gốc: Link
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdyyWyKpSi_yZZKrnFASHRflT2mLi-NS3hoiE2KIDb884q9ZUyRjjyMBkytVdv1lGYMIr2mmNeyOMr5ED_duhfAJWNApsVHZJUvMIxtIbIikyUKfLHjskOWBOfH0fRY75rRQtFGOw?key=nlnMGZKBeP7GlgWLaIIXgpqX)
 
 Giá mở slot
+**
 
-| Lần | Giá [[Kim Cương]] | Tổng slot tướng của người chơi |
-| --- | ----------------- | ------------------------------ |
-| 1   | 100               | 65                             |
-| 2   | 100               | 70                             |
-| 3   | 200               | 75                             |
-| 4   | 200               | 80                             |
-| 5   | 300               | 85                             |
+| Lần        | Giá        | Tổng slot tướng |
+| ---------- | ---------- | --------------- |
+| 1          | 100        | 65              |
+| 2          | 200        | 70              |
+| 3          | 300        | 75              |
+| 4          | 400        | 80              |
+| 5          | 500        | 85              |
+| 6          | 600        | 90              |
+| 7          | 700        | 95              |
+| 8          | 800        | 100             |
+| 9          | 900        | 105             |
+| 10         | 1000       | 110             |
+| 11         | 1100       | 115             |
+| 12         | 1200       | 120             |
+| 13         | 1300       | 125             |
+| 14         | 1400       | 130             |
+| 15         | 1500       | 135             |
+| 16         | 1600       | 140             |
+| 17         | 1700       | 145             |
+| 18         | 1800       | 150             |
+| 19         | 1900       | 155             |
+| 20         | 2000       | 160             |
+| ….. config | ….. config | ….. config      |
+
+**
 Ngoài ra, người chơi có thể mở rộng slot thông qua [[Túi Thuyền Trưởng]].
 # Trợ Giúp
 - Khi click vào sẽ hiển thị ra bảng [[Pop-up]] có text mô tả 
