@@ -1,6 +1,7 @@
 ---
 tags:
   - phuongch
+  - readyUI
 ---
 Lối vào
 Từ Giao diện chính > Luyện tướng

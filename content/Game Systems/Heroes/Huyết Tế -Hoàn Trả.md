@@ -19,7 +19,7 @@ Giao diện Huyết Tế
 | --- | ----------------------------------------------- |
 | 1   | Back Button về lại giao diện chính              |
 | 2   | Huyết Tế                                        |
-| 3   | Hoàn Trả                                        |
+| 3   | Hoàn Trả (click vào ra giao diện hoàn trả)      |
 | 4   | [[Đá EXP]] hiện tại                             |
 | 5   | [[Đá Cường Hóa]] hiện tại                       |
 | 6   | Info Huyết tế                                   |
