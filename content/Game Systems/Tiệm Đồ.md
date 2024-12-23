@@ -5,7 +5,7 @@ tags:
 ---
 
 # Vị trí tính năng
-Ngoài [[Lobby System (Home)]], chọn [[Tiệm Đồ]]
+Ngoài [[Lobby System (Home)]], chọn [[Tiệm Đồ]].
 ![[20241216153716.png]]
 # Mô Tả Tính Năng
 ![[20241216153819.png]]
